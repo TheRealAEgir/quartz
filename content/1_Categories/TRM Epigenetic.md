@@ -7,6 +7,8 @@ Les TRM ont un profile épigénétique distinct des TEX générés dans un modè
 Dans un modèle d'infection par LCMV, les TRM ont une chromatine ouverte pour CD69/NR4A1 et fermée pour KLF2/S1PR1, 7 jours après l'infection [[Milner_Nature_2017]].
 
 En utilisant le RNA seq et le WGBS, [[Fonseca_NatImmunol_2020]] décrivent qu'alors que le transcriptome des TRM est plus proche des lymphocytes T effecteurs que des TEM/TCM, le profil épigénétique des TRM est similaire avec les TCM/TEM.
+
+Il existerai une reprogrammation épigénétique des lymphocytes T naïfs par les mDC *via* le TGFb qui les prédisposerait à devenir des TRM [[Mani_Science_2019a]].
 ## List of used references
 ```dataview
 LIST

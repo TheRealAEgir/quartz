@@ -25,6 +25,7 @@ Deux cytokines ont été très rapidement démontré comme étant responsable de
 11. Le TGFb est synthétisé sous forme inactive liée avec le peptide LAP. Celui-ci est activé par clivage par les intégrines alphaVbeta6 ou alphaVbeta8, et ce processus est régulé [[Mohammed_NatImmunol_2016a]].
 12. Les TRM nécéssitent une signalisation TGFb activé par les kératinocytes via les intégrines alphaVbeta6/8 pour leur survie [[Hirai_Immunity_2019]].
 13. Des co-culture entre des lymphocytes T et des cellules DC3 induit l'expression de CD103 de manière TGFb dépendante [[Bourdely_Immunity_2020]].
+14. Le TGFb présenté par les mDC dans les LN prédisposerait les lymphocytes naïfs à devenir des TRM *via* une reprogrammation épigénétique [[Mani_Science_2019a]].
 ##### Rôle de l'antigène
 
 1. La différenciation des cellules en TRM pourrait être limité. Dans un environnement pauvre en TGFb, les cellules spécifiques de l'antigènes expriment plus fortement le TGFbRIII, leur donnant un avantage sur les cellules générées uniquement à partir d'une inflammation [[Weiss_eLife_2025]].
@@ -75,6 +76,7 @@ D'autres types cellulaires pourrait influencer la différenciation des TRM
 4. Le TGFb est maturé par le clivage de sa liaison avec le peptide LAP par les intégrines alphaVbeta6 et alphaVbeta8. ITGB6 et ITGB8 sont exprimés par les kératinocytes de la peau, et la délétion ou la neutralization de ces molécules sur ces cellules a un impact sur le nombre de TRM dans la phase mémoire, sans avoir d'effet sur le nombre de cellules recrutées dans la phase effectrice. Dans l'épithélium de l'intestin, mais pas la lamina propria, ITGB6 joue aussi un rôle [[Mohammed_NatImmunol_2016a]].
 5. Les cellules dendritiques DC3 joueraient un rôle dans la différenciation des TRM; la co-cultutre entre des lymphocytes T naïfs et des DC3 induit l'expression de CD103, et l'infiltration des tumeurs de cancer du sein par les DC3 est possitivement correlée avec les TRM CD69+CD103+ [[Bourdely_Immunity_2020]].
 6. Les TRM sont primés par des DC capables de cross-présentation de type cDC (CD11blowCD8alpha+), migratoire (CD103+), mais pas par les cDC CD11bhiCD8alpha- [[Iborra_Immunity_2016]].
+7. Les mDC prédisposent les lymphocytes T naïfs à devenir des TRM [[Mani_Science_2019a]].
 ### Différenciation en TRM : processus dynamique
 
 Il a été observé une hétérogénéité du phénotype des TRM, avec des populations qui semblent plus épuisées ou plus différenciés.

@@ -37,6 +37,8 @@ LM
 VacV skin infection that does not spread to other tissues. This generate a local and a systemic memory response and can be used to compare skin with or without TRM [[Khan_JExpMed_2016]]. (sometimes called VV for vaccinia virus)
 
 Transient depletion of CD4 with CD4-depleting antibody prior or concurent to infection (CD4 repopulation from thymus after ~2 weeks following GK1.5 treatement)
+
+Lymphotoxin-alpha KO mouse don't have LN [[Mani_Science_2019a]].
 ### Others
 
 Toxine pertussique.
