@@ -1,0 +1,1 @@
+pandoc "Thesis_inlined.md" -o "MyThesis.docx"
