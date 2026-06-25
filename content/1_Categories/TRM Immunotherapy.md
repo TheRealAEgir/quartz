@@ -9,6 +9,8 @@ Les patients avec une réponse aux ICB ont un enrichissement d'une signature de 
 Les TRM avec une signalisation constitutive HIF1a ont un meilleur contrôle tumoral dans des souris traitées avec des anti-PD1, bien que le traitement n'a pas plus d'effet sur ces cellules que des cellules KO. Ces observations sont perdues lorsque les souris sont traités avec des anti-CD103, démontrant un rôle pour CD103 dans ces expériences [[Liikanen_JClinInvest_2021]].
 Dans un modèle de cancer du sein chez la souris, il a été observé qu'il existait une population de TRM CD69+CD103+, et une population de TEX CD69+CD103-. Dans ce modèle, les TRM ont une plus forte augmentation de cytotoxicité médiée par l'IFNg et le TNFa après traitement avec des anti-PD1/anti-CLTA4 *ex vivo* [[Virassamy_CancerCell_2023]]. De plus, une signature extraite par bulk RNAseq de la population de TRM permet de prédire la réponse aux immunothérapides dans des cohortes de patients humains [[Virassamy_CancerCell_2023]].
 Une signature TRM est associée avec le pronostic des patients atteints de cancer, mais seule la signature TEX permet de prédire la réponse aux immunothérapies [[Burn_NatImmunol_2026]]
+[[Luoma_Cell_2022a]] ont observé des cellules avec un phénotype TRM dans les cancers HNSCC traités par anti-PD1 anti-CTLA4 dont la signature permet de prédire le pronostic dans une cohorte de cancer urothéliaux avec un traitement similaire.
+Les LT CD8+ CXCR6+ sont plus efficaces que les CXCR6- dans un modèle de tumeur chez la souris traité par anti-PD1 [[Wang_JImmunotherCancer_2021a]].
 ## List of used references
 ```dataview
 LIST

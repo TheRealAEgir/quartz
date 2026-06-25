@@ -26,6 +26,8 @@ Deux cytokines ont été très rapidement démontré comme étant responsable de
 12. Les TRM nécéssitent une signalisation TGFb activé par les kératinocytes via les intégrines alphaVbeta6/8 pour leur survie [[Hirai_Immunity_2019]].
 13. Des co-culture entre des lymphocytes T et des cellules DC3 induit l'expression de CD103 de manière TGFb dépendante [[Bourdely_Immunity_2020]].
 14. Le TGFb présenté par les mDC dans les LN prédisposerait les lymphocytes naïfs à devenir des TRM *via* une reprogrammation épigénétique [[Mani_Science_2019a]].
+15. Les DC CD1c+, mais pas les DC CD141+ induise l'expression de CD103 sur les lymphocytes T de mannière TGFb dépendante [[Yu_Immunity_2013]].
+16. L'exposition au TGFb dès le priming d'un lymphocyte T pourrait favoriser sa différenciation vers un phénotype TRM exprimant CD103 [[Thompson_CellRep_2019]].
 ##### Rôle de l'antigène
 
 1. La différenciation des cellules en TRM pourrait être limité. Dans un environnement pauvre en TGFb, les cellules spécifiques de l'antigènes expriment plus fortement le TGFbRIII, leur donnant un avantage sur les cellules générées uniquement à partir d'une inflammation [[Weiss_eLife_2025]].
@@ -45,6 +47,7 @@ Deux cytokines ont été très rapidement démontré comme étant responsable de
 3. La molécule de co-stimulation induite après l'activation TCR d'un lymphocyte T naïf 4-1BB pourrait aussi jouer un rôle. En effet, l'ajout de 4-1BBL dans un vaccin a montré l'augmentation de la formation de TRM spécifique de l'antigène. De plus, le co-transfert de cellules WT ou KO pour 4-1BB (*via* une greffe de moelle osseuse) montre que la majorité des cellules spécifiques pour l'antigène proviennent des cellules WT. Ces observations semblent être lié à un recrutement des TCIRC plutôt qu'à une prolifération des TRM [[Zhou_MucosalImmunol_2017]].
 4. Le traitement *in vitro* de lymphocytes avec du TNFa et de l'IL33 synergise avec le traitement avec du TGFb et entraine l'expression d'un phénotype TRM (CD69+CD103+Ly6Clow) [[Casey_JImmunol_2012]].
 5. Le blockage de l'IL-12 pendant le priming affecte la différentiation des TRM [[Iborra_Immunity_2016]].
+6. L'IL10 n'a pas d'impact direct sur la différenciationdes lymphocytes T en TRM, mais joue un rôle indirect en favorisant la sécrétion de TGFb par les monocytes [[Thompson_CellRep_2019]].
 ##### Rôle des facteurs de transcriptions
 
 De nombreux facteurs de transcriptions, en plus d'être fortement exprimés par les TRM, ont été démontré comme jouant un rôle dans leur différenciation, souvent en utilisant des expériences de KO. Afin de facilliter la lecture de cette partie, celle-ci sera résumée en un tableau disponible ci-dessous.
@@ -77,6 +80,8 @@ D'autres types cellulaires pourrait influencer la différenciation des TRM
 5. Les cellules dendritiques DC3 joueraient un rôle dans la différenciation des TRM; la co-cultutre entre des lymphocytes T naïfs et des DC3 induit l'expression de CD103, et l'infiltration des tumeurs de cancer du sein par les DC3 est possitivement correlée avec les TRM CD69+CD103+ [[Bourdely_Immunity_2020]].
 6. Les TRM sont primés par des DC capables de cross-présentation de type cDC (CD11blowCD8alpha+), migratoire (CD103+), mais pas par les cDC CD11bhiCD8alpha- [[Iborra_Immunity_2016]].
 7. Les mDC prédisposent les lymphocytes T naïfs à devenir des TRM [[Mani_Science_2019a]].
+8. Les DC CD1c+, mais pas les DC CD141+ induise l'expression de CD103 sur les lymphocytes T de mannière TGFb dépendante [[Yu_Immunity_2013]].
+9. Les monocytes du sang périphérique peuvent sécréter de l'IL10 après une activation, qui induit leur sécrétion de TGFb accroché à la membrane et favorise la différenciation des lymphocytes T en TRM [[Thompson_CellRep_2019]].
 ### Différenciation en TRM : processus dynamique
 
 Il a été observé une hétérogénéité du phénotype des TRM, avec des populations qui semblent plus épuisées ou plus différenciés.

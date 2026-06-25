@@ -10,6 +10,7 @@ Les lymphocytes T spécifiques d'antigènes peuvent être détectés en utilisan
 En utilisant le scTCRseq sur des TRM, [[Anadon_CancerCell_2022]] décrivent que l'immunogénécité des cancers ovariens dépend d'un faible nombre de séquences TCR (3% des séquences retrouvées dans la tumeur).
 En clonant la séquence TCR de TRM dans des cellules Jurkat et en faisant des co-culture autologue, il a été validé que ces séquences sont spécifiques d'antigènes portés par ces cellules tumorales [[Anadon_CancerCell_2022]].
 Il a été montré que des lymphocytes clonaux peuvent se différencier préférentiellement vers les TRM ou les TCIRCM, mais que la spécificité à l'antigène n'est pas impliqué dans ce mécanisme [[Kok_JExpMed_2020]].
+Dans les cancers HNSCC traités par ICB, il y a une expansion clonale dans les cellules avec un phénotype TRM après le traitement. Parmi les TCR retrouvés, [[Luoma_Cell_2022a]] ont validé la réactivité contre des antigènes tumoraux.
 ## List of used references
 ```dataview
 LIST

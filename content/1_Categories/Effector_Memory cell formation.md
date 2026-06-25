@@ -9,6 +9,7 @@ Bien que les MPEC n'expriment pas KLRG1, il semblerait qu'un partie des cellules
 D'un point de vue épigénétique, les cellules mémoires ressemblent aux cellules effectrices, mais n'expriment pas les même gènes [[Philip_Nature_2017]].
 
 L'IL-10 sécrété par les Treg a un impact sur la formation des lymphocytes mémoires pendant la phase d'initiation et la phase mémoire d'une inflammation LCMV chez la souris, ainsi que l'inhibition de la maturation des DC [[Laidlaw_NatImmunol_2015]].
+EHZ2 est un régulateur majeur de la différentiation vers effecteur/mémoire [[Kakaradov_NatImmunol_2017]].
 ## List of used references
 ```dataview
 LIST

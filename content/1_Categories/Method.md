@@ -31,7 +31,7 @@ Pmel et gp100
 
 VSV
 HSV
-IAV influenza A
+IAV influenza A + LAIV live attenuated
 LCMV Armstrong + Cl13
 LM
 VacV skin infection that does not spread to other tissues. This generate a local and a systemic memory response and can be used to compare skin with or without TRM [[Khan_JExpMed_2016]]. (sometimes called VV for vaccinia virus)
@@ -43,6 +43,8 @@ Lymphotoxin-alpha KO mouse don't have LN [[Mani_Science_2019a]].
 
 Toxine pertussique.
 Laser capture microdissection
+Stamper-Woodruff tissue binding assay = coupe de tissue sur une lame, et passage de cellules à tester sur cette lame. A permis de déterminer l'affinité des lymphocytes pour les cellules HEV.
+T-scan = TCR antigen specificity screening
 
 ### Bioinformatics
 

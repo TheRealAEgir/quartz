@@ -9,6 +9,8 @@ Dans un modèle d'infection par LCMV, les TRM ont une chromatine ouverte pour CD
 En utilisant le RNA seq et le WGBS, [[Fonseca_NatImmunol_2020]] décrivent qu'alors que le transcriptome des TRM est plus proche des lymphocytes T effecteurs que des TEM/TCM, le profil épigénétique des TRM est similaire avec les TCM/TEM.
 
 Il existerai une reprogrammation épigénétique des lymphocytes T naïfs par les mDC *via* le TGFb qui les prédisposerait à devenir des TRM [[Mani_Science_2019a]].
+
+EHZ2 est un régulateur majeur de la différentiation vers effecteur/mémoire [[Kakaradov_NatImmunol_2017]].
 ## List of used references
 ```dataview
 LIST

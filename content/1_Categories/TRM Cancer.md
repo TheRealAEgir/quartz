@@ -14,6 +14,7 @@ Les TRM avec une signalisation HIF1a constitutive infiltrent plus facilement la 
 Avec du scRNAseq de NSCLC, il a été décris que les TRM sont hétérogènes dans les tumeurs et que certains semblent plus épuisés que d'autre [[Guo_NatMed_2018]].
 Dans les cancers HGSOC, les TRM sont hétérogènes et différents stades de différentiation sont retrouvés [[Anadon_CancerCell_2022]].
 Dans les cancers NSCLC, il existerai deux populations de TRM classifiés selon CD103 et CD49a. La population CD103+CD49a+ est plus épuisée (PD1/TIM3/CD39), mais sécrète plus de cytokines et prolifére plus que la population CD103-CD49a+ qui exprime plus TCF1 [[Paolini_JImmunotherCancer_2024]].
+L'expression de CXCR6 est plus importante dans les tumeurs que dans le sang ou le tissu sain [[Wang_JImmunotherCancer_2021a]].
 ### Impact pronostic de l'infiltration des cancers par les TRM
 
 Dans un modèle de cancer du sein chez la souris AT3-OVA, il a été décris une population de TRM CD69+CD103+ indépendante de l'IL-15 et confèrant une protection contre un re-challenge [[Virassamy_CancerCell_2023]]. Cette population est capable de détruire des cellules tumorales *ex vivo* par sécrétion d'INFg et de TNFa, et une signature extraite de cette population à partir de bulk RNAseq permet de prédire le pronostic de patients dans des cohortes humaines [[Virassamy_CancerCell_2023]].

@@ -9,6 +9,7 @@ Dans les tissus vaginaux, les TRM ne dépendent pas des TCIRC pour leur maintena
 TRM expresse FABP4 and FABP5 and rely on lipid metabolism for persistance [[Pan_Nature_2017]]. Removal of the two genes at once (since removal of one lead to compensation) lead to decrease in TRM number starting from 25 dpi. Similar results were observed when treating mouse with beta-oxydation inhibitors etomoxir/trimetazidine or CPT1A KO, or by inhibiting PPARg/removal of PPARg which limit FABP4/FABP5 epxression [[Pan_Nature_2017]].
 Dans la peau, la signalisation TGFb est importante pour la maintenance des lymphocytes T recrutés par homing [[Hirai_Immunity_2019]].
 TRM that originated from LLEC had more persistance than TRM generated from TCM/TEM [[Lucas_SciImmunol_2024]].
+La capacité de résidence des lymphocytes T est supérieur lorsque ceux-ci ont été primé par les DC CD1c+, de manière CD103 dépendante [[Yu_Immunity_2013]]
 ## List of used references
 ```dataview
 LIST

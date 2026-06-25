@@ -1,0 +1,1 @@
+Clonal replacement was observed by [[Luoma_Cell_2022a]] in HNSCC following anti-PD1 anit-CTLA4 combination treatment, in both tumor after treatment or in blood two weeks after treatment. Blood cells contracted quickly, and the authors hypothesised that these cells could migrate into LN for priming [[Luoma_Cell_2022a]].
