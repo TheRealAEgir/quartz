@@ -22,6 +22,10 @@ TRM expresse FABP4 and FABP5 and rely on lipid metabolism for persistance [[Pan_
 CD69 est un marqueur imparfait des TRM, dont la seule vraie caractéristique est la résidence. En effet, seulement 25-75% des cellules résidentes (validé par parabiose) expriment CD69 dans le pancreas, les glandes salivaires, FRT, les reins et le foie [[Steinert_Cell_2015]]. Par contre, les cellules capablent de sortir des glandes salivaires et FRT n'expriment pas CD69 [[Steinert_Cell_2015]]
 Chez la souris, les TRM IEL epxriment CCR9 et Ly6C [[Fonseca_NatImmunol_2020]].
 Dans la peau après une infection VacV, tout les TRM expriment CD69 et certains expriment CD103, et les lymphocytes CD69- sont tous déplétés avec des anticorps déplétant injectés en intravasculaire [[Khan_JExpMed_2016]]. Les TRM prolifèrent peu dans les tissus, même en présence d'antigènes [[Khan_JExpMed_2016]].
+Les TRM dérivés de TCM dans la peau n'expriment pas CD103 mais expriment CD69 [[Osborn_PLoSPathog_2019]].
+Les TRM ont une forme de cellule dendritique avec des prolongements, et sont situés dans l'épiderme de la peau, au contact de la membrane basale [[Zaid_ProcNatlAcadSciUSA_2014]].
+Les TRM répriment CD62L, S1PR1, EOMES, TBET et TCF1. AHR et HIC1 sont importants pour les TRM des intestins, et HIC1 régule l'expression de P2RX7 [[Crowl_NatImmunol_2022]]. Les TRM IEL dépendent de CCR9 pour leur migration, et ceux des tissus gras dépendent de CXCR4 [Crowl_NatImmunol_2022](app://obsidian.md/Crowl_NatImmunol_2022).
+Les TRM perdent progressivement l'expression d'EOMES et de TBET au cours de leur différenciation, mais garde un niveau résiduel de l'expression de TBET [[Mackay_Immunity_2015]]/
 ## List of used references
 ```dataview
 LIST

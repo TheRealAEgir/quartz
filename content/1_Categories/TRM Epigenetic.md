@@ -11,6 +11,8 @@ En utilisant le RNA seq et le WGBS, [[Fonseca_NatImmunol_2020]] décrivent qu'al
 Il existerai une reprogrammation épigénétique des lymphocytes T naïfs par les mDC *via* le TGFb qui les prédisposerait à devenir des TRM [[Mani_Science_2019a]].
 
 EHZ2 est un régulateur majeur de la différentiation vers effecteur/mémoire [[Kakaradov_NatImmunol_2017]].
+
+La plupart des régions dont l'accessibilité est différente entre les TRM et les T circulants sont également retrouvées au niveau de l'expression différentielle des gènes [[Crowl_NatImmunol_2022]]. Parmi les gènes régulés de manière épigénétique, il y a CD62L, CXCR4 et CCR9 [[Crowl_NatImmunol_2022]].
 ## List of used references
 ```dataview
 LIST

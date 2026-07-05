@@ -20,6 +20,7 @@ Plutôt qu'être activés directement dans les tissus, il a été montré que le
 En transférant des TCM/TEM/LLEC, il a été observé que les LLEC KLRG1+ peuvent être recrutés à des taux similaires que les TCM/TEM lorsque l'infection est localisée. Ces cellules persistent à long terme, perdent l'expression de KLRG1/CX3CR1 et gagne celle de CD69/CD103 [[Lucas_SciImmunol_2024]].
 
 Les lymphocytes T naïfs pourraient être prédisposés à se différencier en TRM *via* le TGFb présenté par les mDC dans les LN [[Mani_Science_2019a]].
+Les TCM semblent plus efficaces que les TEM pour se différencier en TRM [[Osborn_PLoSPathog_2019]].
 ## List of used references
 ```dataview
 LIST

@@ -12,6 +12,7 @@ L'infection orale par LM génère une population protectricee de TRM CD103+ dans
 Une stratégie de vaccination contre influenza montre un contrôle plus efficace et une expension de TRM CD69+CD103-+ dans les poumons lorsque 4-1BBL est admnistré en même temps (injection intra nasale) [[Zhou_MucosalImmunol_2017]]. L'utilisation d'une injection systémique intra-péritonéale plutôt qu'intra-nasale génère plus de T mémoires dans la rate, mais moins de TRM dans les poumons [[Zhou_MucosalImmunol_2017]].
 Seule l'immunisation vaginale permet la protection contre un re-challenge dans les souris infectées par HSV [[Iijima_Science_2014a]].
 Une vaccination systémique comprenant de l'anti-CD40 et du poly(IC:LC) entraine l'apparition de lymphocytes T spécifique de l'antigène epxirmant CD103. Cette observation dépendrai de la sécrétion d'IL10 par les monocytes du sang, qui provoquerai leur sécrétion de TGFb de manière autocrine [[Thompson_CellRep_2019]].
+La vaccination intra-nasale dans un modèle murin génère des lymphocytes T spécifiques des antigènes dérivés de E7 et qui présentent un phénotype TRM [[Karaki_JImmunotherCancer_2021]]. Les souris KO pour CXCR6 ont une efficacité moins importante, en impactant le nombre mais pas la qualité des cellules, suggérant que l'axe CXCR6/CXCL16 pourrait être utilisé pour améliorer le recrutement des lymphocytes dans la tumeur [[Karaki_JImmunotherCancer_2021]].
 ## List of used references
 ```dataview
 LIST

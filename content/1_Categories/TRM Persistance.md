@@ -10,6 +10,10 @@ TRM expresse FABP4 and FABP5 and rely on lipid metabolism for persistance [[Pan_
 Dans la peau, la signalisation TGFb est importante pour la maintenance des lymphocytes T recrutés par homing [[Hirai_Immunity_2019]].
 TRM that originated from LLEC had more persistance than TRM generated from TCM/TEM [[Lucas_SciImmunol_2024]].
 La capacité de résidence des lymphocytes T est supérieur lorsque ceux-ci ont été primé par les DC CD1c+, de manière CD103 dépendante [[Yu_Immunity_2013]]
+AHR joue un rôle dans la persistance des TRM dans la peau, puisque des lymphocytes KO pour AHR forme le même nombre de TRM après une inflammation, mais que ce nombre diminue avec le temps [[Zaid_ProcNatlAcadSciUSA_2014]]. Le nombre de TRM dans la peau à un instant T est inversement correlé avec celui des DETC et augmente en faveur des TRM arpès la résolution de l'inflammation, suggérent que ces deux types cellulaires sont en compétition pour leur survie [[Zaid_ProcNatlAcadSciUSA_2014]].
+Les TRM IEL et SG dépendent du TGFb et de l'expression du TGFbRII pour leur persistance au sein de l'organisme [[Crowl_NatImmunol_2022]].
+Selon les tissus, il existe des populations de TRM dont la survie est dépendante de l'IL-15, dont la survie et la prolifération homéostatique est dépendante de l'IL-15, ou des populations complètement indépendantes de l'IL-15 [[Schenkel_JImmunol_2016]].
+Les TRM de la peau ne persistent pas en l'absence de signalisation IL15 [[Mackay_Immunity_2015]]. Les TRM de la peau KO pour TBET ne persistent pas non plus, et perdent l'expression de CD122 [[Mackay_Immunity_2015]]. Les TRM CD103+ mais pas CD103- dans les poumons nécessitent aussi l'IL15 pour leur persistance [[Mackay_Immunity_2015]].
 ## List of used references
 ```dataview
 LIST

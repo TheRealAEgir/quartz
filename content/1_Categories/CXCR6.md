@@ -3,6 +3,7 @@ CXCR6 KO CAR-T cells are less efficient [[Srivastava_CancerCell_2021]].
 CXCR6+ CD8+ T cells are more numerous in tumor when mouse are treated with anti-CD40 [[Wang_JImmunotherCancer_2021a]].
 CXCL16 expression is constant in tumor [[Wang_JImmunotherCancer_2021a]].
 Les LT CD8+ CXCR6+ sont plus efficace dans le contrôle tumoral et la sécrétion de cytokine dans un modèle de tumeur chez la souris. Les souris KO pour CXCR6 de manière conditionnelle ont une survie plus faible que les souris WT [[Wang_JImmunotherCancer_2021a]].
+Dans un modèle de vaccination intranasale chez la souris, les lymphocytes T spécifiques des antigènes tumoraux ont un phénotype TRM et expriment CXCR6. Lorsqu'un co transfert CXCR6 KO/WT est réalisé, la fraction KO est sous représenté parmi les lymphocytes T spécifiques d'antigènes, et ont un phénotype plutôt effecteur. Finalement, CXCR6 pourrait être impliqué dans le recrutement des lymphocytes dans la tumeur; en effet, les souris KO pour CXCR6 ont une perte partielle de l'efficacité du vaccin et présentent moins de lymphocytes dans la tumeur, sans impacter leur cytotoxicité. De plus, le vaccin induit une augmentation transitoire de l'expression de CXCL16 [[Karaki_JImmunotherCancer_2021]].
 ## List of used references
 ```dataview
 LIST

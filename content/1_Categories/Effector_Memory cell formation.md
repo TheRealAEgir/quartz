@@ -10,6 +10,12 @@ D'un point de vue épigénétique, les cellules mémoires ressemblent aux cellul
 
 L'IL-10 sécrété par les Treg a un impact sur la formation des lymphocytes mémoires pendant la phase d'initiation et la phase mémoire d'une inflammation LCMV chez la souris, ainsi que l'inhibition de la maturation des DC [[Laidlaw_NatImmunol_2015]].
 EHZ2 est un régulateur majeur de la différentiation vers effecteur/mémoire [[Kakaradov_NatImmunol_2017]].
+
+En étudiant les précurseurs de cellules mémoires dans des infection LCMV Arm/Cl13, [[DaSilva_Immunity_2020]] décrivent que le facteur de transcription ID3 joue un rôle important dans la population de cellule Tpex permettant de générer des cellules mémoires. Ces travaux identifient plusieurs phénotypes pour les cellules mémoires, qui sont plutôt ID3+CXCR6-, mais aussi CD62L+. cKIT, quant à lui, semble délimiter une population de cellule intérmédiaire avec peu de capacitées pluripotentes [[DaGraca_SciImmunol_2025]].
+
+Il a été observé que le KO de CD62L, permettant l'entrée des lymphocytes dans les LN, provoque une baisse de l'expansion des lymphocytes dans certains type d'infection (VACV), mais pas dans d'autre (LCMV) [[Osborn_PLoSPathog_2019]].
+
+Il a été décris que les lymphocytes T CD8 naïfs expriment CD103, et que cette molécule permet l'activation par liaison avec la E-cadhérine exprimée par les pDC/mDC. En effet, ces lymphocytes sont ensuite activés de manière IL-15 indépendante en passant par l'IL-12 et l'IFNb [[Li_Immunity_2025]].
 ## List of used references
 ```dataview
 LIST

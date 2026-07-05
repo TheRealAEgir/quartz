@@ -46,6 +46,10 @@ Laser capture microdissection
 Stamper-Woodruff tissue binding assay = coupe de tissue sur une lame, et passage de cellules à tester sur cette lame. A permis de déterminer l'affinité des lymphocytes pour les cellules HEV.
 T-scan = TCR antigen specificity screening
 
+### Dissociation
+
+En réalisant des analyses transcriptomiques à partir de TRM extrait avec différent type de dissociation enzymatique, [[Crowl_NatImmunol_2022]] ont démontré que certains gènes décris comme faisant parti de la signature TRM étaient en réalité induit par la dissociation en elle-même.
+
 ### Bioinformatics
 
 MetaCell = algorithm that gorup individual cells in meta cells of similar cells

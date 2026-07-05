@@ -11,6 +11,10 @@ Des TRM isolés réinjectés chez une souris sont capable, après réactivation,
 Des lymphocytes CD8 primés dans les SLO sont recrutés dans des sites d'inflammation indépendement de la présence de l'antigène dans ce site, mais seuls les sites avec des antigènes forment des TRM sur le long terme [[Khan_JExpMed_2016]].
 Lorsque des lymphocytes T spléniques provenant d'une souris avec une infection VV dans le peau sont tranférés dans une souris naïve, il y a un recrutement de lymphocytes T du donneur dans la peau en l'absence d'infection [[Hirai_Immunity_2019]]. Ce recrutement n'est pas retrouvé lorsque l'infection de la souris donneuse est systémique, ou lorsque les lymphocytes sont traités avec de la toxine perstussique avant le transfert [[Hirai_Immunity_2019]].
 local IAV but not systemic LCMV infection lead to LLEC TRM precursor recruitement in the lung [[Lucas_SciImmunol_2024]].
+Les souris KO pour CXCR6 ont moins de lymphocytes dans les tumeurs, suggérant que ce récepteur est important pour le recruitement des lymphocytes dans une tumeur [[Karaki_JImmunotherCancer_2021]]. 
+Les TCM sont plus efficaces que les TEM pour migrer dans la peau avant de se différencier en TRM [[Osborn_PLoSPathog_2019]].
+Les TRM de la peau sont situés dans l'épiderme, où il migrent uniquement de mannière lattérale [[Zaid_ProcNatlAcadSciUSA_2014]]. Leur mouvement est lent, environ 5 fois leur taille en l'espace d'une heure [[Zaid_ProcNatlAcadSciUSA_2014]]. Leur déplacement est aléatoire, et à cause de leur faible vitesse, ils ne se disperse pas dans le reste de l'épiderme après la résolution de l'inflammation [[Zaid_ProcNatlAcadSciUSA_2014]]. Les TRM intéragisse avec les LC, et leur absence impacte la vitesse de migration des TRM [[Zaid_ProcNatlAcadSciUSA_2014]].
+Les TRM IEL dépendent de CCR9 pour leur migration, et ceux des tissus gras dépendent de CXCR4 [[Crowl_NatImmunol_2022]].
 ## List of used references
 ```dataview
 LIST

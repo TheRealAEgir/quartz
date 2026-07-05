@@ -14,8 +14,13 @@ Les TRM ont d'abord été décris dans la peau, où ceux-ci expriment fortement 
 | [[Christo_NatImmunol_2021]] | Glandes salivaires | Comprends une population ressemblant aux TRM dans l'épithélium, et une autre ressemble à ceux du foie dans le reste de l'organe.                                                                                                                                                          |
 | [[Mathew_JExpMed_2026]]     | Tissus nasaux      | Expriment plus d'ICOS et de CXCR6 mais sécrète moins de cytokines IFNg TNFa IL2 que les TRM des poumons.                                                                                                                                                                                  |
 | [[Mathew_JExpMed_2026]]     | Poumons            | Expriment moins d'ICOS et de CXCR6 mais sécrète plus de cytokines IFNg TNFa IL2 que les TRM des tissus nasaux.                                                                                                                                                                            |
-|                             |                    |                                                                                                                                                                                                                                                                                           |
+| [[Crowl_NatImmunol_2022]]   | IEL                | Semblent plus différenciés que les TRM des autres tissus; exprime plus de CD69/CD103, et moins de TBET/EOMES/TCF1/CD62L/KLF2. Dépend du TGFb, et exprime CCR9. N'exprime pas CD122 mais exprime CD127. Dépend d'AHR et d'HIC1.                                                            |
+| [[Crowl_NatImmunol_2022]]   | SG                 | Dépend du TGFb                                                                                                                                                                                                                                                                            |
+| [[Crowl_NatImmunol_2022]]   | fat                | Exprime CXCR4                                                                                                                                                                                                                                                                             |
+| [[Mackay_Immunity_2015]]    | skin               | Dépend de l'IL15                                                                                                                                                                                                                                                                          |
+| [[Mackay_Immunity_2015]]    | lung               | Les TRM CD103+ mais pas CD103- dépendent de l'IL15                                                                                                                                                                                                                                        |
 En utilisant le sc RNA-ATAC seq, [[Buquicchio_Immunity_2024b]] ont démontré qu'il existait des différences dans les TRM de différents tissus. Ces différences incluent une signature TGFb sans la peau et l'intestin, contre une signature IFN dans le foie. Seul les TRM de la peau expriment certains facteurs de transcriptions de la famille AP1 (FOS, FOSB, FOSL1, JUN) et BACH2 [[Buquicchio_Immunity_2024b]].
+Selon les tissus, il existe des populations de TRM avec des dépendances différentes à l'IL-15 [[Schenkel_JImmunol_2016]].
 ### Différences inter-tissus
 
 Une hétérogénéité des TRM a aussi été observée au sein du même tissue.
@@ -42,6 +47,14 @@ Dans les tumeurs de cancers NSCLC, i a été observé que les TRM sont hétérog
 Dans les cancers HGSOC, les TRM sont hétérogènes; il exite des populations épuisées, des populations plutôt stem-like, des populations avec un phénotype plutôt effecteur et des populations avec un phénotype en prolifération [[Anadon_CancerCell_2022]].
 Dans les TRM siEL après une infection LCMV, il existe des TRM CD28hi qui expriment ID3 et CD127 et qui semblent plus stem-like que les TRM CD28lo [[Kurd_SciImmunol_2020]].
 Deux populations de TRM CD103+CD49a+ et CD103-CD49a+ ont été décris dans les cancers NSCLC et, bien que celles-ci partagent des séquences TCR, la population CD103+CD49a+ est plus épuisée et semble témoinger d'un réactivité antigénique plus forte [[Paolini_JImmunotherCancer_2024]].
+##### Autres
+La réponse à l'IFN affecte beaucoup le transcriptome des lymphocytes, et des cellules répondant à l'IFN peuvent être retrouvés dans tout les tissus. En scRNAseq, celles-ci clusterisent ensemble [[Crowl_NatImmunol_2022]].
+Dans le foie, il y a des TRM exprimant CD127, TCF1 et l'IFNg, alors que d'autres expriment KLRG1/GZMA et GZMB [[Crowl_NatImmunol_2022]]. Dans IEL, le rein et SG, les TRM sont hétérogènes selon l'expression de TCF1, IL18R1 et Ly6c2, mais aussi ODC1, RGS1 et DUSP2 [[Crowl_NatImmunol_2022]].
+Les TRM des poumons CD103+ mais pas CD103- dépendent de l'IL15 et sont impactés par l'injection d'anticorps neutralisants l'IL15 ou le complexe IL15R [[Mackay_Immunity_2015]].
+
+
+
+Take the figure 1A from [[Crowl_NatImmunol_2022]]
 
 ## List of used references
 ```dataview

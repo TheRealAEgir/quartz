@@ -7,6 +7,7 @@ Les mDC sont capables de prédisposer la différenciation des lymphocytes naïfs
 Les DC CD1c+, mais pas les DC CD141+ sont capable d'induire l'expression de CD103 sur les lymphocytes T [[Yu_Immunity_2013]]. Cet effet est dépendant du TGFb, qui n'est retrouvé sous sa forme active que sur la membrane des DC CD1c+ [[Yu_Immunity_2013]].
 Lors d'une réponse systémique, les monocytes activés par anti-CD40/poly(IC:LC) sécrètent de l'IL10, qui jouerai un rôle autocrine et provoquerai la sécrétion de TGFb et l'expression de CD103 par les lymphocytes T activés lors de cette réponse [[Thompson_CellRep_2019]].
 L'exposition au TGFb dès le priming d'un lymphocyte T pourrait favoriser sa différentiation vers un phénotype TRM exprimant CD103 [[Thompson_CellRep_2019]].
+En cas de réponse secondaire, une partie des lymphocytes mémoires peuvent migrer dans la peau rapidement et n'ont pas besoin d'un nouveau priming dans les dLN pour se différencier en TRM [[Osborn_PLoSPathog_2019]]. Dans ce cas, les TRM n'expriment pas CD103; ce résultat semble être expliqué par une sensibilité plus faible au TGFb, mais pourrait signifier que le priming permet aux TRM d'expriment CD103 [[Osborn_PLoSPathog_2019]].
 ## List of used references
 ```dataview
 LIST

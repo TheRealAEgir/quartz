@@ -1,11 +1,11 @@
 ---
 cssclass: literature-note
 category: literaturenote
-title: CXCR6 deficiency impairs cancer vaccine efficacy and CD8+ resident memory T-cell recruitment in head and neck and lung tumors
+title: "CXCR6 deficiency impairs cancer vaccine efficacy and CD8+ resident memory T-cell recruitment in head and neck and lung tumors"
 tags:
-citekey: Karaki_JImmunotherCancer_2021
-status: Read
-dateread: 2026-06-24
+citekey: "Karaki_JImmunotherCancer_2021"
+status: Unread
+dateread:
 articletype: Article
 used_in_redaction: No
 ---
@@ -15,23 +15,9 @@ used_in_redaction: No
 > [!notes]
 > %% begin Notes %%**Summary** :
 > 
->**Experiment** : Transcriptomic analysis of E7-specific intranasal-vaccination induced T cells in BAL.
->**Results** : E7-specific T cells had a TRM phenotype and expressed CXCR6 only when intranasal but not intramuscular vaccination.
+>**Experiment** : 
+>**Results** : 
 >
->**Experiment** : engraftement of TC1 tumor cell line with CXCR6 GFP/+ semi KO in the tongue, then intranasal immunization
->**Results** : There was more CXCR6 expression in T cell with a TRM phenotype than effector cells. This was validated in human lung tumor as well, where CXCR6+ T cells had higher PD1 expression.
->
->**Experiment** : CXCR6 KO mouse and same model
->**Results** : There was less E7-specific T cells in BAL/lung parechyma in the KO mouse vs WT. Further decrease in E7-specific TRM phenotype T cells, and increase of the effector phenotype population.
->
->**Experiment** : Co-transfer of CXCR6 KO/WT T cells in CD3 defficient mouse
->**Results** : Less E7-specific absolute number in BAL in KO mouse with trend in lung parenchyma.
->
->**Experiment** : Vaccination or not in WT or KO mouse
->**Results** : CXCR6 KO mouse showed partial loss of vaccination efficiency. CXCR6 defficient did not have impairment of cytotoxicity, but there was less antigen-specific T cell in CXCR6 KO suggesting lack of recruitement.
->
->**Experiment** : Vaccination with recombinant CXCL16 to try to recruit CXCR6+ T cells
->**Results** : No increase in T cell number. CXCL16 expression was increased by vaccination in a transient way.
 > %% end Notes %%
 
 > [!Useful Informations]-
@@ -153,10 +139,5 @@ CONCLUSIONS: This work demonstrates the in vivo role of CXCR6-CXCL16 axis in the
 > >
 > >
 
-> [!faq]- Zotero Highlights
-> %% begin annotations %%
-> > 
-> %% end annotations %%
 
-
-%% Import Date: 2026-06-24T16:49:24.817+02:00 %%
+%% Import Date: 2026-06-27T09:27:50.171+02:00 %%

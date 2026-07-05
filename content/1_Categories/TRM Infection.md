@@ -4,6 +4,7 @@ Une infection avec influenza génère des TRM dans les poumons et les tissus nas
 Les TRM de l'intestin jouent un rôle dans l'infection contre LM, et l'infection orale génère plus de TRM dans ces tissus qu'une infection nasale [[Sheridan_Immunity_2014]].
 
 Une immunisation vaginale contre HSV permet une protection contre un re-challenge avec une dose léthale [[Iijima_Science_2014a]]. Dans ce modèle, la protection est médiée par les TRM CD4 qui produisent de l'IFNg. En utilisant un modèle de parabiose avec une souris immunisée et une souris naive, seule la souris immunisée (qui comprends des TRM) est protégée contre le re-challenge, mais pas la souris naive (qui comprends les TCIRC de la souris immunisée) [[Iijima_Science_2014a]].
+Les TRM locaux sont capable de protéger l'organisme contre une infection HSV en absence complète des T circulants [[Mackay_Immunity_2015]].
 ## List of used references
 ```dataview
 LIST
