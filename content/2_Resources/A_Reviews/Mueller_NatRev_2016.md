@@ -30,7 +30,7 @@ articletype: Review
 > %% begin Notes %%
 > Define TRM as "undergo little to no proliferation"
 > [[TRM Historic]]
-> [[TRM Localization]] Talk about the heterogeneity of TRM through organs
+> [[TRM Caracteristics]] Talk about the heterogeneity of TRM through organs
 > TRM Autoimmune diseases CD49a+ TRM are found in large number in skin with psioriasis. (breaking link because the original article was cited instead)
 > [[TRM Phenotype]] EOMES/TCF1/Tbet low
 > [[TRM Differenciation]] mTOR could be important
@@ -44,7 +44,7 @@ articletype: Review
 > CD4 produced IFNg facilitate the entry of CD8 in the skin
 > Antigen not crucial, but nervous system need it for CD103 expression
 > [[TRM Precursors]] KLRG1 low -> Approriate marker ? Direct role of KLRG1 (ligand is CD103) ? KLRG1 high are too differenciated ?
-> [[TRM Persistance]]
+> [[TRM Caracteristics]]
 > Very high persitance in non-lymphoid organs, High BCL2 expression
 > CD103 could enhance persitance
 > AHR involved in persistance

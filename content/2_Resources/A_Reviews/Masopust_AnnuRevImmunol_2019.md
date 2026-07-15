@@ -43,12 +43,12 @@ articletype: Review
 >T cells in intestinal mucosa were beleived to be effector T cells because of CD69 and granzyme B expression, and it was latter foudn that they were long lived.
 >Experiment with skin/psoriasis, parabiosis, HSV1 infection and brain TRM
 >[[TRM Phenotype]] Talk about way to identify TRM : CD69/CD103, but also migration potential, parabiosis, transplantation, labelling of cells with Kaede or CFSE, instravascular antibody labeling (but does not test residence, only localisation). Perfusion does not work to remove leukocytes, only red blood cells. Tissue dissociation underrepresented TRM (could be because of vacular contamination). Tissue imaging suffer from technical barriers.
->[[TRM Localization]] TRM present adaptation to local environment (metabolism, function, phenotype, proliferation, longevity, maintenance). IL15 requirement vary with infection and tissue site.
->[[TRM Persistance]] Thought to be relatively long, but short in lung strom and parenchyma
->[[TRM Priming]] Site of priming could change TRM phenotype, with expression of alpha4beta7, CCR9 or CCR4, CCR10 and PSGL-1
+>[[TRM Caracteristics]] TRM present adaptation to local environment (metabolism, function, phenotype, proliferation, longevity, maintenance). IL15 requirement vary with infection and tissue site.
+>[[TRM Caracteristics]] Thought to be relatively long, but short in lung strom and parenchyma
+>[[TRM Differenciation]] Site of priming could change TRM phenotype, with expression of alpha4beta7, CCR9 or CCR4, CCR10 and PSGL-1
 >[[TRM Precursors]] Too terminally differenciated cells do not acquire CD103
 >[[TRM Prognosis]] TRM accelerate control against microbial pathogen (with references). CD103 correlate with cancer prognosis (with references)
->[[TRM Migration]] Migrate at 5-10 µm/min, depending on tisssue site.
+>[[TRM Caracteristics]] Migrate at 5-10 µm/min, depending on tisssue site.
 >[[TRM Effector]] Effector-like phenotype, but also can proliferate, and sometime recirculate and gain a Tcm/Tem phenotype.
 >[[TRM Autoimmune diseases]] Talks a bit about evidence in TRM to be involved in auto immune diseases.
 > %% end Notes %%

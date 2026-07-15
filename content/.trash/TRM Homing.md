@@ -15,6 +15,7 @@ Les souris KO pour CXCR6 ont moins de lymphocytes dans les tumeurs, suggérant q
 Les TCM sont plus efficaces que les TEM pour migrer dans la peau avant de se différencier en TRM [[Osborn_PLoSPathog_2019]].
 Les TRM de la peau sont situés dans l'épiderme, où il migrent uniquement de mannière lattérale [[Zaid_ProcNatlAcadSciUSA_2014]]. Leur mouvement est lent, environ 5 fois leur taille en l'espace d'une heure [[Zaid_ProcNatlAcadSciUSA_2014]]. Leur déplacement est aléatoire, et à cause de leur faible vitesse, ils ne se disperse pas dans le reste de l'épiderme après la résolution de l'inflammation [[Zaid_ProcNatlAcadSciUSA_2014]]. Les TRM intéragisse avec les LC, et leur absence impacte la vitesse de migration des TRM [[Zaid_ProcNatlAcadSciUSA_2014]].
 Les TRM IEL dépendent de CCR9 pour leur migration, et ceux des tissus gras dépendent de CXCR4 [[Crowl_NatImmunol_2022]].
+L'acide rétinoïque permet la formation de TRM dans les intestins et induit l'expression de CCR9, mais les deux effets ne seraient pas liés [[Obers_Immunity_2024]].
 ## List of used references
 ```dataview
 LIST

@@ -30,7 +30,7 @@ articletype: Review
 >KLF2 regulate CCR7 expression
 >[[TRM Specificity]] TGFb treatment in vitro induce CD103, but antigen reduce it.
 >Inhibiting PI3K-AKT ameliorated cytokine induced downregulation of KLF2 and S1PR1
->[[TRM Localization]] Talk a lot about TRM localization and challenges
+>[[TRM Caracteristics]] Talk a lot about TRM localization and challenges
 >Speed of Trm inside NLT increase after antigen expousre via CXCL10
 > %% end Notes %%
 

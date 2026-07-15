@@ -56,7 +56,7 @@ articletype: Article
 >Has a paragraph about [[TRM Specificity]] with references (not saved at the moment). Has a paragraph about MTOR in [[TRM Differenciation]]
 >[[TRM Phenotype]] has a table with chemokine receptor for some tissues
 >TGFb induce CD103 but inhibit KLRG1, making the two molecules mutually exclusive.
->JAK/STAT5, PI3K/AKT, NOTCH, WNT may play a role in [[TRM Persistance]] 
+>JAK/STAT5, PI3K/AKT, NOTCH, WNT may play a role in [[TRM Caracteristics]] 
 >Talk about Notch in TRM
 > %% end Notes %%
 

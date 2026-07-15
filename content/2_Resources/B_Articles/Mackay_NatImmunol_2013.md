@@ -34,7 +34,7 @@ used_in_redaction: Yes
 > [!notes]
 > %% begin Notes %%
 > [[TRM Differenciation]] Cite paper linking CD103 with TGFb
->[[TRM Phenotype]] [[TRM Migration]] [[TRM Precursors]] [[TRM Heterogeneity]] [[TRM Transcriptome]] 
+>[[TRM Phenotype]] [[TRM Caracteristics]] [[TRM Precursors]] [[TRM Heterogeneity]] [[TRM Transcriptome]] 
 >
 >**Summary** : This article used HSV infection in mice which generated TRM in skin, and described a CD103+BCL2+CD69+ TRM population. These cells depend on CD69 for tissue entry and CD103 at latter time point, as well as chemokine receptor (most probably CXCR3). Their precursor do not express KLRG1. CCR7 KO induced more TRM cells. These cells depends on TGRb and IL-15, as TGFbR2-/- or IL-15-/- generate less CD103 TRM. Transcriptionnal analysis revealed some key features, including CCR9 for gut TRM, CCR8 for skin TRM, AHR for both, among other.
 >

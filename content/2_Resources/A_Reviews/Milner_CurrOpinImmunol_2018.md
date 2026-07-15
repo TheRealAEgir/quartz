@@ -50,7 +50,7 @@ articletype: Review
 >[[TRM Precursors]] KLRG1hi CD127lo = SLEC or terminal-effector (TE) (BLIMP1, ID2, ZEB2, TBET), KLRG1lo CD127hi = MPEC or memory-precursor (MP) (ID3, TCF1, EOMES, BCL6). TE can live for a long period during infection. 
 >TRM are mainly derived from KLRG1lo, and used both TE and MP TF when differenciating : TBET supress while BLIMP1 enhance, EOMES supress while NR4A1 is required
 >[[TRM Phenotype]] Effector like while stem-like
->[[TRM Migration]] facilitated from the dLN wth CCR9 -> gut and alpha4beta7 -> intestine. CXCR6/CCR10/CLA -> skin/epidermal
+>[[TRM Caracteristics]] facilitated from the dLN wth CCR9 -> gut and alpha4beta7 -> intestine. CXCR6/CCR10/CLA -> skin/epidermal
 >[[TRM Differenciation]] Need KLF2 downregulation (Skon et al). Need hobit/Blimp1 (Mackay et al) and RUNX3 (Miner et al). Seems required for other resident population as well. Need TBET and EOMES downregulation (Mackay, Laidlaw). Ahr is important. NR4A1/2/3 are expressed at high level in TRM. EGR2 and Notch are required for lung TRM formation. ZEB2 and TCF1 are expressed at low level, while IRF4 and BCL6 are expressed at high level.
 >IL15/IL7 for survival (IL15 not in SLO). IL15/TGFb, SMAD/STAT
 > %% end Notes %%

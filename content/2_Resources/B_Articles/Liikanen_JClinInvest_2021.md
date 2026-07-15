@@ -41,7 +41,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : This article used VHL-KO T cells to demonstrate the role of hypoxia in tumor TRM. VHL KO cells are HIF1a signaling cells, even in normoxie. KO of VHL resulted in better tumor control, higher CD8 infiltration in non-hypoxic areas. Co-transfer of WT/KO showed that VHL-KO cells had higher inhibitory receptor expression, but higher cytokine secretion and tumor killing capacities in a antigen-independent manner. There was more TRM-like phenotype cells in the VHL-KO conditions, with CD103+ VHL-KO having specifically higher cytokine production/cytotoxicity. Transcriptomic analyses confirmed the previous results. There was limited differences in VHL-KO T cells after anti-PD1 treatment, but VHL-KO T cells had higher tumor control than WT cells unders these conditions. There was higher memory Tcirc independent tumor rechallenge control in VHL-KO. All the observed effect could be dependent on CD103, with most of the observation being lost after intra-vascular anti-CD103 antibody injection.
-> [[TRM Cancer]] [[TRM Immunotherapy]] [[TRM Differenciation]] [[TRM Effector]] [[TRM Persistance]] [[TRM Heterogeneity]] [[TRM Therapies]]
+> [[TRM Cancer]] [[TRM Immunotherapy]] [[TRM Differenciation]] [[TRM Effector]] [[TRM Caracteristics]] [[TRM Heterogeneity]] [[TRM Therapies]]
 > 
 >**Model** : VHLfl/fl with recombinase under LCK promoter mouse. VHL is the gene that ubiquitinylate HIF1a, leading to it's degradation under normoxie. This was used in P14 T cells and tumor bearing the gp33 LCMV derivec peptide.
 >**Results** : VHL KO had reduced tumor growth and better survival, with fewer metastases. There was higher infiltration of CD8+ T cells in KO mouse, but in nonhypoxic areas.

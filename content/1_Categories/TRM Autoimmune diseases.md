@@ -11,7 +11,9 @@ Il est maintenant connu que les TRM ont un rôle dans les érythème pigmenté f
 
 Les TRM pourraient aussi jouer un rôle dans le rejet de greffe [[Masopust_AnnuRevImmunol_2019]]
 
+### Autres maladies ciblant le rein
 
+[[Asada_NatImmunol_2025]] décrivent que les TRM CD4 n'expriment des cytokines que sous forme de mRNA sans traduction dans un contexte homéostatique, et que ce phénomène est dérégulé dans diverses pathologies auto-immunes. En inhibant la régulation positive de la traduction via des inhibiteurs de déphosphorylation de eIF2a, le phénomène revient à la normale et la maladie est mieux contrôlée [[Asada_NatImmunol_2025]].
 
 Les TRM CD4 jouent un rôle dans un type d'allergie induite de manière expérimentale chez la souris [[Masopust_AnnuRevImmunol_2019]], article original = Hondowicz BD immunity 2016
 

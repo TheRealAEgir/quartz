@@ -17,7 +17,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article describe intra-vascular staining [[Method]] to label lung T cells and differentiate capillary/lung resident T cells. Treatment with PTx showed that LN homing is chemokine dependent, but lung homing is chemokine independent. However, a small fraction of intra-vascular unlabeled lung T cells was lost when treated with PTx, suggesting that this population's lung homing is chemokine dependent. This population was CD69+CD103+CXCR3+ (and was named resident Tem). [[TRM Historic]] [[TRM Localization]]
+> %% begin Notes %%**Summary** : This article describe intra-vascular staining [[Method]] to label lung T cells and differentiate capillary/lung resident T cells. Treatment with PTx showed that LN homing is chemokine dependent, but lung homing is chemokine independent. However, a small fraction of intra-vascular unlabeled lung T cells was lost when treated with PTx, suggesting that this population's lung homing is chemokine dependent. This population was CD69+CD103+CXCR3+ (and was named resident Tem). [[TRM Historic]] [[TRM Caracteristics]]
 > 
 >**Experiment** : P14 T cells LCMV infected mouse, extracted, treated or not with PTx and transfer into naive mouse, then extracted again and assessed for migration
 >**Results** : Migration to iLN was blocked by PTx, probably because of CCR7, but not into lung. This was similar for naive P14 T cells. This suggest that lung homing is chemokine independent.

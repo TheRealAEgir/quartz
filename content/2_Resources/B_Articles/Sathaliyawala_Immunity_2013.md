@@ -24,7 +24,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This paper describe T cells populations in human tissues [[TRM Phenotype]] [[TRM Localization]] [[TRM Historic]]
+> %% begin Notes %%**Summary** : This paper describe T cells populations in human tissues [[TRM Phenotype]] [[TRM Caracteristics]] [[TRM Historic]]
 > 
 >**Experiment** : Characterisation of healthy human T cell
 >**Results** : There was more T cells than B cells and more CD4 than CD8, variable among tissues. There was high similarity between donnors. There was more memory CD45RO than CD45RA+ T cells in most tissue, comparable in blood. Younger donnor had lower CD45RO, but mostly in lymphoid tissue and blood. Regarding memory populations; CD4 :  blood had the higher naive with Tcm/Tem, lymphoid had Tcm/Tem and some naive, colon had mostly Tem; CD8 : Very little Tcm, much more Temra in blood, spleen and lung, naive in blood and lymph node, instetine was mostly Tem. CD69 expression was higher in tissue vs blood, and in CD45RO vs CD45RA. CD69hi CD45R0 were CD127+. CD69+ CD45RO was medium in spleen and lymph node; all CD45RO were CD69 in instestine. CD103 was 100% in instestine, with some expression in lung and no expression in blood/LN.

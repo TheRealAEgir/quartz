@@ -13,6 +13,10 @@ Une stratégie de vaccination contre influenza montre un contrôle plus efficace
 Seule l'immunisation vaginale permet la protection contre un re-challenge dans les souris infectées par HSV [[Iijima_Science_2014a]].
 Une vaccination systémique comprenant de l'anti-CD40 et du poly(IC:LC) entraine l'apparition de lymphocytes T spécifique de l'antigène epxirmant CD103. Cette observation dépendrai de la sécrétion d'IL10 par les monocytes du sang, qui provoquerai leur sécrétion de TGFb de manière autocrine [[Thompson_CellRep_2019]].
 La vaccination intra-nasale dans un modèle murin génère des lymphocytes T spécifiques des antigènes dérivés de E7 et qui présentent un phénotype TRM [[Karaki_JImmunotherCancer_2021]]. Les souris KO pour CXCR6 ont une efficacité moins importante, en impactant le nombre mais pas la qualité des cellules, suggérant que l'axe CXCR6/CXCL16 pourrait être utilisé pour améliorer le recrutement des lymphocytes dans la tumeur [[Karaki_JImmunotherCancer_2021]].
+
+Les TRM expriment des mRNA codant les cytokines sans les traduire dans des contexte homéostatique, et ce phénomène peut être dérégulé, au moins dans certaines maladies auto-immunes [[Asada_NatImmunol_2025]]. En utilisant des traitements permettant de retrouver l'équilibre physiologique, il est possible d'améliorer le contrôle de la maladie [[Asada_NatImmunol_2025]], et cet effet dépend des TRM.
+
+Le traitement avec des anti-PD1 pourrait réduire la formation de TRM dans la peau, suggérant que ce traitement doit être utilisé correctement pour ne pas limiter la réponse anti-tumorale TRM dépendante [[Devi_NatImmunol_2025a]].
 ## List of used references
 ```dataview
 LIST

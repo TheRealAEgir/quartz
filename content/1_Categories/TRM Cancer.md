@@ -34,6 +34,8 @@ Les différences étaient les suivantes : alors que les TEX étaient spécifique
 
 Ces résultat semblent indiquer que les TRM dans les tumeurs sont soit des lymphocytes bystander, soit des lymphocytes qui n'ont pas accès à leur antigène, par ségrégation spaciale ou par adaptation de la tumeur (et perte de l'expression de l'antigène) suite à la pression immunologique [[Burn_NatImmunol_2026]].
 Dans le but de générer un consensus pour les études à venir, deux signatures applicable de manière pan-cancer ont été générées [[Burn_NatImmunol_2026]].
+
+Une autre étude sur le sujet a été réalisée par [[Park_NatImmunol_2026]]. Dans cette étude, les TRM générés par infection LCVM Arm sont comparés aux TEX générés par infection LCMV Cl13. Bien que les TRM et les TEX partagent l'expression de nombreuses protéines, et surtout de protéines de résidence, leur transcriptome et leur épigénome reste largement différent [[Park_NatImmunol_2026]]. Les deux populations dépendent de RUNX3, HOBIT et BLIMP1, mais seuls les TEX dépendent de TOX [[Park_NatImmunol_2026]]. Il est possible de mettre en place des signatures de gènes capable de distinguer les TRM des TEX, et les marqueurs protéiques les plus efficaces sont CD73 pour les TRM et CD200R pour les TEX, respectivement [[Park_NatImmunol_2026]].
 ## List of used references
 ```dataview
 LIST

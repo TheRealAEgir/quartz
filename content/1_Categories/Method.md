@@ -21,6 +21,8 @@ L'isolation de cellules par des méthodes physiques et enzymatiques dans les org
 ### epigenetics
 
 WGBS
+Translated and untranslated mRNA can be separated using gradient centrifugation.
+actinomycine D which block transcription
 
 ### Mouse models
 
@@ -35,21 +37,27 @@ IAV influenza A + LAIV live attenuated
 LCMV Armstrong + Cl13
 LM
 VacV skin infection that does not spread to other tissues. This generate a local and a systemic memory response and can be used to compare skin with or without TRM [[Khan_JExpMed_2016]]. (sometimes called VV for vaccinia virus)
+rotavirus (intestine mouse infection)
+Sendai virus infection (lung)
 
 Transient depletion of CD4 with CD4-depleting antibody prior or concurent to infection (CD4 repopulation from thymus after ~2 weeks following GK1.5 treatement)
 
 Lymphotoxin-alpha KO mouse don't have LN [[Mani_Science_2019a]].
+
+TRM17 can be induced in kidney with a IL17aCRE R26eYFP with Staphylococcus aureus infection.
 ### Others
 
 Toxine pertussique.
 Laser capture microdissection
 Stamper-Woodruff tissue binding assay = coupe de tissue sur une lame, et passage de cellules à tester sur cette lame. A permis de déterminer l'affinité des lymphocytes pour les cellules HEV.
 T-scan = TCR antigen specificity screening
-
+Hi-C = High throughput chromatine conformation = étude des interactions entre les loci de l'ADN
 ### Dissociation
 
 En réalisant des analyses transcriptomiques à partir de TRM extrait avec différent type de dissociation enzymatique, [[Crowl_NatImmunol_2022]] ont démontré que certains gènes décris comme faisant parti de la signature TRM étaient en réalité induit par la dissociation en elle-même.
 
+Les TRM ont été identifié avec leurs capacités de résidence, même si par soucis de praticité, la plupart des études utilisent des marqueurs phénotypique pour identifier les TRM à la place. Cependant, l'utilisation d'extraction de lymphocytes T dans les tissus et de cytométrie en flux sous-estime le compartiment des TRM par un facteur 50-70 dans les tissus muqueux, 6-28 dans les autres tissus non périphérique, et 3 dans la rate [[Steinert_Cell_2015]]. De plus, l'extraction favorise certains types cellulaires par dessus d'autres, augmentant le biais de ce type d'analyse (les cellules du sang et marginales sont enrichies par dessus le reste du tissu, l'épithélium est enrichi par dessus la lamina propria, et CD103 est surestimé). Ces observations suggèrent que pour réellement étudier les TRM, les techniques de choix seraient plutôt la parabiose, l'injectection intravasculaire d'anticorps, et la microscopie [[Steinert_Cell_2015]].
+La majorité des cellules dans les tissus sont des TRM. Seulement la moitié des cellules mémoires sont retrouvées dans les organes lymphoïdes secondaires, et seulement 4% sont dans le sang (dans un modèle murin avec une seule infection) [[Steinert_Cell_2015]].
 ### Bioinformatics
 
 MetaCell = algorithm that gorup individual cells in meta cells of similar cells

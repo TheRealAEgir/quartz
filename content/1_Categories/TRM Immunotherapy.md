@@ -1,6 +1,3 @@
-
-
-
 Suite à l'immunothérapie, une population de cellules exprimant HOBIT et pouvant provenir des TRM de la tumeur est retrouvée dans le sang. Ce populaiton disparait avec le temps [[Caushi_Nature_2021]].
 Les TRM des patients qui répondent aux immunothérapie dans les cancers NSCLC ont un phéntoype stem-like (TCF1, CD127) alors que les TRM des patients qui ne répondent pas ont un phénotype plus épuisés (TOX2, CTLA4, TIM3, CD39) [[Caushi_Nature_2021]].
 Sans surprise, les patients avec moins de TRM spécifiques d'antigènes tumoraux répondent moins favorablement au traitement par immunothérapie [[Caushi_Nature_2021]].
@@ -11,6 +8,10 @@ Dans un modèle de cancer du sein chez la souris, il a été observé qu'il exis
 Une signature TRM est associée avec le pronostic des patients atteints de cancer, mais seule la signature TEX permet de prédire la réponse aux immunothérapies [[Burn_NatImmunol_2026]]
 [[Luoma_Cell_2022a]] ont observé des cellules avec un phénotype TRM dans les cancers HNSCC traités par anti-PD1 anti-CTLA4 dont la signature permet de prédire le pronostic dans une cohorte de cancer urothéliaux avec un traitement similaire.
 Les LT CD8+ CXCR6+ sont plus efficaces que les CXCR6- dans un modèle de tumeur chez la souris traité par anti-PD1 [[Wang_JImmunotherCancer_2021a]].
+
+Bien que la plupart des études ont décris que l'infiltration des tumeurs avec des TRM a un impact prédictif chez les patients traités par ICB, [[Park_NatImmunol_2026]] décris que les TRM sont différent de TEX, et que seuls les TEX répondent au traitement et ont un impact prédictif.
+
+De manière surprenante, il a été observé que l'utilisation d'anti-PD1 limitait la formation de TRM dans la peau de manière TGFb-dépendante [[Devi_NatImmunol_2025a]]. Ce résultat suggère que ce traitement doit être utilisé correctement, et risque de limiter la réponse immunitaire anti-tumorale dans certains cas.
 ## List of used references
 ```dataview
 LIST

@@ -11,6 +11,7 @@ Les cellules mémoires capablent de sortir de SG et FRT n'expriment pas CD69 et 
 [[Masopust_JExpMed_2010]] observent que les lymphocytes mémoires dans l'intestin ne reciculent pas.
 
 En utilisant des marqueurs congénique et des greffes de peau, il a été observé qu'il existe des exTRM recirculant dans le sang après ré-activation [[Fonseca_NatImmunol_2020]]. Ceux-ci gardent des caractéristiques de TRM, y compris l'expression de CCR9 et Ly6C mais pardent l'expression de CD69 et CD103 [[Fonseca_NatImmunol_2020]]. La recirculation semble dépendre de S1P [[Fonseca_NatImmunol_2020]]. Les exTRM sont capablent de former des TCM et des TEM, et migrent de façon préférentielle dans le tissu d'origine (bien que uniquement après réactivation) [[Fonseca_NatImmunol_2020]].
+L'acide rétinoïque est capable de bloquer la recirculation des exTRM, et le traitement avec du FTY720 limite cet effet [[Obers_Immunity_2024]].
 ## List of used references
 ```dataview
 LIST

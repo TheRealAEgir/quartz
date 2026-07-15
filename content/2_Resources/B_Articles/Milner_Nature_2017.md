@@ -41,7 +41,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
->**Summary** : This paper used combined bioinformatic and RNAi screening to identify RUNX3 as a key transcription factor in [[TRM Differenciation]] and [[TRM Persistance]]. They used transcription analyses of D7 PI TRM with ATACseq data with PageRank algorithm to find target, and tested them in a screening mouse model, resulting in the finding of NR4A3 and RUNX3 as new TF. RUNX3 deficient P14 cells showed impaired TRM formation, and inductible RUNX3 deficiency showed that RUNX3 could have a role in both TRM differenciation and TRM persitance. Transcriptionnal analyses and ChIPseq gave a role in RUNX3 in inducing a great part of the core tissue residency program, including TBET downregulation. RUNX3 had a positive role in tumor setting as well and RUNX3 cells had higher granzyme B. [[TRM Epigenetic]]
+>**Summary** : This paper used combined bioinformatic and RNAi screening to identify RUNX3 as a key transcription factor in [[TRM Differenciation]] and [[TRM Caracteristics]]. They used transcription analyses of D7 PI TRM with ATACseq data with PageRank algorithm to find target, and tested them in a screening mouse model, resulting in the finding of NR4A3 and RUNX3 as new TF. RUNX3 deficient P14 cells showed impaired TRM formation, and inductible RUNX3 deficiency showed that RUNX3 could have a role in both TRM differenciation and TRM persitance. Transcriptionnal analyses and ChIPseq gave a role in RUNX3 in inducing a great part of the core tissue residency program, including TBET downregulation. RUNX3 had a positive role in tumor setting as well and RUNX3 cells had higher granzyme B. [[TRM Epigenetic]]
 >
 >**Model** : P14 T cell bearing mice and infection with LCMV presenting GP33-41 through MHC-II
 >**Results** : By D7, T cells in NLT upregulate 90% of TRM markers including CD69 and CD103 in the kidney parenchyma and IEL in the intestine compared to spleen.
@@ -56,7 +56,7 @@ used_in_redaction: Yes
 >**Experiment** : Co-transfert of RUNX3 shRNA and CTRL shRNA P14 T cells in mice infected with LCMV.
 >**Results** : Underepresentation of RUNX3 shRNA T cells in IEL, and most of the cells do not express CD69/CD103. Also with localized enteric infection with listeria monocytogenes expressing the GP33-41 peptide.
 >**Experiment** : Inductible RUNX3 defiency
->**Results** : The induction of the RUNX3 deficiency resulted in a loss of splenocyte, but to a much greater loss of CD69+CD103+ TRM after infection. Delayed induction resulted in a even greater loss, suggesting for a role of RUNX3 in [[TRM Persistance]] as well as [[TRM Differenciation]]. This result was independent of the tissue site. RUNX3 defiencient cells had lower granzyme B expression and higher annexin V, the later suggesting that the loss of TRM cells could be due to increased apoptosis.
+>**Results** : The induction of the RUNX3 deficiency resulted in a loss of splenocyte, but to a much greater loss of CD69+CD103+ TRM after infection. Delayed induction resulted in a even greater loss, suggesting for a role of RUNX3 in [[TRM Caracteristics]] as well as [[TRM Differenciation]]. This result was independent of the tissue site. RUNX3 defiencient cells had lower granzyme B expression and higher annexin V, the later suggesting that the loss of TRM cells could be due to increased apoptosis.
 >
 >**Experiment** : Overexpression of RUNX3
 >**Results** : More TRM at D8 PI, IEL D12/13 PI and enhanced CD103 expression. There is a reported role of RUNX3 in CD103 expression.

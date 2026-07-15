@@ -5,6 +5,8 @@ Les TRM de l'intestin jouent un rôle dans l'infection contre LM, et l'infection
 
 Une immunisation vaginale contre HSV permet une protection contre un re-challenge avec une dose léthale [[Iijima_Science_2014a]]. Dans ce modèle, la protection est médiée par les TRM CD4 qui produisent de l'IFNg. En utilisant un modèle de parabiose avec une souris immunisée et une souris naive, seule la souris immunisée (qui comprends des TRM) est protégée contre le re-challenge, mais pas la souris naive (qui comprends les TCIRC de la souris immunisée) [[Iijima_Science_2014a]].
 Les TRM locaux sont capable de protéger l'organisme contre une infection HSV en absence complète des T circulants [[Mackay_Immunity_2015]].
+
+Il existe des TRM dans le cerveau, et ceux-ci sont capables de produire des cytokines et de protéger contre une infection [[Urban_NatImmunol_2020]].
 ## List of used references
 ```dataview
 LIST

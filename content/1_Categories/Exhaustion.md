@@ -2,6 +2,10 @@ L'épuisement a été étudié de manière épigénétique par [[Philip_Nature_2
 D'un point de vue moléculaire, NFATC1 a été identifié comme un facteur jouant un rôle dans l'épuisement par rapport à une infection aiguë, tandis que les voie Wnt/TCF1 sont perdues entre le jour 7 et 14 de l'épuisement [[Philip_Nature_2017]].
 
 Il existe une population de TRM épuisée et spécifique de l'antigène CD68+CD103- et une population moins épuisée CD69+CD103+ dans un modèle de tumeur du sein chez la souris [[Virassamy_CancerCell_2023]].
+
+En cas l'épuisement des lymphocytes T CD8+ après une infection LCMV, ceux-ci expriment des protéines associés avec le phénotype des TRM (CD69, CD103, CXCR6, CD38, CD49a, RUNX3 et répriment Ly6C et CD62L) dans les tissus et deviennent résident [[Park_NatImmunol_2026]].
+Après restimulation, les Tex expriment moins de cytokines [[Park_NatImmunol_2026]].
+Bien que les TRM et les TEX partagent l'expression de nombreuses protéines, et surtout de protéines de résidence, leur transcriptome et leur épigénome reste largement différent [[Park_NatImmunol_2026]]. Les deux populations dépendent de RUNX3, HOBIT et BLIMP1, mais seuls les TEX dépendent de TOX [[Park_NatImmunol_2026]]. Il est possible de mettre en place des signatures de gènes capable de distinguer les TRM des TEX, et les marqueurs protéiques les plus efficaces sont CD73 pour les TRM et CD200R pour les TEX, respectivement [[Park_NatImmunol_2026]].
 ## List of used references
 ```dataview
 LIST

@@ -49,7 +49,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : This article discuss the fact that TEX has been treated as if they were TRM in cancer in the latest research. By using CITEseq/cycling IF, they showed that TRM and TEX are distinct are propose a pan-cancer TRM and TEX signature as well as some surface protein markers, although these may be different depending on the context. Only the TEX population was associated with response to ICB. The two population showed limited TCR overlap, and the TEX was tumor antigen-specific while TRM was virus antigen-specific. TRM was mostly found in healthy tissue, while TEX was found in tumor tissue. These population had common precursors, has shown with SPLINTR barcoding. The main mecanism responsible for the formation of one over the other population was the TCR antigen signaling, wich was higher in TEX. TRM could differenciate into TEX after antigen stimulation, while TEX could differenciate (or die) in TRM in absence of antigen.
-> [[TRM Cancer]] [[TRM Prognosis]] [[TRM Phenotype]] [[TRM Specificity]] [[TRM Localization]][[TRM Heterogeneity]] [[TRM Differenciation]]
+> [[TRM Cancer]] [[TRM Prognosis]] [[TRM Phenotype]] [[TRM Specificity]] [[TRM Caracteristics]][[TRM Heterogeneity]] [[TRM Differenciation]]
 > 
 >**Results** : This paper started with the observation that TRM and TEX share a lot of similarities including the resident program, and that TRM signatures were labelling TEX as well.
 >

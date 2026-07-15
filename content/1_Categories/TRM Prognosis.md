@@ -6,6 +6,7 @@ Avec des analyses TCGA LUAD et des signatures extraites de scRNAseq sur NSCLC, i
 Dans les cancers HGSOC, les TRMstem exprimant TCF1 ont un impact positif plus important que les TRM n'exprimant pas TCF1. Les Tcric exprimant TCF1 n'ont, quant à eux, pas d'impact sur le pronostic [[Anadon_CancerCell_2022]].
 Le transfert de lymphocytes TRM triés ou de Trecirc CD103- montre que les TRM sont plus efficaces à ralentir la croissance tumorale chez la souris [[Anadon_CancerCell_2022]].
 Les TRM CD103+CD49a+ ont un impact pronostic chez les patients NSCLC lorsqu'ils sont localisés au sein de la tumeur [[Paolini_JImmunotherCancer_2024]].
+Parmi les patients avec une forte infiltration CD8, l'utilisation d'une signature dérivée des TRM dans laquelle l'effet des TEX a un impact pronostique sur une cohorte de TNBC [[Park_NatImmunol_2026]].
 ## List of used references
 ```dataview
 LIST

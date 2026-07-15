@@ -12,7 +12,7 @@ Les TRM extraits de cancer du sein chez la souris peuvent détruire des cellules
 Dans des cancer humain, il a été observé que les TRM CD103+CD39+ pouvait sécréter de l'IFNg et induire l'activité des caspases 3/7 dans des cellules tumorales autologues dans un modèle de co-culture *ex vivo*, et ce de manière CMH-I dépendante [[Duhen_NatCommun_2018]].
 Dans un modèle de mélanome murin, il a été montré que les TRM jouaient un role dans la phase d'équilibre du cancer de manière antigène dépendante, et que le TNFa avait un rôle important tandis que l'IFNg et la perforine était dispensable [[Park_Nature_2019]].
 Les TRM avec une signalisation HIF1a constitutive sont plus efficace dans l'élimination de cellules tumorale dans des expériences *in vitro*[[Liikanen_JClinInvest_2021]].
-
+Il a été montré que les TRM CD4+ expriment de manière constitutive les mRNA codant des cytokines comme l'IL17a, mais n'expriment pas les protéines dans un contexte homéstatique [[Asada_NatImmunol_2025]]. Ce mécanisme pourrait permettre une réponse plus rapide en cas d'activation des cellules.
 ### Rôle indirect (passant par le recrutement d'autres acteurs) des TRM
 
 L'IFNg sécrété par les TRM pourrait avoir un rôle de recrutement des autres leukocytes, en induisant l'expression de VCAM1 sur les cellules endothéliales [[Chang_NatImmunol_2014]]. De plus, l'IFNg est connu pour induire l'expression de CXCL9 et CXCL10 (par quel type cellulaire ?), deux cytokines permettant le recrutement de lymphocytes T CD8 *via* CXCR3 [[Yenyuwadee_SciAdv_2022]]. L'IL2 et le TNFa, quand à eux, pourraient jouer sur la maturation des cellules dendritiques et des lymphocytes NK [[Chang_NatImmunol_2014]].
@@ -27,6 +27,7 @@ Les TRM pourraient se différencier en TEM dans un contexte d'infection secondai
 ### Modulation de l'efficacité des TRM
 
 En l'absence de signalisation TGFb dans la peau, les TRM sont moins efficaces contre un re-challenge avec VV-OVA [[Hirai_Immunity_2019]].
+
 
 ## List of used references
 ```dataview

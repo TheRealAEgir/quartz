@@ -1,5 +1,7 @@
 
 La persitance des TRM au sein de l'intestin est grandement diminuée après la résolution de l'inflammation dans les lymphocytes KO pour le TGFbRII [[Zhang_Immunity_2013]].
+1. En utilisant un co-transfert de cellules P14 WT/KO pour le TGFbRII, il a été observé que les TRM n'étaient pas maintenu dans les intestins après la clearance du virus dans un contexte LCMV Armstrong, mais pas dans une infection chronique Cl13. Ce résultat est lié à une plus faible rétention des cellules KO, compensé par des capacités de homing plus importantes liés à CD49d/beta7 au moment de l'infection [[Zhang_Immunity_2013]].
+
 En transferant des lymphocytes naïfs dans une souris sans infection et gnotobiotique, [[Casey_JImmunol_2012]] ont observés l'apparition de cellules avec un phénotype TRM dans la plupart des tissus testés. Cette observation a été interprété comme un "remplissage" à la suite de la prolifération homéostatique des cellules.
 La persitance des TRM dans la peau pourrait être lié à la quantité de TGFb disponible, qui serait limitante et qui permettrai de sélectionner les TRM les plus pertinents [[Weiss_eLife_2025]].
 Dans la peau, les TRM pourraient dépendre de CD103 pour leur survie, et les TRM du foie pourraient dépendre plutôt de LFA-1, ce qui expliquerai le indépendance au TGFb [[Christo_NatImmunol_2021]].
@@ -14,6 +16,8 @@ AHR joue un rôle dans la persistance des TRM dans la peau, puisque des lymphocy
 Les TRM IEL et SG dépendent du TGFb et de l'expression du TGFbRII pour leur persistance au sein de l'organisme [[Crowl_NatImmunol_2022]].
 Selon les tissus, il existe des populations de TRM dont la survie est dépendante de l'IL-15, dont la survie et la prolifération homéostatique est dépendante de l'IL-15, ou des populations complètement indépendantes de l'IL-15 [[Schenkel_JImmunol_2016]].
 Les TRM de la peau ne persistent pas en l'absence de signalisation IL15 [[Mackay_Immunity_2015]]. Les TRM de la peau KO pour TBET ne persistent pas non plus, et perdent l'expression de CD122 [[Mackay_Immunity_2015]]. Les TRM CD103+ mais pas CD103- dans les poumons nécessitent aussi l'IL15 pour leur persistance [[Mackay_Immunity_2015]].
+L'acide rétinoïque augmente la persistance des TRM dans les tissus (foie, SI) en limitant leur recirculation via l'axe S1P [[Obers_Immunity_2024]].
+
 ## List of used references
 ```dataview
 LIST

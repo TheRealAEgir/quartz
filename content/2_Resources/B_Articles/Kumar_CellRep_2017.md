@@ -42,7 +42,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : This article used flow cytometry and bulk RNAseq of sorted CD69+ vs CD69- site-paired CD4 and CD8 T cells and defined a core signature in human. Signature included  downregulation of S1PR1/KLF2/KLF3/CD62L/RAP1GAP1/RGS1/CX3CR1, and upregulation of CD103/CD49a/ICOS/CXCR6/PD1/DUSP6/IL10 and IRF4. This showed many similarities with mouse TRM, despite some differences such as HOBIT. TCR clonality was about the same. Turnover was lower. Cytokine production was globally higher. [[TRM Phenotype]]
- [[TRM Localization]] [[TRM Transcriptome]]
+ [[TRM Caracteristics]] [[TRM Transcriptome]]
  >
 >**Experiment** : Flow cytometry of healthy donors human organ T cells
 >**Results** : Blood CCR7-CD45RA- T cells are mainly CD69-CD103, while most organs are CD69+ with/without CD103+(only CD8+), except for spleen/LN with limited CD103+. Tissue CD69+ were not activated, because they had low expression of CD25/CD38/HLA-DR and maintenance expression of CD28/CD127.
