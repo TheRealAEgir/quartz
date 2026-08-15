@@ -1,1 +1,1 @@
-export {}
+export { ParentLinks } from "./parent-links"
