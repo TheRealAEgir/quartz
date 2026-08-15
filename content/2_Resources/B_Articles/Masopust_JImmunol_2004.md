@@ -4,10 +4,10 @@ category: literaturenote
 title: Activated primary and memory CD8 T cells migrate to nonlymphoid tissues regardless of site of activation or tissue of origin
 tags:
 citekey: Masopust_JImmunol_2004
-status: Unread
+status: Read
 dateread: 2026-07-09
 articletype: Article
-used_in_redaction: No
+used_in_redaction: Yes
 ---
 ---
 ## Notes

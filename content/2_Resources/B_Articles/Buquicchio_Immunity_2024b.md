@@ -68,7 +68,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : This article used scATAC seq on TRM isolated from various timepoint and from various organs. They found new protein playing a role in TRM, such as GRP55, HIC1, and FGCRIIB (which was important for Tcm/Tem and could be an early sign of comitment). They described a organ-wise common epigenetic signature, as well as organ specific. These included the identification of FOS/FOSB/FOSL/BACH2 in skin TRM. Comparaison of TRM with Tex showed that TRM only had similarities with Tex-term, but not Tex-prog/int; however, Tex-term had more specific marks.
-> [[TRM Epigenetic]] [[TRM Heterogeneity]] [[TRM Differenciation]] [[TRM Precursors]] (for the FGCRIIB sorting experiment) [[Effector_Memory cell formation]]
+> [[TRM Epigenetic]] [[TRM Heterogeneity]] [[TRM Differenciation]] [[TRM Precursors]] (for the FGCRIIB sorting experiment) [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
 > 
 >**Experiment** : scATACseq of CD45.1 P14 T cells isolated of liver and spleen of mouse 30 days after LCMV Armstrong infection.
 >**Results** : Tem, Tcm and Trm showed distinct epigenetic profile, with Trm showing decreased accessibility of KL2/CCR7/SELL/S1PR5/ZEB2/CX3CR1, FCGR2B/HIC and increase in CHN2/CDH1/ITGA9/GPR55. Increased in GPR55/HIC1 and decrease in FCGR2B was validated at RNA level using other databases, since they had no known role in TRM at this time. There was no increase in HIC1 motif accessibility. The removal of HIC1 lead to the decrease of liver and small intestine TRM.

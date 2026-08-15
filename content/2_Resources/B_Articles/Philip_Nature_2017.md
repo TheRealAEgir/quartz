@@ -50,7 +50,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : This article accessed chromatin accessibility of acute vs tumoral tumor antigen specific CD8+ T cells, and found two distinct state of dysfunction (before and after day 12). The dysfunction included decreases in TCR signalling, cytokine production, Wnt/TCF1 signalling and T cells differentiation and increases in NFAT signalling. Only TILs from before day 12 could be functionally restored by IL15 *in vitro*.
-> [[Exhaustion]] [[Effector_Memory cell formation]]
+> [[1.3 Dysfonction des lymphocytes T]] [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
 > Gene involved in dysfunction : NFATC1/2-related genes (CTLA4, PD1, TIGIT, SOCS1, CBLB, EGR2), E2F/KLF/ETS TF families, CISH1/SOCS2, CD101/CD38/CD30L/CD5
 > Gene lossed by dysfunction : IFNg, Wnt/TCF1, ICOS/CD28, 
 >Bioinformatics : list("peak opening L14 vs L7" = c("2EF1", "SP1", "SP4", "ELK1", "ELK3", "ELK4", "MBD2", "KLF6", "ZFX", "ZBTB7A", "KLF7", "SP3", "E2F4", "E2F3", "KLF2", "KLF4", "KLF16", "GABPA", "MBD1", "ELF1", "NR2C2", "EGR1", "E2F2", "E2F5"),

@@ -42,7 +42,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article describe an activation of CD103 expressing naive T cells by pDC/mDC through IFNb and IL12. [[Effector_Memory cell formation]]
+> %% begin Notes %%**Summary** : This article describe an activation of CD103 expressing naive T cells by pDC/mDC through IFNb and IL12. [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
 > 
 >**Experiment** : Assessement of CD8 T cells from LN
 >**Results** : There was a CD103neg that had a MP phenotype, with memory proteins without activation markers, as well as basal proliferation and IFNg production. Most naive T cells expressed CD103, but memory and VM lacked CD103. This was visible using Ly6C/CXCR3 classification, where DN are CD103-expressing naive, DP are VM and Ly6C SP are intermediate.

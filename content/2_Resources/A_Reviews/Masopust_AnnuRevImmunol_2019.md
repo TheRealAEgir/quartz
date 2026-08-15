@@ -47,7 +47,7 @@ articletype: Review
 >[[TRM Caracteristics]] Thought to be relatively long, but short in lung strom and parenchyma
 >[[TRM Differenciation]] Site of priming could change TRM phenotype, with expression of alpha4beta7, CCR9 or CCR4, CCR10 and PSGL-1
 >[[TRM Precursors]] Too terminally differenciated cells do not acquire CD103
->[[TRM Prognosis]] TRM accelerate control against microbial pathogen (with references). CD103 correlate with cancer prognosis (with references)
+>[[TRM Cancer]] TRM accelerate control against microbial pathogen (with references). CD103 correlate with cancer prognosis (with references)
 >[[TRM Caracteristics]] Migrate at 5-10 µm/min, depending on tisssue site.
 >[[TRM Effector]] Effector-like phenotype, but also can proliferate, and sometime recirculate and gain a Tcm/Tem phenotype.
 >[[TRM Autoimmune diseases]] Talks a bit about evidence in TRM to be involved in auto immune diseases.

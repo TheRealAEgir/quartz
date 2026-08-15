@@ -23,7 +23,7 @@ used_in_redaction: No
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article studied HOBIT and BLIMP1 role in TRM differenciation. It first observed that HOBIT expression peaked at 30 dpi and BLIMP1 at 8 dpi in TRM. HOBIT KO resulted in lower TRM number, and to a lesser effect BLIMP1. DKO resulted in lower CD49a, CD69 and CD103. BLIMP1 affected TEC over MPEC. DKO affected TRM but not memory T circ, and CD103- kidney/liver TRM. HOBIT was affected by IL15 and TBET. Transcriptomic and epigenetics showed a direct binding of HOBIT/BLIMP1 on CCR7/S1PR1/TCF1 and of BLIMP1 on KLF2. [[Effector_Memory cell formation]] [[TRM Phenotype]] [[TRM Differenciation]]
+> %% begin Notes %%**Summary** : This article studied HOBIT and BLIMP1 role in TRM differenciation. It first observed that HOBIT expression peaked at 30 dpi and BLIMP1 at 8 dpi in TRM. HOBIT KO resulted in lower TRM number, and to a lesser effect BLIMP1. DKO resulted in lower CD49a, CD69 and CD103. BLIMP1 affected TEC over MPEC. DKO affected TRM but not memory T circ, and CD103- kidney/liver TRM. HOBIT was affected by IL15 and TBET. Transcriptomic and epigenetics showed a direct binding of HOBIT/BLIMP1 on CCR7/S1PR1/TCF1 and of BLIMP1 on KLF2. [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]] [[TRM Phenotype]] [[TRM Differenciation]]
 > 
 >**Other Results** : HSV-specific skin CD8 T cells express HOBIT which expression peaked at 30 dpi, while BLIMP1 peaked at 8 dpi.
 >**Experiment** : Co-transfer of activated WT/HOBIT or BLIMP1 KO in mouse

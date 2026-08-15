@@ -33,7 +33,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : This article used flow cytometry/scRNAseq and bulk RNAseq of sorted CD103+CD8+ T cells in BC patients and showed that TRM was associated with prognosis in this type of cancer. TRM signature was associated with the prognosis in METABRIC and was enriched in ICB responder melanoma patient at baseline.
-> [[TRM Cancer]] [[TRM Prognosis]] [[TRM Immunotherapy]]
+> [[TRM Cancer]] [[TRM Cancer]] [[TRM Immunotherapy]]
 > 
 >**Experiment** : Flow cytometry of BC patients
 >**Results** : Higher CD45+ TILs in primary cancer tissue in non-metastatic patient (treatment naive). The most common memory subset was Tem, and Temra (based on CCR7/CD45RA expression). There was high expression of PD1, but not TIM3 and LAG3. CTLA4 was higher on CD4, even with low Treg (CD4+FOXP3+) infiltration, but these had higher CTLA4/OX40 coexpression.

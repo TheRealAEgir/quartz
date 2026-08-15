@@ -31,7 +31,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : This article used flow cytometry on human TILs from HSNCC, melanoma, ovarian, lung and rectal cancer, and found that CD103+CD39+ had a unique phenotype and consisted of tumor antigen-specific T cells. Indeed, these cells expressed PD1/CD69/CTLA4/TIM3, downregulated CD28/KLF2/S1PR1/CD62L and had limited TCR expansion.  They were able to activate and kill autologous tumor cells in a co-culture model. Finally, patient with high amount of CD103+CD39+ TILs had better overall survival.
- [[TRM Cancer]] [[TRM Effector]] [[TRM Therapies]] [[TRM Phenotype]] [[TRM Prognosis]] [[TRM Specificity]]
+ [[TRM Cancer]] [[TRM Effector]] [[TRM Therapies]] [[TRM Phenotype]] [[TRM Cancer]] [[TRM Specificity]]
 >**Experiment** : Flow cytometry analysis of human HNSCC, melanoma, lung, ovarian and rectal cancer and comparison of the CD103+CD39+ population
 >**Results** : CD103+ expressed CD39/PD1/CD69 and low CD127.
 >

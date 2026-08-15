@@ -45,7 +45,7 @@ used_in_redaction: Yes
 
 > [!notes]
 >**Summary** : This article used *in vivo* fate mapping of KLRG1 to track the T cells that lose KLRG1 expression, and described that some KLRG1+ cells (mainly CD127+KLRG1+) still have some plasticity potential. This population showed a phenotype composed of both effector and memory characteristics and was able to survive for extended period of time. This population was able to differenciate into CD69+CD103- TRM, but not CD103+ TRM. There was some evidence that BACH2 was controlling this population, with high BACH2 expression resulting in exKLRG1 Tcm and Tem formation.
->[[TRM Precursors]] [[Other Memory and Effector Subsets]] [[Effector_Memory cell formation]]
+>[[TRM Precursors]] [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]] [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
 >
 > %% begin Notes %%
 >**Model** : KLRG1cre system which enable tracking of KLRG1+ effector cells *in vivo*, by havind a GFP-cre fusion protein under the promoter of KLRG1, a reporter gene activated once the cre remove the floxed STOP codon in the middle of the reporter gene.

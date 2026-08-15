@@ -59,7 +59,7 @@ articletype: Review
 
 > [!notes]
 > %% begin Notes %%
-> [[Other Memory and Effector Subsets]] Review about those.
+> [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]] Review about those.
 > Effector CD8+ have heterogeneity in IFNg/TNF/IL2/beta-chomkines and co-production, as well as newly vs pre-formed perforine and granzymes.
 > Phenotype varies with the infection type.
 > KLRG1hiCD127low are short lived compared to KLRG1loCD127hi

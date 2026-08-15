@@ -1,10 +1,16 @@
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - category == "literaturenote"
+        - status == "Read"
     order:
       - file.name
       - file.ctime
       - file.tags
     sort:
       - property: file.ctime
+        direction: ASC
+      - property: file.tags
         direction: ASC

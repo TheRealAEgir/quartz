@@ -32,7 +32,7 @@ used_in_redaction: No
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article observed HOBIT/BLIMP1 expression in lung TRM following IA infection in mice, and did mixed BM KO to study their impact on TRM/memory T cell formation. A mixed WT/HOBIT-BLIMP1 DKO mouse showed that removal of these TF resulted in higher MPEC CD127+KLRG1- and lower TEC CD127-KLRG1+ in blood, impacted CD103+CD69+ TRM in lung and it's CXCR6/CD49a, and spleen/mLN TCM but not TEM. This was recapitulated by BLIMP1 single KO, while none of the effect were observed in HOBIT single KO. [[TRM Phenotype]] [[TRM Heterogeneity]] [[TRM Differenciation]] [[CXCR6]] [[Effector_Memory cell formation]]
+> %% begin Notes %%**Summary** : This article observed HOBIT/BLIMP1 expression in lung TRM following IA infection in mice, and did mixed BM KO to study their impact on TRM/memory T cell formation. A mixed WT/HOBIT-BLIMP1 DKO mouse showed that removal of these TF resulted in higher MPEC CD127+KLRG1- and lower TEC CD127-KLRG1+ in blood, impacted CD103+CD69+ TRM in lung and it's CXCR6/CD49a, and spleen/mLN TCM but not TEM. This was recapitulated by BLIMP1 single KO, while none of the effect were observed in HOBIT single KO. [[TRM Phenotype]] [[TRM Heterogeneity]] [[TRM Differenciation]] [[CXCR6]] [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
 > 
 >**Experiment** : Infection of mouse with IA
 >**Results** : There was CD69+ CD103+/- TRM in the lung with a transcriptomic TRM signature. There was upregulation of HOBIT but not BLIMP1. There was upregulation of IL2R/IL7R/IL15R

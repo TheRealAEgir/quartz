@@ -24,21 +24,26 @@ def replace_wikilinks_with_content(markdown_text):
     # Find all wikilinks in the text (e.g., [[Note A]])
     wikilinks = re.findall(r'\[\[([^\]]+)\]\]', markdown_text)
 
-    for link in wikilinks:
-        # Construct the file path for the linked note
-        note_path = os.path.join(VAULT_PATH, f"1_Categories/{link}.md")
+    categories_path = Path(VAULT_PATH) / "1_Categories"
 
-        if os.path.exists(note_path):
+    for link in wikilinks:
+        # Search recursively in all subfolders of 1_Categories
+        matches = list(categories_path.rglob(f"{link}.md"))
+
+        if matches:
+            note_path = matches[0]
+
             # Read the content of the linked note
             with open(note_path, "r", encoding="utf-8") as f:
                 note_content = f.read()
 
             # Remove the excluded string and everything after it
-            # (Modify this line if you want to exclude a different pattern)
             note_content = note_content.split(EXCLUDE_STRING)[0].strip()
 
             # Replace the wikilink with the cleaned note content
             markdown_text = markdown_text.replace(f"[[{link}]]", note_content)
+        else:
+            print(f"Warning: Could not find '{link}.md'")
 
     return markdown_text
 

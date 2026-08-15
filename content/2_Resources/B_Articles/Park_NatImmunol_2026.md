@@ -34,7 +34,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : This article describe TRM and TEX generated via LCMV Arm and Cl13 and showed that, despite being similar in residency protein expression, these two population are different in cytokine production, and expression of other genes. The two population depended on BLIMP1, RUNX3 and in some tissue to HOBIT, but only TEX depended on TOX. TRM could differenciate into TEX after re-transfer and challenge with LCMV Cl13, but Tex did not acquire residency program with similar experiment and challenge with LCMV Arm (but it did with challenge with another Cl13). Then, there was the description of a TRM and TEX specific signature and membrane protein marker (CD73 for TRM and CD200R for TEX). The use of these signature showed that high TRM signature in CD8 hi patient had higher survival, but only the TEX signature predicted ICB response. This was confirmed in in vivo experiment where only TEX responded to the treatment.
-> [[TRM Phenotype]] [[TRM Heterogeneity]] [[TRM Differenciation]] [[TRM Cancer]] [[Exhaustion]] [[TRM Immunotherapy]] [[TRM Prognosis]] 
+> [[TRM Phenotype]] [[TRM Heterogeneity]] [[TRM Differenciation]] [[TRM Cancer]] [[1.3 Dysfonction des lymphocytes T]] [[TRM Immunotherapy]] [[TRM Cancer]] 
 > 
 >**Experiment** : Generation of TRM (CD69+CD103+ or CD69+CXCR6+ depending on tissue site) and TEX with LCMV Arm and Cl13 infection and P14 T cells.
 >**Results** : Tex expressed TRM associated markers and TRM expressed Tex associated markers (lower expression) in a similar kinetic manner. There was lower cytokine production in Tex-term

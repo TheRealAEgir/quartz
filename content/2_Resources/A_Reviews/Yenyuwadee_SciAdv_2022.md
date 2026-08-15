@@ -69,7 +69,7 @@ articletype: Review
 >Others studies to check once on this part, including phenotype of TRM in cancer.
 >Has the same nice table with studeis/phenotype/cancer type/discovery.
 >[[TRM Immunotherapy]] Talks a bit about immunotherapy.
->[[TRM Prognosis]] review of paper that link TRM with cancer prognosis.
+>[[TRM Cancer]] review of paper that link TRM with cancer prognosis.
 > %% end Notes %%
 
 > [!Useful Informations]-
