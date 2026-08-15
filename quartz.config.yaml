@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Thèse : Caractérisation des sous-populations de lymphocytes T résidents mémoires dans les métastases hépatiques de cancer colorectaux
+  pageTitle: "Thèse : Caractérisation des sous-populations de lymphocytes T résidents mémoires dans les métastases hépatiques de cancer colorectaux"
   pageTitleSuffix: "Thèse"
   enableSPA: true
   enablePopovers: true
