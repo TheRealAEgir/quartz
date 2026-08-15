@@ -43,11 +43,16 @@ function buildCustomPopupContent(
   // Extract the title
   // ----------------------------------------------------------
 
+  const titleRow = document.createElement("div")
+  titleRow.classList.add("custom-popover-title-row")
+
   const titleElement = document.createElement("h1")
   titleElement.classList.add("custom-popover-title")
   titleElement.innerHTML = title.innerHTML
 
-  popoverInner.appendChild(titleElement)
+  titleRow.appendChild(titleElement)
+
+  popoverInner.appendChild(titleRow)
 
   // ----------------------------------------------------------
   // Find the main article content
@@ -131,11 +136,11 @@ function buildCustomPopupContent(
   // Third+ lines = observations
   // ----------------------------------------------------------
 
-  const subtitle = document.createElement("p")
+  const subtitle = document.createElement("span")
   subtitle.classList.add("custom-popover-subtitle")
   subtitle.textContent = filteredLines[0]
 
-  popoverInner.appendChild(subtitle)
+  titleRow.appendChild(subtitle)
 
   // ----------------------------------------------------------
   // Description
