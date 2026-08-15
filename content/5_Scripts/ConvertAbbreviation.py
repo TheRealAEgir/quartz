@@ -30,9 +30,17 @@ for input_file in os.listdir(input_dir):
     input_path = os.path.join(input_dir, input_file)
 
     # Extract parent filename without path or extension
-    parent_filename = os.path.splitext(input_file)[0]
+    parent_filename = os.path.splitext(input_file)[0].strip()
+
+    # --------------------------------------------------------
+    # Create directory corresponding to the parent
+    # --------------------------------------------------------
+
+    parent_dir = os.path.join(output_dir, parent_filename)
+    os.makedirs(parent_dir, exist_ok=True)
 
     print(f"\nProcessing: {input_file}")
+    print(f"  Output directory: {parent_filename}")
 
     # ========================================================
     # READ FILE
@@ -97,25 +105,14 @@ for input_file in os.listdir(input_dir):
 
         filename = f"{filename}.md"
 
+        # ----------------------------------------------------
+        # PUT NOTE INSIDE PARENT DIRECTORY
+        # ----------------------------------------------------
+
         output_path = os.path.join(
-            output_dir,
+            parent_dir,
             filename
         )
-
-        # ----------------------------------------------------
-        # CREATE YAML FRONTMATTER
-        # ----------------------------------------------------
-
-        # Parent is ALWAYS included
-        yaml_frontmatter = f"""---
-parent: "{parent_filename}"
-"""
-
-        # Type is only included when parentheses exist
-        if note_type:
-            yaml_frontmatter += f'type: "{note_type}"\n'
-
-        yaml_frontmatter += "---\n"
 
         # ----------------------------------------------------
         # WRITE NOTE
@@ -124,12 +121,11 @@ parent: "{parent_filename}"
         with open(output_path, "w", encoding="utf-8") as f:
 
             f.write(
-                f"{yaml_frontmatter}"
                 f"# {title}\n\n"
                 f"{body}\n"
             )
 
-        print(f"  → {filename}")
+        print(f"  → {parent_filename}/{filename}")
 
     print(f"  Split {len(sections)} notes.")
 

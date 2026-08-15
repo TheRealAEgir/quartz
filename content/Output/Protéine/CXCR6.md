@@ -1,6 +1,3 @@
----
-parent: "Protéine"
----
 # CXCR6
 
 - C-X-C chemokine receptor type 6

@@ -1,7 +1,3 @@
----
-parent: "Accronyme"
-type: "Cellule"
----
 # TRM (Cellule)
 
 - Lymphocyte T résident mémoire

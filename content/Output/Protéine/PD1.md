@@ -1,6 +1,3 @@
----
-parent: "Protéine"
----
 # PD1
 
 - Programmed death-ligand 1

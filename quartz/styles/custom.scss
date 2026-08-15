@@ -35,3 +35,14 @@
     font-weight: 600;
   }
 }
+
+// Change wikilinks color based on data type
+a.internal-link[data-slug^="output/protéine/"] {
+  color: rgb(124, 31, 179) !important;
+}
+a.internal-link[data-slug^="output/méthode/"] {
+  color: rgb(14, 134, 60) !important;
+}
+a.internal-link[data-slug^="output/accronyme/"] {
+  color: rgb(192, 114, 12) !important;
+}

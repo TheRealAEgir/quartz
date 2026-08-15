@@ -20,5 +20,5 @@
 [[TRM Therapies]]
 [[Classification des sous populations de lymphocytes]]
 [[Clonal Replacement]]
-[[CXCR6]]
+[[Output/Protéine/CXCR6]]
 [[Method]]

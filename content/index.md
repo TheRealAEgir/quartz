@@ -11,7 +11,7 @@ Bienvenue sur la version numérique de cette thèse. Vous pouvez commencer la le
 
 Cette thèse a été écrite en utilisant les logiciels Obsidian, Quartz et Zotero, ce qui lui confère des nouveaux avantages. Chaque partie est disponible sur une page différente, accessible en cliquant sur les liens wikilinks. Ces liens seront également utilisés à d'autres reprises : par exemple, chaque référence, méthode ou protéine possède son propre lien. Il est possible de cliquer sur ce lien, mais également d'y passer seulement son curseur de souris, ce qui fait apparaitre une preview comme sur l'image suivante :
 
-[[Output/CXCR6|CXCR6]]
+[[Output/Protéine/CXCR6|CXCR6]]
 [[LCMV]]
 [[TRM]]
 [[P14]]

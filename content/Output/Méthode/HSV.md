@@ -1,7 +1,3 @@
----
-parent: "Méthode"
-type: "Virus"
----
 # HSV (Virus)
 
 - Herpes Simplex Virus

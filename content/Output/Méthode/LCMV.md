@@ -1,7 +1,3 @@
----
-parent: "Méthode"
-type: "Virus"
----
 # LCMV (Virus)
 
 - Lymphocytic ChorioMeningitis Virus
