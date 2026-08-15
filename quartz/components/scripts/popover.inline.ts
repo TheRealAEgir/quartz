@@ -67,35 +67,14 @@ function buildCustomPopupContent(
   }
 
   // ----------------------------------------------------------
-  // Extract text lines from the content
+  // Extract definition lines from bullet points
   // ----------------------------------------------------------
 
-  const lines: string[] = []
-
-  const walker = html.createTreeWalker(
-    content,
-    NodeFilter.SHOW_TEXT,
-  )
-
-  let node: Node | null
-
-  while ((node = walker.nextNode())) {
-    const text = node.textContent?.trim()
-
-    if (text) {
-      lines.push(text)
-    }
-  }
-
-  // ----------------------------------------------------------
-  // Remove the title if it was included in the content
-  // ----------------------------------------------------------
-
-  const titleText = title.textContent?.trim()
-
-  const filteredLines = lines.filter(
-    (line) => line !== titleText,
-  )
+  const filteredLines = [
+    ...content.querySelectorAll("li"),
+  ]
+  .map((li) => li.textContent?.trim() ?? "")
+  .filter((text) => text.length > 0)
 
   // ----------------------------------------------------------
   // No content
@@ -425,7 +404,7 @@ function setupPopovers() {
   const links =
     [
       ...document.querySelectorAll(
-        "a.internal",
+        'a.internal[href*="/output/"]',
       ),
     ] as HTMLAnchorElement[]
 
