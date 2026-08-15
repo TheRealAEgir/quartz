@@ -1,3 +1,37 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+/* ============================================================
+   Custom scientific-note popovers
+   ============================================================ */
+
+.popover-inner {
+  .custom-popover-title {
+    font-size: 1.35rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .custom-popover-subtitle {
+    margin-top: 0;
+    margin-bottom: 1.25rem;
+
+    font-style: italic;
+    color: var(--darkgray);
+
+    font-size: 0.95rem;
+  }
+
+  .custom-popover-description,
+  .custom-popover-observations {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+
+    line-height: 1.5;
+  }
+
+  .custom-popover-description strong,
+  .custom-popover-observations strong {
+    font-weight: 600;
+  }
+}
