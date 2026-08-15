@@ -48,8 +48,8 @@ a.internal-link[data-slug^="output/accronyme/"] {
   color: rgb(192, 114, 12) !important;
 }
 
-// Resolve yellow-brown background !
-a.internal[href^="./*"] {
+/* Remove background from all internal links */
+a.internal {
   background: none;
   background-color: transparent;
 }
