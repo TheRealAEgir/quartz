@@ -49,7 +49,10 @@ a.internal-link[data-slug^="output/accronyme/"] {
 }
 
 // Resolve yellow-brown background
-a.internal-link {
+a.internal-link,
+a[href^="/"],
+a[href*="./"],
+a[href*=".."] {
   background: none;
   background-color: transparent;
 }
