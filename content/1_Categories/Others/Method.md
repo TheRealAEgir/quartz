@@ -28,14 +28,12 @@ actinomycine D which block transcription
 ### Mouse models
 
 OT-I et OVA low affinity Q4H7 and G4 peptide
-P14 et LCMV
 gBT-I et HSV (gDT-II for CD4)
 Pmel et gp100
 
 VSV
 HSV
 IAV influenza A + LAIV live attenuated
-LCMV Armstrong + Cl13 (differ only from two amino acid that do not form any known immunogenic antigen [[Matloubian_JVirol_1993]] )
 LM
 VacV skin infection that does not spread to other tissues. This generate a local and a systemic memory response and can be used to compare skin with or without TRM [[Khan_JExpMed_2016]]. (sometimes called VV for vaccinia virus)
 rotavirus (intestine mouse infection)

@@ -50,7 +50,7 @@ def replace_wikilinks_with_content(markdown_text):
 # Example usage
 if __name__ == "__main__":
     # Read the main note (e.g., Thesis.md)
-    main_note_path = os.path.join(VAULT_PATH, "Thesis.md")
+    main_note_path = os.path.join(VAULT_PATH, "5_Scripts/Thesis.md")
     with open(main_note_path, "r", encoding="utf-8") as f:
         main_content = f.read()
 
@@ -58,7 +58,7 @@ if __name__ == "__main__":
     inlined_content = replace_wikilinks_with_content(main_content)
 
     # Save the result to a new file (e.g., Thesis_inlined.md)
-    output_path = os.path.join(VAULT_PATH, "Thesis_inlined.md")
+    output_path = os.path.join(VAULT_PATH, "5_Scripts/Thesis_inlined.md")
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(inlined_content)
 

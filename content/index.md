@@ -1,35 +1,16 @@
 ---
-title: Welcome to Quartz
+title: "Thèse : Caractérisation des sous-populations de lymphocytes T résidents mémoires dans les métastases hépatiques de cancer colorectaux"
 ---
-
-This is not a blank Quartz installation anymore.
-
-[[0. Préface - La réponse immunitaire adaptative]]
-[[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
-[[1.2 Les différents types de lymphocytes T mémoires et leurs rôles]]
-[[1.3 Dysfonction des lymphocytes T]]
-[[TRM Caracteristics]]
-[[TRM Differenciation]]
-[[TRM Epigenetic]]
-[[TRM Historic]]
-[[TRM Heterogeneity]]
-[[TRM Phenotype]]
-[[TRM Precursors]]
-[[TRM Autoimmune diseases]]
-[[TRM Cancer]]
-[[TRM Effector]]
-[[TRM Immunotherapy]]
-[[TRM Infection]]
-[[TRM Cancer]]
-[[TRM Recirculation]]
-[[TRM Specificity]]
-[[TRM Therapies]]
-[[Classification des sous populations de lymphocytes]]
-[[Clonal Replacement]]
-[[CXCR6]]
-[[Method]]
+Bienvenue sur la version numérique de cette thèse. Vous pouvez commencer la lecture tout de suite en cliquant sur l'un des liens suivant :
+### [[I. Introduction]]
+### [[II. Matériel et méthodes]]
+### [[III. Résultats]]
+### [[IV. Discussion]]
+### [[V. Références]]
 
 
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Cette thèse a été écrite en utilisant les logiciels Obsidian, Quartz et Zotero, ce qui lui confère des nouveaux avantages. Chaque partie est disponible sur une page différente, accessible en cliquant sur les liens wikilinks. Ces liens seront également utilisés à d'autres reprises : par exemple, chaque référence, méthode ou protéine possède son propre lien. Il est possible de cliquer sur ce lien, mais également d'y passer seulement son curseur de souris, ce qui fait apparaitre une preview comme sur l'image suivante :
 
-
+[[Output/CXCR6|CXCR6]]
+[[LCMV]]
+[[TRM]]
