@@ -83,6 +83,11 @@ plugins:
     layout:
       position: right
       priority: 30
+  - source: ./quartz/plugins/global-navigation
+    enabled: true
+    layout:
+      position: left
+      priority: 40
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
