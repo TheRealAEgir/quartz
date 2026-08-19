@@ -3,25 +3,52 @@ import { normalizeRelativeURLs } from "../../util/path"
 import { fetchCanonical } from "./util"
 
 const p = new DOMParser()
+
 let activeAnchor: HTMLAnchorElement | null = null
 
 // ============================================================
 // HELPERS
 // ============================================================
 
-function getYamlValue(
-  html: Document,
-  key: string,
-): string | null {
-  const meta = html.querySelector(
-    `meta[name="quartz-${key}"]`,
-  )
+function getTextContent(
+  element: Element | null,
+): string {
+  return element?.textContent?.trim() ?? ""
+}
 
-  return meta?.getAttribute("content") ?? null
+function findMetadataValue(
+  content: Element,
+  field: string,
+): string {
+  const elements = [
+    ...content.querySelectorAll("p, li, div"),
+  ]
+
+  for (const element of elements) {
+    const text = element.textContent?.trim() ?? ""
+
+    if (
+      text.startsWith(`**${field}**::`) ||
+      text.startsWith(`${field}::`)
+    ) {
+      return text
+        .replace(
+          new RegExp(`^\\*\\*${field}\\*\\*::\\s*`),
+          "",
+        )
+        .replace(
+          new RegExp(`^${field}::\\s*`),
+          "",
+        )
+        .trim()
+    }
+  }
+
+  return ""
 }
 
 // ============================================================
-// CUSTOM DEFINITION POPUP
+// CUSTOM SCIENTIFIC NOTE POPUP
 // ============================================================
 
 function buildCustomPopupContent(
@@ -35,7 +62,7 @@ function buildCustomPopupContent(
   }
 
   // ----------------------------------------------------------
-  // TITLE
+  // Title
   // ----------------------------------------------------------
 
   const titleRow = document.createElement("div")
@@ -49,7 +76,7 @@ function buildCustomPopupContent(
   popoverInner.appendChild(titleRow)
 
   // ----------------------------------------------------------
-  // CONTENT
+  // Main content
   // ----------------------------------------------------------
 
   const content =
@@ -59,6 +86,10 @@ function buildCustomPopupContent(
   if (!content) {
     return false
   }
+
+  // ----------------------------------------------------------
+  // Extract bullet points
+  // ----------------------------------------------------------
 
   const filteredLines = [
     ...content.querySelectorAll("li"),
@@ -71,12 +102,14 @@ function buildCustomPopupContent(
   }
 
   // ----------------------------------------------------------
-  // ONE BULLET
+  // One line
   // ----------------------------------------------------------
 
   if (filteredLines.length === 1) {
     const description = document.createElement("p")
-    description.classList.add("custom-popover-description")
+    description.classList.add(
+      "custom-popover-description",
+    )
 
     const label = document.createElement("strong")
     label.textContent = "Description : "
@@ -92,7 +125,7 @@ function buildCustomPopupContent(
   }
 
   // ----------------------------------------------------------
-  // SUBTITLE
+  // Subtitle
   // ----------------------------------------------------------
 
   const subtitle = document.createElement("span")
@@ -102,11 +135,13 @@ function buildCustomPopupContent(
   titleRow.appendChild(subtitle)
 
   // ----------------------------------------------------------
-  // DESCRIPTION
+  // Description
   // ----------------------------------------------------------
 
   const description = document.createElement("p")
-  description.classList.add("custom-popover-description")
+  description.classList.add(
+    "custom-popover-description",
+  )
 
   const descriptionLabel = document.createElement("strong")
   descriptionLabel.textContent = "Description : "
@@ -119,17 +154,24 @@ function buildCustomPopupContent(
   popoverInner.appendChild(description)
 
   // ----------------------------------------------------------
-  // OBSERVATIONS
+  // Observations
   // ----------------------------------------------------------
 
   if (filteredLines.length >= 3) {
     const observations = document.createElement("p")
-    observations.classList.add("custom-popover-observations")
+    observations.classList.add(
+      "custom-popover-observations",
+    )
 
-    const observationsLabel = document.createElement("strong")
-    observationsLabel.textContent = "Observations : "
+    const observationsLabel =
+      document.createElement("strong")
 
-    observations.appendChild(observationsLabel)
+    observationsLabel.textContent =
+      "Observations : "
+
+    observations.appendChild(
+      observationsLabel,
+    )
 
     observations.appendChild(
       document.createTextNode(
@@ -137,7 +179,9 @@ function buildCustomPopupContent(
       ),
     )
 
-    popoverInner.appendChild(observations)
+    popoverInner.appendChild(
+      observations,
+    )
   }
 
   return true
@@ -151,9 +195,9 @@ function buildArticlePopupContent(
   html: Document,
   popoverInner: HTMLElement,
 ) {
-  // ----------------------------------------------------------
+  // ==========================================================
   // TITLE
-  // ----------------------------------------------------------
+  // ==========================================================
 
   const title = html.querySelector("h1")
 
@@ -161,391 +205,529 @@ function buildArticlePopupContent(
     return false
   }
 
-  const titleElement = document.createElement("h1")
-  titleElement.classList.add("article-popover-title")
-  titleElement.innerHTML = title.innerHTML
+  const titleElement =
+    document.createElement("h1")
 
-  popoverInner.appendChild(titleElement)
+  titleElement.classList.add(
+    "article-popover-title",
+  )
 
-  // ----------------------------------------------------------
-  // ARTICLE INFORMATION
-  // ----------------------------------------------------------
+  titleElement.innerHTML =
+    title.innerHTML
 
-  const articleInfo =
-    [...html.querySelectorAll("h2, h3, h4")].find(
-      (heading) =>
-        heading.textContent?.trim() ===
-        "Article Informations",
+  popoverInner.appendChild(
+    titleElement,
+  )
+
+  // ==========================================================
+  // FIND ARTICLE INFORMATION CALLOUT
+  // ==========================================================
+
+  const callouts = [
+    ...html.querySelectorAll(
+      "blockquote.callout",
+    ),
+  ]
+
+  const getCalloutTitle = (
+    callout: Element,
+  ) => {
+    const titleElement =
+      callout.querySelector(
+        ".callout-title",
+      )
+
+    return (
+      titleElement?.textContent
+        ?.trim()
+        .toLowerCase() ?? ""
+    )
+  }
+
+  const articleInformation =
+    callouts.find(
+      (callout) =>
+        getCalloutTitle(
+          callout,
+        ).includes(
+          "article informations",
+        ),
     )
 
-  let journal = ""
-  let year = ""
-  let doi = ""
+  // ==========================================================
+  // HELPER: FIND A FIELD
+  // ==========================================================
 
-  // Try to extract the citation from the Article Informations
-  // callout.
-  if (articleInfo) {
-    const parent = articleInfo.parentElement
+  function getField(
+    root: Element | Document,
+    fieldName: string,
+  ): string | null {
+    const elements = [
+      ...root.querySelectorAll(
+        "*",
+      ),
+    ]
 
-    if (parent) {
+    for (const element of elements) {
       const text =
-        parent.textContent?.replace(/\s+/g, " ").trim() ?? ""
+        element.textContent?.trim() ?? ""
 
-      // DOI
-      const doiMatch = text.match(
-        /10\.\d{4,9}\/[-._;()/:A-Z0-9]+/i,
-      )
+      const regex =
+        new RegExp(
+          `^${fieldName}\\s*::\\s*(.+)$`,
+          "i",
+        )
 
-      if (doiMatch) {
-        doi = doiMatch[0]
-          .replace(/[.,]+$/, "")
-      }
+      const match =
+        text.match(regex)
 
-      // ------------------------------------------------------
-      // Extract journal + year from the formatted citation
-      //
-      // Example:
-      //
-      // ... (2022). Ovarian cancer... Cancer Cell,
-      // 40(5), 545-557.
-      // ------------------------------------------------------
-
-      const yearMatch = text.match(
-        /\((\d{4})\)/,
-      )
-
-      if (yearMatch) {
-        year = yearMatch[1]
-      }
-
-      // Journal is extracted from the citation where possible.
-      //
-      // Zotero generally italicizes the journal name, so first
-      // try to find an <em> element.
-      const journalElement =
-        parent.querySelector("em")
-
-      if (journalElement) {
-        journal =
-          journalElement.textContent?.trim() ?? ""
+      if (match) {
+        return match[1].trim()
       }
     }
+
+    return null
   }
 
-  // ----------------------------------------------------------
-  // FALLBACK: YEAR FROM PAGE DATE
-  // ----------------------------------------------------------
+  // ==========================================================
+  // JOURNAL / YEAR / DOI
+  // ==========================================================
 
-  if (!year) {
-    const pageText =
-      html.body.textContent ?? ""
+  let year: string | null = null
+  let journal: string | null = null
+  let doi: string | null = null
 
-    const yearMatch =
-      pageText.match(/\b(19|20)\d{2}\b/)
+  if (articleInformation) {
+    year =
+      getField(
+        articleInformation,
+        "Year",
+      )
 
-    if (yearMatch) {
-      year = yearMatch[0]
-    }
+    journal =
+      getField(
+        articleInformation,
+        "Journal",
+      )
+
+    doi =
+      getField(
+        articleInformation,
+        "DOI",
+      )
   }
 
-  // ----------------------------------------------------------
-  // JOURNAL / YEAR / DOI LINE
-  // ----------------------------------------------------------
+  // ==========================================================
+  // ARTICLE METADATA LINE
+  //
+  // Journal · Year · DOI
+  // ==========================================================
 
-  if (journal || year || doi) {
-    const metadata = document.createElement("p")
+  if (
+    journal ||
+    year ||
+    doi
+  ) {
+    const metadata =
+      document.createElement("p")
+
     metadata.classList.add(
       "article-popover-metadata",
     )
 
-    const parts: string[] = []
-
     if (journal) {
-      parts.push(journal)
+      const journalElement =
+        document.createElement("span")
+
+      journalElement.innerHTML =
+        journal
+
+      metadata.appendChild(
+        journalElement,
+      )
+    }
+
+    if (
+      journal &&
+      year
+    ) {
+      metadata.appendChild(
+        document.createTextNode(
+          " · ",
+        ),
+      )
     }
 
     if (year) {
-      parts.push(year)
+      const yearElement =
+        document.createElement("span")
+
+      yearElement.textContent =
+        year
+
+      metadata.appendChild(
+        yearElement,
+      )
+    }
+
+    if (
+      (journal || year) &&
+      doi
+    ) {
+      metadata.appendChild(
+        document.createTextNode(
+          " · ",
+        ),
+      )
     }
 
     if (doi) {
-      parts.push(`DOI: ${doi}`)
+      const doiElement =
+        document.createElement("a")
+
+      doiElement.href =
+        `https://doi.org/${doi}`
+
+      doiElement.textContent =
+        `DOI: ${doi}`
+
+      doiElement.target =
+        "_blank"
+
+      doiElement.rel =
+        "noopener noreferrer"
+
+      metadata.appendChild(
+        doiElement,
+      )
     }
 
-    metadata.textContent = parts.join(" · ")
-
-    popoverInner.appendChild(metadata)
+    popoverInner.appendChild(
+      metadata,
+    )
   }
 
-  // ----------------------------------------------------------
+  // ==========================================================
   // AUTHORS
-  // ----------------------------------------------------------
+  // ==========================================================
 
-  const authorsMeta = getYamlValue(
-    html,
-    "authors",
-  )
+  if (articleInformation) {
+    const authors: string[] = []
 
-  if (authorsMeta) {
-    let authors: string[] = []
+    const authorMatches =
+      articleInformation.textContent
+        ?.match(
+          /(?:FirstAuthor|Author)\s*::\s*([^\n]+)/gi,
+        ) ?? []
 
-    try {
-      const parsed = JSON.parse(authorsMeta)
+    for (const match of authorMatches) {
+      const author =
+        match
+          .replace(
+            /^(?:FirstAuthor|Author)\s*::\s*/i,
+            "",
+          )
+          .trim()
 
-      if (Array.isArray(parsed)) {
-        authors = parsed.map(
-          (author) => String(author),
-        )
+      if (
+        author &&
+        !authors.includes(author)
+      ) {
+        authors.push(author)
       }
-    } catch {
-      // If Quartz doesn't expose the YAML field as JSON,
-      // fall back to parsing the text representation.
-      authors = authorsMeta
-        .split(",")
-        .map((author) => author.trim())
-        .filter(Boolean)
     }
 
     if (authors.length > 0) {
-      const details = document.createElement("details")
-      details.classList.add(
-        "article-popover-section",
+      const authorDetails =
+        document.createElement(
+          "details",
+        )
+
+      authorDetails.classList.add(
         "article-popover-authors",
       )
 
-      // Collapsed by default
-      details.open = false
+      const summary =
+        document.createElement(
+          "summary",
+        )
 
-      const summary = document.createElement("summary")
-      summary.textContent = "Authors"
-
-      details.appendChild(summary)
-
-      // ------------------------------------------------------
-      // Collapsed summary:
-      //
-      // First authors, ..., Last author
-      // ------------------------------------------------------
-
-      const preview = document.createElement("span")
-      preview.classList.add(
-        "article-popover-authors-preview",
-      )
-
-      if (authors.length <= 4) {
-        preview.textContent =
-          authors.join(", ")
+      if (authors.length === 1) {
+        summary.textContent =
+          authors[0]
+      } else if (authors.length === 2) {
+        summary.textContent =
+          `${authors[0]}, ${authors[1]}`
       } else {
-        preview.textContent =
-          `${authors.slice(0, 3).join(", ")}, …, ${
-            authors[authors.length - 1]
-          }`
+        summary.textContent =
+          `${authors[0]}, …, ${authors[authors.length - 1]}`
       }
 
-      summary.appendChild(preview)
-
-      // ------------------------------------------------------
-      // Full author list
-      // ------------------------------------------------------
+      authorDetails.appendChild(
+        summary,
+      )
 
       const authorList =
         document.createElement("ul")
 
-      authorList.classList.add(
-        "article-popover-author-list",
-      )
-
-      authors.forEach((author) => {
+      for (const author of authors) {
         const li =
           document.createElement("li")
 
-        li.textContent = author
+        li.textContent =
+          author
 
         authorList.appendChild(li)
-      })
-
-      details.appendChild(authorList)
-
-      popoverInner.appendChild(details)
-    }
-  }
-
-  // ----------------------------------------------------------
-  // ABSTRACT
-  // ----------------------------------------------------------
-
-  const abstractHeading =
-    [...html.querySelectorAll("h2, h3, h4")].find(
-      (heading) =>
-        heading.textContent?.trim() ===
-        "Abstract",
-    )
-
-  if (abstractHeading) {
-    const abstractContent =
-      abstractHeading.parentElement
-
-    if (abstractContent) {
-      const abstractText =
-        abstractContent.textContent
-          ?.replace(/^Abstract\s*/i, "")
-          .trim()
-
-      if (abstractText) {
-        const details =
-          document.createElement("details")
-
-        details.classList.add(
-          "article-popover-section",
-          "article-popover-abstract",
-        )
-
-        details.open = false
-
-        const summary =
-          document.createElement("summary")
-
-        summary.textContent = "Abstract"
-
-        details.appendChild(summary)
-
-        const text =
-          document.createElement("p")
-
-        text.textContent = abstractText
-
-        details.appendChild(text)
-
-        popoverInner.appendChild(details)
-      }
-    }
-  }
-
-  // ----------------------------------------------------------
-  // PERSONAL NOTES
-  // ----------------------------------------------------------
-
-  const notesHeading =
-    [...html.querySelectorAll("h1, h2, h3, h4")].find(
-      (heading) =>
-        heading.textContent?.trim() ===
-        "Notes",
-    )
-
-  if (notesHeading) {
-    let notesContainer =
-      notesHeading.nextElementSibling
-
-    const noteElements: Element[] = []
-
-    while (notesContainer) {
-      // Stop at the next major section.
-      if (
-        notesContainer.matches("h1, h2")
-      ) {
-        break
       }
 
-      // Don't include the Article Informations
-      // or other Zotero-generated sections.
-      if (
-        !notesContainer.matches(
-          "hr",
-        )
-      ) {
-        noteElements.push(
-          notesContainer,
-        )
-      }
-
-      notesContainer =
-        notesContainer.nextElementSibling
-    }
-
-    if (noteElements.length > 0) {
-      const details =
-        document.createElement("details")
-
-      details.classList.add(
-        "article-popover-section",
-        "article-popover-notes",
-      )
-
-      details.open = false
-
-      const summary =
-        document.createElement("summary")
-
-      summary.textContent =
-        "My notes"
-
-      details.appendChild(summary)
-
-      const notesContent =
-        document.createElement("div")
-
-      notesContent.classList.add(
-        "article-popover-notes-content",
-      )
-
-      noteElements.forEach(
-        (element) => {
-          notesContent.appendChild(
-            element.cloneNode(true),
-          )
-        },
-      )
-
-      details.appendChild(
-        notesContent,
+      authorDetails.appendChild(
+        authorList,
       )
 
       popoverInner.appendChild(
-        details,
+        authorDetails,
       )
     }
+  }
+  // ==========================================================
+  // FIND ABSTRACT
+  // ==========================================================
+
+  let abstractText = ""
+
+  if (articleInformation) {
+    const abstractCallout =
+      [
+        ...articleInformation.querySelectorAll(
+          "blockquote.callout",
+        ),
+      ].find(
+        (callout) =>
+          getCalloutTitle(
+            callout,
+          ).includes(
+            "abstract",
+          ),
+      )
+
+    if (abstractCallout) {
+      const clone =
+        abstractCallout.cloneNode(
+          true,
+        ) as HTMLElement
+
+      const calloutTitle =
+        clone.querySelector(
+          ".callout-title",
+        )
+
+      calloutTitle?.remove()
+
+      abstractText =
+        clone.textContent
+          ?.trim() ?? ""
+    }
+  }
+
+  // ==========================================================
+  // ABSTRACT
+  // ==========================================================
+
+  if (abstractText) {
+    const abstractDetails =
+      document.createElement(
+        "details",
+      )
+
+    abstractDetails.classList.add(
+      "article-popover-section",
+      "article-popover-abstract",
+    )
+
+    const summary =
+      document.createElement(
+        "summary",
+      )
+
+    summary.textContent =
+      "Abstract"
+
+    abstractDetails.appendChild(
+      summary,
+    )
+
+    const abstractContent =
+      document.createElement(
+        "div",
+      )
+
+    abstractContent.classList.add(
+      "article-popover-section-content",
+    )
+
+    abstractContent.textContent =
+      abstractText
+
+    abstractDetails.appendChild(
+      abstractContent,
+    )
+
+    popoverInner.appendChild(
+      abstractDetails,
+    )
+  }
+
+  // ==========================================================
+  // FIND PERSONAL NOTES CALLOUT
+  // ==========================================================
+
+  const notesCallout =
+    callouts.find(
+      (callout) =>
+        getCalloutTitle(
+          callout,
+        ) === "notes",
+    )
+
+  let notesText = ""
+
+  if (notesCallout) {
+    const clone =
+      notesCallout.cloneNode(
+        true,
+      ) as HTMLElement
+
+    // Remove the callout title
+    const calloutTitle =
+      clone.querySelector(
+        ".callout-title",
+      )
+
+    calloutTitle?.remove()
+
+    // --------------------------------------------------------
+    // Remove everything after "end Notes"
+    //
+    // This is mainly defensive, because Article Informations
+    // should already be outside this callout.
+    // --------------------------------------------------------
+
+    const rawText =
+      clone.textContent
+        ?.trim() ?? ""
+
+    notesText =
+      rawText
+        .replace(
+          /%%\s*end\s+Notes\s*%%[\s\S]*$/i,
+          "",
+        )
+        .trim()
+  }
+
+  // ==========================================================
+  // PERSONAL NOTES
+  // ==========================================================
+
+  if (notesText) {
+    const notesDetails =
+      document.createElement(
+        "details",
+      )
+
+    notesDetails.classList.add(
+      "article-popover-section",
+      "article-popover-notes",
+    )
+
+    const summary =
+      document.createElement(
+        "summary",
+      )
+
+    summary.textContent =
+      "My notes"
+
+    notesDetails.appendChild(
+      summary,
+    )
+
+    const notesContent =
+      document.createElement(
+        "div",
+      )
+
+    notesContent.classList.add(
+      "article-popover-section-content",
+    )
+
+    notesContent.textContent =
+      notesText
+
+    notesDetails.appendChild(
+      notesContent,
+    )
+
+    popoverInner.appendChild(
+      notesDetails,
+    )
   }
 
   return true
 }
 
 // ============================================================
-// MAIN POPOVER HANDLER
+// MAIN MOUSE HANDLER
 // ============================================================
 
 async function mouseEnterHandler(
   this: HTMLAnchorElement,
-  { clientX, clientY }: {
+  {
+    clientX,
+    clientY,
+  }: {
     clientX: number
     clientY: number
   },
 ) {
-  const link = (activeAnchor = this)
+  const link =
+    (activeAnchor = this)
 
-  if (link.dataset.noPopover === "true") {
+  if (
+    link.dataset.noPopover ===
+    "true"
+  ) {
     return
   }
 
-  const linkPath =
-    new URL(link.href).pathname
+  // ----------------------------------------------------------
+  // Determine popup type from path
+  // ----------------------------------------------------------
 
-  // ----------------------------------------------------------
-  // Determine popup type
-  // ----------------------------------------------------------
+  const linkPath =
+    new URL(
+      link.href,
+    ).pathname.toLowerCase()
 
   const isCustomNote =
-    linkPath.includes("/output/")
+    linkPath.includes(
+      "/output/",
+    )
 
   const isArticleNote =
     linkPath.includes(
-      "/2_Resources/A_Reviews/",
+      "/2_resources/a_reviews/",
     ) ||
     linkPath.includes(
-      "/2_Resources/B_Articles/",
+      "/2_resources/b_articles/",
     ) ||
     linkPath.includes(
-      "/2_Resources/D_Unread/",
+      "/2_resources/d_unread/",
     )
+
+  // ----------------------------------------------------------
+  // Position
+  // ----------------------------------------------------------
 
   async function setPosition(
     popoverElement: HTMLElement,
@@ -575,6 +757,10 @@ async function mouseEnterHandler(
       },
     )
   }
+
+  // ----------------------------------------------------------
+  // Show
+  // ----------------------------------------------------------
 
   function showPopover(
     popoverElement: HTMLElement,
@@ -615,6 +801,10 @@ async function mouseEnterHandler(
     }
   }
 
+  // ----------------------------------------------------------
+  // Target URL
+  // ----------------------------------------------------------
+
   const targetUrl =
     new URL(link.href)
 
@@ -629,18 +819,19 @@ async function mouseEnterHandler(
   const popoverId =
     `popover-${link.pathname}`
 
+  // ----------------------------------------------------------
+  // Existing popup
+  // ----------------------------------------------------------
+
   const prevPopoverElement =
     document.getElementById(
       popoverId,
     )
 
-  // ----------------------------------------------------------
-  // Don't refetch existing popup
-  // ----------------------------------------------------------
-
   if (prevPopoverElement) {
     showPopover(
-      prevPopoverElement as HTMLElement);
+      prevPopoverElement as HTMLElement,
+    )
 
     return
   }
@@ -658,14 +849,18 @@ async function mouseEnterHandler(
       },
     )
 
-  if (!response) return
+  if (!response) {
+    return
+  }
 
   const rawContentType =
     response.headers.get(
       "Content-Type",
     )
 
-  if (!rawContentType) return
+  if (!rawContentType) {
+    return
+  }
 
   const [contentType] =
     rawContentType.split(";")
@@ -676,8 +871,14 @@ async function mouseEnterHandler(
   ] =
     contentType.split("/")
 
+  // ----------------------------------------------------------
+  // Create popup
+  // ----------------------------------------------------------
+
   const popoverElement =
-    document.createElement("div")
+    document.createElement(
+      "div",
+    )
 
   popoverElement.id =
     popoverId
@@ -687,27 +888,34 @@ async function mouseEnterHandler(
   )
 
   const popoverInner =
-    document.createElement("div")
+    document.createElement(
+      "div",
+    )
 
   popoverInner.classList.add(
     "popover-inner",
   )
 
   popoverInner.dataset.contentType =
-    contentType ?? undefined
+    contentType ??
+    undefined
 
   popoverElement.appendChild(
     popoverInner,
   )
 
   // ==========================================================
-  // MEDIA
+  // IMAGES
   // ==========================================================
 
-  switch (contentTypeCategory) {
+  switch (
+    contentTypeCategory
+  ) {
     case "image": {
       const img =
-        document.createElement("img")
+        document.createElement(
+          "img",
+        )
 
       img.src =
         targetUrl.toString()
@@ -721,6 +929,10 @@ async function mouseEnterHandler(
 
       break
     }
+
+    // ========================================================
+    // PDF
+    // ========================================================
 
     case "application": {
       switch (typeInfo) {
@@ -748,7 +960,7 @@ async function mouseEnterHandler(
     }
 
     // ========================================================
-    // HTML / MARKDOWN PAGE
+    // HTML
     // ========================================================
 
     default: {
@@ -771,39 +983,24 @@ async function mouseEnterHandler(
       // ------------------------------------------------------
 
       html
-        .querySelectorAll("[id]")
-        .forEach((el) => {
-          const targetID =
-            `popover-internal-${el.id}`
-
-          el.id = targetID
-        })
-
-      // ------------------------------------------------------
-      // CUSTOM DEFINITION NOTE
-      // ------------------------------------------------------
-
-      if (isCustomNote) {
-        const success =
-          buildCustomPopupContent(
-            html,
-            popoverInner,
-          )
-
-        if (!success) {
-          return
-        }
-
-        popoverElement.classList.add(
-          "custom-definition-popover",
+        .querySelectorAll(
+          "[id]",
         )
-      }
+        .forEach(
+          (el) => {
+            const targetID =
+              `popover-internal-${el.id}`
 
-      // ------------------------------------------------------
-      // ARTICLE NOTE
-      // ------------------------------------------------------
+            el.id =
+              targetID
+          },
+        )
 
-      else if (isArticleNote) {
+      // ======================================================
+      // ARTICLE POPUP
+      // ======================================================
+
+      if (isArticleNote) {
         const success =
           buildArticlePopupContent(
             html,
@@ -813,40 +1010,57 @@ async function mouseEnterHandler(
         if (!success) {
           return
         }
-
-        popoverElement.classList.add(
-          "article-popover",
-        )
       }
 
-      // ------------------------------------------------------
-      // EVERYTHING ELSE
-      //
-      // Preserve the original Quartz popover.
-      // ------------------------------------------------------
+      // ======================================================
+      // CUSTOM SCIENTIFIC NOTE
+      // ======================================================
+
+      else if (isCustomNote) {
+        const success =
+          buildCustomPopupContent(
+            html,
+            popoverInner,
+          )
+
+        if (!success) {
+          return
+        }
+      }
+
+      // ======================================================
+      // NORMAL QUARTZ POPUP
+      // ======================================================
 
       else {
-        const elts = [
+        const elements = [
           ...html.getElementsByClassName(
             "popover-hint",
           ),
         ]
 
-        if (elts.length === 0) {
+        if (
+          elements.length === 0
+        ) {
           return
         }
 
-        elts.forEach(
-          (elt) =>
+        elements.forEach(
+          (element) => {
             popoverInner.appendChild(
-              elt,
-            ),
+              element,
+            )
+          },
         )
       }
 
       break
     }
   }
+
+  // ----------------------------------------------------------
+  // Prevent duplicate popup
+  // ----------------------------------------------------------
 
   if (
     document.getElementById(
@@ -860,7 +1074,9 @@ async function mouseEnterHandler(
     popoverElement,
   )
 
-  if (activeAnchor !== this) {
+  if (
+    activeAnchor !== this
+  ) {
     return
   }
 
@@ -870,7 +1086,7 @@ async function mouseEnterHandler(
 }
 
 // ============================================================
-// CLEAR POPOVERS
+// CLEAR POPOVER
 // ============================================================
 
 function clearActivePopover() {
@@ -894,6 +1110,15 @@ function clearActivePopover() {
 // ============================================================
 
 function setupPopovers() {
+  // IMPORTANT:
+  // Listen to ALL internal links.
+  //
+  // The handler determines whether this is:
+  //
+  //   /output/              → custom scientific note
+  //   /2_resources/...      → article
+  //   anything else         → normal Quartz popup
+
   const links =
     [
       ...document.querySelectorAll(
@@ -912,19 +1137,25 @@ function setupPopovers() {
       clearActivePopover,
     )
 
-    window.addCleanup(() => {
-      link.removeEventListener(
-        "mouseenter",
-        mouseEnterHandler,
-      )
+    window.addCleanup(
+      () => {
+        link.removeEventListener(
+          "mouseenter",
+          mouseEnterHandler,
+        )
 
-      link.removeEventListener(
-        "mouseleave",
-        clearActivePopover,
-      )
-    })
+        link.removeEventListener(
+          "mouseleave",
+          clearActivePopover,
+        )
+      },
+    )
   }
 }
+
+// ============================================================
+// QUARTZ EVENTS
+// ============================================================
 
 document.addEventListener(
   "nav",

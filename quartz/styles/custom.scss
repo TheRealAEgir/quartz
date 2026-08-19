@@ -48,6 +48,11 @@ a.internal-link[data-slug^="output/accronyme/"] {
   color: rgb(192, 114, 12) !important;
 }
 
+a.internal-link[data-slug^="2_resources/a_reviews/"] {
+  color: rgb(252, 1, 1) !important;
+}
+
+
 // Resolve yellow-brown background !
 a.internal[href^="/output/"] {
   background: none;
