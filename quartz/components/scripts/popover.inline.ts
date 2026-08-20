@@ -682,37 +682,23 @@ function buildArticlePopupContent(
 
 async function mouseEnterHandler(
   this: HTMLAnchorElement,
-  {
-    clientX,
-    clientY,
-  }: {
+  { clientX, clientY }: {
     clientX: number
     clientY: number
   },
-) {
-  const link =
-    (activeAnchor = this)
-
-  if (
-    link.dataset.noPopover ===
-    "true"
   ) {
+  const link = (activeAnchor = this)
+
+  if (link.dataset.noPopover === "true") {
     return
   }
 
-  // ----------------------------------------------------------
-  // Determine popup type from path
-  // ----------------------------------------------------------
+  const linkPath = decodeURIComponent(
+    link.pathname,
+  ).toLowerCase()
 
-  const linkPath =
-    new URL(
-      link.href,
-    ).pathname.toLowerCase()
-
-  const isCustomNote =
-    linkPath.includes(
-      "/output/",
-    )
+  const isOutputNote =
+    linkPath.includes("/output/")
 
   const isArticleNote =
     linkPath.includes(
@@ -725,6 +711,14 @@ async function mouseEnterHandler(
       "/2_resources/d_unread/",
     )
 
+  const isFigureNote =
+    linkPath.includes(
+      "/2_resources/e_figures/",
+    )
+
+  const isCustomNote =
+    isOutputNote
+  
   // ----------------------------------------------------------
   // Position
   // ----------------------------------------------------------
@@ -997,10 +991,26 @@ async function mouseEnterHandler(
         )
 
       // ======================================================
+      // FIGURE POPUP
+      // ======================================================
+
+      if (isFigureNote) {
+        const success =
+          buildFigurePopupContent(
+            html,
+            popoverInner,
+          )
+
+        if (!success) {
+          return
+        }
+      }
+
+      // ======================================================
       // ARTICLE POPUP
       // ======================================================
 
-      if (isArticleNote) {
+      else if (isArticleNote) {
         const success =
           buildArticlePopupContent(
             html,
@@ -1013,7 +1023,7 @@ async function mouseEnterHandler(
       }
 
       // ======================================================
-      // CUSTOM SCIENTIFIC NOTE
+      // CUSTOM SCIENTIFIC NOTE POPUP
       // ======================================================
 
       else if (isCustomNote) {
@@ -1039,9 +1049,7 @@ async function mouseEnterHandler(
           ),
         ]
 
-        if (
-          elements.length === 0
-        ) {
+        if (elements.length === 0) {
           return
         }
 
@@ -1053,7 +1061,6 @@ async function mouseEnterHandler(
           },
         )
       }
-
       break
     }
   }
@@ -1110,21 +1117,11 @@ function clearActivePopover() {
 // ============================================================
 
 function setupPopovers() {
-  // IMPORTANT:
-  // Listen to ALL internal links.
-  //
-  // The handler determines whether this is:
-  //
-  //   /output/              → custom scientific note
-  //   /2_resources/...      → article
-  //   anything else         → normal Quartz popup
-
-  const links =
-    [
-      ...document.querySelectorAll(
-        "a.internal",
-      ),
-    ] as HTMLAnchorElement[]
+  const links = [
+    ...document.querySelectorAll(
+      "a.internal",
+    ),
+  ] as HTMLAnchorElement[]
 
   for (const link of links) {
     link.addEventListener(
@@ -1137,19 +1134,17 @@ function setupPopovers() {
       clearActivePopover,
     )
 
-    window.addCleanup(
-      () => {
-        link.removeEventListener(
-          "mouseenter",
-          mouseEnterHandler,
-        )
+    window.addCleanup(() => {
+      link.removeEventListener(
+        "mouseenter",
+        mouseEnterHandler,
+      )
 
-        link.removeEventListener(
-          "mouseleave",
-          clearActivePopover,
-        )
-      },
-    )
+      link.removeEventListener(
+        "mouseleave",
+        clearActivePopover,
+      )
+    })
   }
 }
 
@@ -1166,3 +1161,93 @@ document.addEventListener(
   "render",
   setupPopovers,
 )
+
+function buildFigurePopupContent(
+  html: Document,
+  popoverInner: HTMLElement,
+) {
+  // ----------------------------------------------------------
+  // Find the title
+  // ----------------------------------------------------------
+
+  const title = html.querySelector("h1")
+
+  if (!title) {
+    return false
+  }
+
+  // ----------------------------------------------------------
+  // Figure title
+  // ----------------------------------------------------------
+
+  const titleElement =
+    document.createElement("h1")
+
+  titleElement.classList.add(
+    "custom-popover-figure-title",
+  )
+
+  titleElement.innerHTML =
+    title.innerHTML
+
+  popoverInner.appendChild(
+    titleElement,
+  )
+
+  // ----------------------------------------------------------
+  // Find the figure image
+  //
+  // Supports SVG, PNG, JPG and JPEG
+  // because Quartz renders all of them as <img>.
+  // ----------------------------------------------------------
+
+  const image =
+    html.querySelector("img")
+
+  if (image) {
+    const figureImage =
+      document.createElement("img")
+
+    figureImage.classList.add(
+      "custom-popover-figure-image",
+    )
+
+    figureImage.src =
+      image.getAttribute("src") ?? ""
+
+    figureImage.alt =
+      title.textContent?.trim() ?? ""
+
+    popoverInner.appendChild(
+      figureImage,
+    )
+  }
+
+  // ----------------------------------------------------------
+  // Figure legend
+  //
+  // The legend is the italic paragraph below the image.
+  // ----------------------------------------------------------
+
+  const legend =
+    html.querySelector("p em") ??
+    html.querySelector("em")
+
+  if (legend) {
+    const legendElement =
+      document.createElement("p")
+
+    legendElement.classList.add(
+      "custom-popover-figure-legend",
+    )
+
+    legendElement.innerHTML =
+      legend.innerHTML
+
+    popoverInner.appendChild(
+      legendElement,
+    )
+  }
+
+  return true
+}

@@ -54,7 +54,25 @@ a.internal-link[data-slug^="2_resources/a_reviews/"] {
 
 
 // Resolve yellow-brown background !
-a.internal[href^="/output/"] {
+a.internal-line {
   background: none;
   background-color: transparent;
+}
+
+.custom-popover-figure-title {
+  margin-bottom: 1rem;
+}
+
+.custom-popover-figure-image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1rem auto;
+}
+
+.custom-popover-figure-legend {
+  margin-top: 0.5rem;
+  font-style: italic;
+  line-height: 1.4;
 }
