@@ -2,7 +2,7 @@
 # 1. La réponse immunitaire adaptative mémoire
 
 ## [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
-## [[1.2 Les différents types de lymphocytes T mémoires et leurs rôles]]
+## [[1.2 Hétérogénéité des lymphocytes T mémoires et mécanisme d'action]]
 ## [[1.3 Dysfonction des lymphocytes T]]
 
 # 2. Les lymphocytes T résidents mémoires
@@ -18,7 +18,7 @@
 ## [[TRM Autoimmune diseases]]
 ## [[TRM Cancer]]
 ## [[TRM Effector]]
-## [[TRM Immunotherapy]]
+## [[TRM Cancer]]
 ## [[TRM Infection]]
 ## [[TRM Cancer]]
 ## [[TRM Recirculation]]

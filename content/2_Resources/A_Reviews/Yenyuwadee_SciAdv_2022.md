@@ -68,7 +68,7 @@ articletype: Review
 >A team described an ID3lowBlimp1hi and Id2hiBlimp1low TRM subsets.
 >Others studies to check once on this part, including phenotype of TRM in cancer.
 >Has the same nice table with studeis/phenotype/cancer type/discovery.
->[[TRM Immunotherapy]] Talks a bit about immunotherapy.
+>[[TRM Cancer]] Talks a bit about immunotherapy.
 >[[TRM Cancer]] review of paper that link TRM with cancer prognosis.
 > %% end Notes %%
 

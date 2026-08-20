@@ -13,7 +13,7 @@ Les TRM sont des cellules hautement fonctionnelles et présentes en forte quanti
 
 ### Autres types de maladies auto-immunes
 
-De manière similaire à la partie précédente, les observations ci-dessous ont été listée à partir des review de [[Masopust_AnnuRevImmunol_2019]] et [[Park_TrendsImmunol_2019]]
+De manière similaire à la partie précédente, les observations ci-dessous ont été listée à partir des review de [[Masopust_AnnuRevImmunol_2019]] et [[Park_TrendsImmunol_2019]] :
 
 - **Rejet de greffe** [[Masopust_AnnuRevImmunol_2019]]
 - **Diabète de type 1** [[Masopust_AnnuRevImmunol_2019]] [[Park_TrendsImmunol_2019]]

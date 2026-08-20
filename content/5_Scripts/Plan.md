@@ -2,7 +2,7 @@
 
 # 1. La réponse immunitaire adaptative mémoire
 ## [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]] (3-4 pages)
-## [[1.2 Les différents types de lymphocytes T mémoires et leurs rôles]] (3-4 pages)
+## [[1.2 Hétérogénéité des lymphocytes T mémoires et mécanisme d'action]] (3-4 pages)
 
 ```dataviewjs
 // Specify the target note's name (without .md extension)
@@ -282,7 +282,7 @@ if (!targetNote) {
 ##### 3.1.2 Rôle d'alerte et de recrutement des acteurs cellulaires
 ##### 3.1.3 Rôle cytotoxique des TRM
 ##### 3.1.4 Recirculation des TRM : Rôle de protection à distance
-## 3.2. [[TRM Cancer]] and [[TRM Cancer]] and [[TRM Immunotherapy]] and [[TRM Specificity]] (~20 pages)
+## 3.2. [[TRM Cancer]] and [[TRM Cancer]] and [[TRM Cancer]] and [[TRM Specificity]] (~20 pages)
 ##### 3.2.1 Introduction sur l'immunosurveillance
 ##### 3.2.2 Observations sur les TRM dans le cancer
 ##### 3.2.3 Rôle pronostique des TRM dans le cancer

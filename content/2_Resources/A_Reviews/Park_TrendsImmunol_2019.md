@@ -32,7 +32,7 @@ articletype: Review
 >Mouse with CD69 KO/CD103 KO/CD49a blocked shows higher melanoma;
 >[[TRM Heterogeneity]] Multiple distinct subset detected in a single tumor. Cite paper that has evidence of bystander CD103+ T cell in tumor.
 >[[TRM Effector]] Cite paper that shows evidence of TRM being cytotoxic. CD103 ehanced the synapse through binding with CD103.
->[[TRM Immunotherapy]] TRM cytokine production is enhanced by ICB treatment. Talks a bit about vaccination and ACT as well.
+>[[TRM Cancer]] TRM cytokine production is enhanced by ICB treatment. Talks a bit about vaccination and ACT as well.
 > %% end Notes %%
 
 > [!Useful Informations]-

@@ -28,8 +28,6 @@ Les TRM pourraient se différencier en TEM dans un contexte d'infection secondai
 
 En l'absence de signalisation TGFb dans la peau, les TRM sont moins efficaces contre un re-challenge avec VV-OVA [[Hirai_Immunity_2019]].
 
-Les TRM peuvent aider à générer une réponse secondaire contre des antigènes différents *via* l'activation des DC dans les LN [[Menares_NatCommun_2019]].
-
 La protéine CD61 peut se fixer à CD103 lors de la synapse immunologique, et les TIL CD61 sont plus fonctionnels et moins épuisés dans les cancers NSCLC [[Hamid_NatImmunol_2024]].
 
 

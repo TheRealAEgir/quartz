@@ -49,7 +49,7 @@ articletype: Review
 >TRM Differenciation (already cited, broke the link) BLIMP1 and NOTCH are require for TRM and favor TEM, whereas RUNX3 and NR4A1 promote TRM and support TCM. Conversely, T-bet and Eomes inhibit TRM formation but promote TEM and TCM differentiation, respectively
 >[[TRM Caracteristics]] Phenotype of chemokine receptors
 >[[TRM Recirculation]] Lung TRM can recirculate to the associated LN. Low level in blood is also detected. This suggest plasticity
->[[TRM Immunotherapy]] Talks about evidence of TRM being involved in immunotherapy response. Targetting BHLHE40, TSCM, RUNX3, IL15 nanogel, metabolite may be strategies to improve therapy.
+>[[TRM Cancer]] Talks about evidence of TRM being involved in immunotherapy response. Targetting BHLHE40, TSCM, RUNX3, IL15 nanogel, metabolite may be strategies to improve therapy.
 >
 >FIGURE ARE VERY USEFUL
 > %% end Notes %%

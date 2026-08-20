@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="355mm"
+   height="140mm"
+   viewBox="0 0 355 140"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="T cell subtypes.svg"
+   inkscape:export-filename="..\Obsidian\2_Resources\E_Figures\Introduction\T cell subtypes.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1224.7089"
+     inkscape:cy="1406.0818"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="315"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g76"
+     showguides="true"
+     showgrid="true"
+     inkscape:export-bgcolor="#ffffffff">
+    <inkscape:grid
+       id="grid81"
+       units="mm"
+       originx="-220"
+       originy="-310"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="355"
+       height="140"
+       id="page3"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect49"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect48"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.66000003"
+       markerHeight="0.66000003"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-2" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect34-60"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="Triangle-7-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.66000003"
+       markerHeight="0.66000003"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-2-1" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect34-60-2"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Figure Teff/tex differences"
+     inkscape:highlight-color="#4df321"
+     transform="translate(-220.00001,-310)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect78"
+       width="355"
+       height="140"
+       x="220"
+       y="310"
+       rx="3.1481259"
+       ry="0"
+       inkscape:label="Background" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 327.69744,346.69741 -0.0356,46.01105 0.0356,31.98895"
+       id="path5"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9)"
+       d="m 427.12738,385.69749 h 18.89297"
+       id="path8" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;direction:ltr;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="424.6178"
+       y="380.00311"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="424.6178"
+         y="380.00311">Epuisement</tspan></text>
+    <g
+       id="g77"
+       inkscape:label="Tpex"
+       transform="translate(4.6974327,-25.302577)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g25"
+         id="use4"
+         transform="matrix(1.5248384,0,0,1.5248384,225.57275,253.35092)" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="414.06705"
+         y="357.05768"
+         id="text8-8-5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="414.06705"
+           y="357.05768"
+           id="tspan38-6">Forte</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="414.06705"
+           y="364.11322"
+           id="tspan40">stimulation</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="414.06705"
+           y="371.16879"
+           id="tspan39">antigénique</tspan></text>
+      <g
+         id="g83-3"
+         inkscape:label="Protein (Rectangle)"
+         transform="translate(455.98342,402.24501)">
+        <rect
+           style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect83-2"
+           width="27.611111"
+           height="15.779855"
+           x="-64.788986"
+           y="28.50841"
+           rx="3.1481259"
+           ry="3.1481259"
+           inkscape:label="Squared protein" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           x="-51.069557"
+           y="38.227684"
+           id="text83-9-21"
+           inkscape:label="Protein name"><tspan
+             sodipodi:role="line"
+             id="tspan83-9-6"
+             style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+             x="-51.069557"
+             y="38.227684">CKI</tspan></text>
+      </g>
+      <ellipse
+         style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path82-4-61"
+         cx="401.33969"
+         cy="397.8136"
+         rx="9.9999981"
+         ry="7.3899274"
+         inkscape:label="Circled protein" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="401.31903"
+         y="400.33887"
+         id="text83-99-8"
+         inkscape:label="Protein name"><tspan
+           sodipodi:role="line"
+           style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+           x="401.31903"
+           y="400.33887"
+           id="tspan9">TCF1</tspan></text>
+      <ellipse
+         style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path82-4-61-8"
+         cx="401.33969"
+         cy="410.42368"
+         rx="10.000002"
+         ry="7.3899274"
+         inkscape:label="Circled protein" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="401.31903"
+         y="412.94894"
+         id="text83-99-8-2"
+         inkscape:label="Protein name"><tspan
+           sodipodi:role="line"
+           style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+           x="401.31903"
+           y="412.94894"
+           id="tspan9-9">TOX</tspan></text>
+      <g
+         id="g88-1"
+         inkscape:label="Protein (Circle)"
+         transform="translate(492.14799,414.94091)">
+        <ellipse
+           style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="path82-4-8"
+           cx="-491.52853"
+           cy="-92.709"
+           rx="12.772399"
+           ry="7.3899274"
+           inkscape:label="Circled protein"
+           transform="translate(404.10815,128.41143)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           x="-491.54919"
+           y="-90.183746"
+           id="text83-99-9"
+           inkscape:label="Protein name"
+           transform="translate(404.10815,128.41143)"><tspan
+             sodipodi:role="line"
+             style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+             x="-491.54919"
+             y="-90.183746"
+             id="tspan85-2">PD1</tspan></text>
+      </g>
+      <g
+         id="g17"
+         transform="translate(105.10705,-0.03220666)"
+         style="stroke-width:1.525;stroke-dasharray:none">
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#b5b5b5;stroke-width:1.525;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse16"
+           cx="151.97096"
+           cy="427.80273"
+           rx="14.098962"
+           ry="10"
+           transform="rotate(-14.752862)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.525;stroke-dasharray:none;stroke-opacity:1"
+           id="rect17"
+           width="41.34584"
+           height="15"
+           x="71.893082"
+           y="430.37039"
+           ry="0.34345812"
+           transform="rotate(-22.863482)" />
+      </g>
+      <ellipse
+         style="fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path127-3-4-6"
+         cx="761.42749"
+         cy="501.34406"
+         rx="2.0860815"
+         ry="2.1155338"
+         transform="translate(-401.4275,-128.4596)" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="370"
+         y="425"
+         id="text8-8-9-6-9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="370"
+           y="425"
+           id="tspan70-0">Auto-</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="370"
+           y="432.05554"
+           id="tspan71">renouvellement</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="370"
+           y="439.11111"
+           id="tspan72">possible</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="347.62457"
+         y="353.42487"
+         id="text8-8-1-5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="347.62457"
+           y="353.42487"
+           id="tspan38-9-2">Très Faible</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="347.62457"
+           y="360.48041"
+           id="tspan45-0">Sécrétion de</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="347.62457"
+           y="367.53598"
+           id="tspan44-0">cytokines</tspan></text>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g36"
+         id="use36-9"
+         transform="rotate(12.695618,-841.41654,2500.1459)" />
+      <ellipse
+         style="fill:#ee5b5b;fill-opacity:1;stroke:#da0505;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse66"
+         cx="100.65975"
+         cy="514.19641"
+         rx="2.0860815"
+         ry="2.1155338"
+         transform="rotate(-37.497278)" />
+      <ellipse
+         style="opacity:0.8;fill:#ee5b5b;fill-opacity:1;stroke:#da0505;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse67"
+         cx="103.3319"
+         cy="519.58087"
+         rx="2.0860815"
+         ry="2.1155338"
+         transform="rotate(-37.497278)" />
+      <ellipse
+         style="fill:#ee5b5b;fill-opacity:1;stroke:#da0505;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse68"
+         cx="107.52093"
+         cy="516.96533"
+         rx="2.0860815"
+         ry="2.1155338"
+         transform="rotate(-37.497278)" />
+      <ellipse
+         style="fill:#ee5b5b;fill-opacity:1;stroke:#da0505;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse69"
+         cx="96.659752"
+         cy="519.19641"
+         rx="2.0860815"
+         ry="2.1155338"
+         transform="rotate(-37.497278)" />
+    </g>
+    <g
+       id="g76"
+       inkscape:label="Teff"
+       transform="translate(4.6974327,-25.302577)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g22"
+         id="use3"
+         transform="matrix(1.5248384,0,0,1.5248384,120.57275,354.6987)"
+         style="stroke-width:0.655807;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="305.97321"
+         y="360.69687"
+         id="text8-8"><tspan
+           sodipodi:role="line"
+           id="tspan8-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="305.97321"
+           y="360.69687">Stimulation</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="305.97321"
+           y="367.75241"
+           id="tspan38">antigénique</tspan></text>
+      <ellipse
+         style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path82-4-61-8-5"
+         cx="295"
+         cy="407.61008"
+         rx="10.000002"
+         ry="7.3899274"
+         inkscape:label="Circled protein" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="294.97934"
+         y="410.13535"
+         id="text83-99-8-2-3"
+         inkscape:label="Protein name"><tspan
+           sodipodi:role="line"
+           style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+           x="294.97934"
+           y="410.13535"
+           id="tspan9-9-2">T-bet</tspan></text>
+      <ellipse
+         style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path82-4-61-8-5-3"
+         cx="264.91235"
+         cy="405.00214"
+         rx="12.998415"
+         ry="7.3899274"
+         inkscape:label="Circled protein" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="264.89169"
+         y="407.5274"
+         id="text83-99-8-2-3-7"
+         inkscape:label="Protein name"><tspan
+           sodipodi:role="line"
+           style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+           x="264.89169"
+           y="407.5274"
+           id="tspan9-9-2-2">Blimp-1</tspan></text>
+      <g
+         id="g16"
+         style="stroke-width:1.525;stroke-dasharray:none">
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ff8282;stroke-width:1.525;stroke-dasharray:none;stroke-opacity:1"
+           id="path16"
+           cx="151.97096"
+           cy="427.80273"
+           rx="14.098962"
+           ry="10"
+           transform="rotate(-14.752862)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.525;stroke-dasharray:none;stroke-opacity:1"
+           id="rect16"
+           width="41.34584"
+           height="15"
+           x="71.893082"
+           y="430.37039"
+           ry="0.34345812"
+           transform="rotate(-22.863482)" />
+      </g>
+      <g
+         id="g32"
+         inkscape:label="Cytokines"
+         transform="translate(-92.734979,192.15972)">
+        <ellipse
+           style="fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse18"
+           cx="346.06284"
+           cy="181.34029"
+           rx="2.0860815"
+           ry="2.1155338" />
+        <ellipse
+           style="opacity:0.8;fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse19"
+           cx="348.73499"
+           cy="186.72475"
+           rx="2.0860815"
+           ry="2.1155338" />
+        <ellipse
+           style="fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse20"
+           cx="352.92401"
+           cy="184.10921"
+           rx="2.0860815"
+           ry="2.1155338" />
+        <ellipse
+           style="fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse21"
+           cx="342.06284"
+           cy="186.34029"
+           rx="2.0860815"
+           ry="2.1155338" />
+      </g>
+      <g
+         id="g35"
+         inkscape:label="Cytokines"
+         transform="rotate(31.274904,-21.806549,117.71054)">
+        <ellipse
+           style="fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse32"
+           cx="346.06284"
+           cy="181.34029"
+           rx="2.0860815"
+           ry="2.1155338" />
+        <ellipse
+           style="opacity:0.8;fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse33"
+           cx="348.73499"
+           cy="186.72475"
+           rx="2.0860815"
+           ry="2.1155338" />
+        <ellipse
+           style="fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse34"
+           cx="352.92401"
+           cy="184.10921"
+           rx="2.0860815"
+           ry="2.1155338" />
+        <ellipse
+           style="fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse35"
+           cx="342.06284"
+           cy="186.34029"
+           rx="2.0860815"
+           ry="2.1155338" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="268.27979"
+         y="425"
+         id="text8-8-9-6-9-3"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="268.27979"
+           y="425"
+           id="tspan72-8">Durée de</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="268.27979"
+           y="432.05554"
+           id="tspan74">vie courte</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="237.0806"
+         y="353.42487"
+         id="text8-8-1"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="237.0806"
+           y="353.42487"
+           id="tspan38-9">Forte</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="237.0806"
+           y="360.48041"
+           id="tspan45">Sécrétion de</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="237.0806"
+           y="367.53598"
+           id="tspan44">cytokines</tspan></text>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g36"
+         id="use36"
+         transform="rotate(12.695618,-894.97141,2018.7354)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path127-3-4-33"
+         id="use38"
+         transform="translate(335.54085,315.43908)"
+         style="fill:#ee5b5b;fill-opacity:1;stroke:#da0505;stroke-opacity:1" />
+    </g>
+    <g
+       id="g78"
+       inkscape:label="Ttex"
+       transform="translate(4.6974327,-25.302577)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g24"
+         id="use5"
+         transform="matrix(1.5248384,0,0,1.5248384,251.20058,253.65348)"
+         style="stroke-width:1.00011;stroke-dasharray:none" />
+      <g
+         id="g70"
+         transform="translate(37.453205,-41.307988)">
+        <g
+           id="g83-3-6"
+           inkscape:label="Protein (Rectangle)"
+           transform="translate(472.17789,440.71173)">
+          <rect
+             style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             id="rect83-2-1"
+             width="36"
+             height="15"
+             x="-69.177879"
+             y="29.288265"
+             rx="3.1481259"
+             ry="3.1481259"
+             inkscape:label="Squared protein" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             x="-51.177879"
+             y="39.288265"
+             id="text83-9-21-8"
+             inkscape:label="Protein name"><tspan
+               sodipodi:role="line"
+               id="tspan83-9-6-6"
+               style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+               x="-51.177879"
+               y="39.288265">Résidence</tspan></text>
+        </g>
+        <ellipse
+           style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="path82-4-61-8-29"
+           cx="404.54681"
+           cy="489.69791"
+           rx="11.611363"
+           ry="7.3899274"
+           inkscape:label="Circled protein" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           x="404.52615"
+           y="492.22318"
+           id="text83-99-8-2-1"
+           inkscape:label="Protein name"><tspan
+             sodipodi:role="line"
+             style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+             x="404.52615"
+             y="492.22318"
+             id="tspan9-9-5">CD103</tspan></text>
+        <ellipse
+           style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="path82-4-61-8-29-9"
+           cx="431.80106"
+           cy="489.99826"
+           rx="9.8010464"
+           ry="7.3899274"
+           inkscape:label="Circled protein" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           x="431.7804"
+           y="492.52353"
+           id="text83-99-8-2-1-2"
+           inkscape:label="Protein name"><tspan
+             sodipodi:role="line"
+             style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+             x="431.7804"
+             y="492.52353"
+             id="tspan9-9-5-9">CD69</tspan></text>
+        <ellipse
+           style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="path82-4-61-8-29-9-5"
+           cx="438.1217"
+           cy="466.61008"
+           rx="13.020651"
+           ry="7.3899274"
+           inkscape:label="Circled protein" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           x="438.10104"
+           y="469.13535"
+           id="text83-99-8-2-1-2-9"
+           inkscape:label="Protein name"><tspan
+             sodipodi:role="line"
+             style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+             x="438.10104"
+             y="469.13535"
+             id="tspan9-9-5-9-6">CXCR6</tspan></text>
+        <ellipse
+           style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="path82-4-61-8-29-9-5-8"
+           cx="407.56747"
+           cy="464.78271"
+           rx="11.587502"
+           ry="7.3899274"
+           inkscape:label="Circled protein" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           x="407.54681"
+           y="467.30798"
+           id="text83-99-8-2-1-2-9-7"
+           inkscape:label="Protein name"><tspan
+             sodipodi:role="line"
+             style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+             x="407.54681"
+             y="467.30798"
+             id="tspan9-9-5-9-6-5">CD49a</tspan></text>
+      </g>
+      <ellipse
+         style="fill:#fb9d9d;fill-opacity:1;stroke:#dd2727;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path82-4-61-1"
+         cx="517.7771"
+         cy="397.67828"
+         rx="10.024734"
+         ry="7.3899274"
+         inkscape:label="Circled protein" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#950000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="517.75641"
+         y="400.20355"
+         id="text83-99-8-5"
+         inkscape:label="Protein name"><tspan
+           sodipodi:role="line"
+           style="fill:#950000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+           x="517.75641"
+           y="400.20355"
+           id="tspan9-4">TCF1</tspan></text>
+      <ellipse
+         style="fill:#9ff8a2;fill-opacity:1;stroke:#1ea91a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path82-4-61-8-2"
+         cx="517.7771"
+         cy="410.28836"
+         rx="9.9533472"
+         ry="7.3899274"
+         inkscape:label="Circled protein" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#005900;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="517.75641"
+         y="412.8136"
+         id="text83-99-8-2-0"
+         inkscape:label="Protein name"><tspan
+           sodipodi:role="line"
+           style="fill:#005900;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+           x="517.75641"
+           y="412.8136"
+           id="tspan9-9-9">TOX</tspan></text>
+      <g
+         id="g8"
+         transform="translate(88.000001,-13.46673)">
+        <g
+           id="g83-3-7"
+           inkscape:label="Protein (Rectangle)"
+           transform="translate(493.02824,418.60166)">
+          <rect
+             style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             id="rect83-2-4"
+             width="27.611111"
+             height="15.779855"
+             x="-64.788986"
+             y="28.50841"
+             rx="3.1481259"
+             ry="3.1481259"
+             inkscape:label="Squared protein" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             x="-51.069557"
+             y="38.227684"
+             id="text83-9-21-2"
+             inkscape:label="Protein name"><tspan
+               sodipodi:role="line"
+               id="tspan83-9-6-7"
+               style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+               x="-51.069557"
+               y="38.227684">CKI</tspan></text>
+        </g>
+        <g
+           id="g88-1-7"
+           inkscape:label="Protein (Circle)"
+           transform="translate(529.19279,431.29757)">
+          <ellipse
+             style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             id="path82-4-8-9"
+             cx="-491.52853"
+             cy="-92.709"
+             rx="12.772399"
+             ry="7.3899274"
+             inkscape:label="Circled protein"
+             transform="translate(404.10815,128.41143)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             x="-491.54919"
+             y="-90.183746"
+             id="text83-99-9-3"
+             inkscape:label="Protein name"
+             transform="translate(404.10815,128.41143)"><tspan
+               sodipodi:role="line"
+               style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+               x="-491.54919"
+               y="-90.183746"
+               id="tspan85-2-1">PD1</tspan></text>
+        </g>
+        <g
+           id="g88-1-7-0"
+           inkscape:label="Protein (Circle)"
+           transform="translate(552.19279,419.29757)">
+          <ellipse
+             style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             id="path82-4-8-9-2"
+             cx="-491.52853"
+             cy="-92.709"
+             rx="12.772399"
+             ry="7.3899274"
+             inkscape:label="Circled protein"
+             transform="translate(404.10815,128.41143)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             x="-491.54919"
+             y="-90.183746"
+             id="text83-99-9-3-8"
+             inkscape:label="Protein name"
+             transform="translate(404.10815,128.41143)"><tspan
+               sodipodi:role="line"
+               style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+               x="-491.54919"
+               y="-90.183746"
+               id="tspan85-2-1-6">TIM3</tspan></text>
+        </g>
+        <g
+           id="g88-1-7-0-6"
+           inkscape:label="Protein (Circle)"
+           transform="translate(529.19279,405.90764)">
+          <ellipse
+             style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             id="path82-4-8-9-2-5"
+             cx="-491.52853"
+             cy="-92.709"
+             rx="12.772399"
+             ry="7.3899274"
+             inkscape:label="Circled protein"
+             transform="translate(404.10815,128.41143)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             x="-491.54919"
+             y="-90.183746"
+             id="text83-99-9-3-8-0"
+             inkscape:label="Protein name"
+             transform="translate(404.10815,128.41143)"><tspan
+               sodipodi:role="line"
+               style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+               x="-491.54919"
+               y="-90.183746"
+               id="tspan85-2-1-6-9">LAG3</tspan></text>
+        </g>
+        <g
+           id="g88-1-7-0-6-3"
+           inkscape:label="Protein (Circle)"
+           transform="translate(505.21345,418.77231)">
+          <ellipse
+             style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             id="path82-4-8-9-2-5-8"
+             cx="-491.52853"
+             cy="-92.709"
+             rx="12.772399"
+             ry="7.3899274"
+             inkscape:label="Circled protein"
+             transform="translate(404.10815,128.41143)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             x="-491.54919"
+             y="-90.183746"
+             id="text83-99-9-3-8-0-9"
+             inkscape:label="Protein name"
+             transform="translate(404.10815,128.41143)"><tspan
+               sodipodi:role="line"
+               style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+               x="-491.54919"
+               y="-90.183746"
+               id="tspan85-2-1-6-9-3">TIGIT</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g18"
+         transform="translate(222.75244,0.27795791)"
+         style="stroke:none;stroke-width:1.525;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Vesicule">
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9290a2;stroke-width:1.525;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse17"
+           cx="151.97096"
+           cy="427.80273"
+           rx="14.098962"
+           ry="10"
+           transform="rotate(-14.752862)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.525;stroke-dasharray:none;stroke-opacity:1"
+           id="rect18"
+           width="41.34584"
+           height="15"
+           x="71.893082"
+           y="430.37039"
+           ry="0.34345812"
+           transform="rotate(-22.863482)" />
+      </g>
+      <path
+         style="fill:#005900;fill-opacity:1;stroke:#1ea91a;stroke-width:1;stroke-opacity:1;marker-end:url(#Triangle-7)"
+         d="m -66.92017,89.495974 c -3e-6,-2.848049 -5e-6,-5.696099 -5e-6,-8.544148 0,-0.03998 0,-0.07995 0,-0.119928"
+         id="path34-5"
+         inkscape:path-effect="#path-effect34-60"
+         inkscape:original-d="m -66.92017,89.495974 -5e-6,-8.544148 v -0.119928"
+         transform="translate(597.60244,326.19926)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#dd2727;fill-opacity:1;stroke:#dd2727;stroke-width:1;stroke-opacity:1;marker-end:url(#Triangle-7-4)"
+         d="m -66.92017,89.495974 c -3e-6,-2.848049 -5e-6,-5.696099 -5e-6,-8.544148 0,-0.03998 0,-0.07995 0,-0.119928"
+         id="path34-5-1"
+         inkscape:path-effect="#path-effect34-60-2"
+         inkscape:original-d="m -66.92017,89.495974 -5e-6,-8.544148 v -0.119928"
+         transform="matrix(1,0,0,-1,597.60244,482.02323)"
+         sodipodi:nodetypes="ccc" />
+      <g
+         id="g32-8"
+         inkscape:label="Cytokines"
+         transform="translate(129.98992,190.89079)">
+        <ellipse
+           style="fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse18-4"
+           cx="346.06284"
+           cy="181.34029"
+           rx="2.0860815"
+           ry="2.1155338" />
+        <ellipse
+           style="opacity:0.8;fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse19-1"
+           cx="348.73499"
+           cy="186.72475"
+           rx="2.0860815"
+           ry="2.1155338" />
+        <ellipse
+           style="fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse20-4"
+           cx="352.92401"
+           cy="184.10921"
+           rx="2.0860815"
+           ry="2.1155338" />
+        <ellipse
+           style="fill:#eeca5b;fill-opacity:1;stroke:#da8405;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse21-3"
+           cx="342.06284"
+           cy="186.34029"
+           rx="2.0860815"
+           ry="2.1155338" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="530.23187"
+         y="357.12521"
+         id="text8-8-9"><tspan
+           sodipodi:role="line"
+           id="tspan8-6-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="530.23187"
+           y="357.12521">Stimulation</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="530.23187"
+           y="364.18076"
+           id="tspan38-4">antigénique</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="530.23187"
+           y="371.23633"
+           id="tspan43">chronique</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="444.43552"
+         y="385.63086"
+         id="text8-8-9-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="444.43552"
+           y="385.63086"
+           id="tspan43-5">Métabolisme</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="444.43552"
+           y="392.6864"
+           id="tspan70">perturbé</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="461.31055"
+         y="353.41385"
+         id="text8-8-1-5-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="461.31055"
+           y="353.41385"
+           id="tspan45-0-7">Faible</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="461.31055"
+           y="360.46939"
+           id="tspan46">Sécrétion de</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="461.31055"
+           y="367.52496"
+           id="tspan44-0-7">cytokines</tspan></text>
+      <ellipse
+         style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path82-4-61-8-1"
+         cx="503"
+         cy="383.61008"
+         rx="15.694455"
+         ry="7.3899274"
+         inkscape:label="Circled protein" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="502.97934"
+         y="386.13535"
+         id="text83-99-8-2-6"
+         inkscape:label="Protein name"><tspan
+           sodipodi:role="line"
+           style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+           x="502.97934"
+           y="386.13535"
+           id="tspan9-9-1">NAFTC1</tspan></text>
+      <ellipse
+         style="fill:#f2f2f4;fill-opacity:1;stroke:#62616a;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path82-4-61-8-1-7"
+         cx="490"
+         cy="407.61008"
+         rx="11.275095"
+         ry="7.3899274"
+         inkscape:label="Circled protein" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="489.97934"
+         y="410.13535"
+         id="text83-99-8-2-6-4"
+         inkscape:label="Protein name"><tspan
+           sodipodi:role="line"
+           style="fill:#313136;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+           x="489.97934"
+           y="410.13535"
+           id="tspan9-9-1-4">BAFT</tspan></text>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g36"
+         id="use36-9-8"
+         transform="rotate(12.695618,-783.32609,3022.327)"
+         style="stroke-width:0.5;stroke-dasharray:none" />
+      <ellipse
+         style="fill:#ee5b5b;fill-opacity:1;stroke:#da0505;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse58"
+         cx="192.83939"
+         cy="584.96381"
+         rx="2.0860815"
+         ry="2.1155338"
+         transform="rotate(-37.497278)" />
+      <ellipse
+         style="opacity:0.8;fill:#ee5b5b;fill-opacity:1;stroke:#da0505;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse59"
+         cx="195.51154"
+         cy="590.34827"
+         rx="2.0860815"
+         ry="2.1155338"
+         transform="rotate(-37.497278)" />
+      <ellipse
+         style="fill:#ee5b5b;fill-opacity:1;stroke:#da0505;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse60"
+         cx="199.70056"
+         cy="587.73273"
+         rx="2.0860815"
+         ry="2.1155338"
+         transform="rotate(-37.497278)" />
+      <ellipse
+         style="fill:#ee5b5b;fill-opacity:1;stroke:#da0505;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse61"
+         cx="188.83939"
+         cy="589.96381"
+         rx="2.0860815"
+         ry="2.1155338"
+         transform="rotate(-37.497278)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g58"
+         id="use70"
+         transform="matrix(0.5039187,0.16066966,-0.16066966,0.5039187,524.49338,334.18698)" />
+    </g>
+  </g>
+  <g
+     inkscape:label="T cell references"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-220.00001,-310)">
+    <g
+       id="g22"
+       inkscape:label="Teff (with label) reference">
+      <circle
+         style="fill:#ffd5d5;fill-opacity:1;stroke:#ff8282;stroke-width:1.00028;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path6-23"
+         cx="98.767822"
+         cy="36.692741"
+         r="26.443727" />
+      <circle
+         style="fill:#ffaaaa;fill-opacity:1;stroke:#ff5151;stroke-width:1.00028;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path6-2-2"
+         cx="104.75197"
+         cy="29.708923"
+         r="10.035533" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="98.588676"
+         y="71.827682"
+         id="text7-2"><tspan
+           id="tspan7-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+           x="98.588676"
+           y="71.827682"
+           sodipodi:role="line">T<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan16">eff</tspan></tspan></text>
+      <g
+         id="g44" />
+    </g>
+    <g
+       id="g25"
+       inkscape:label="Tpex (with label) reference">
+      <circle
+         style="fill:#e7e7e1;fill-opacity:1;stroke:#b5b5b5;stroke-width:1.00028;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path6-23-3"
+         cx="98.767822"
+         cy="103.15733"
+         r="26.443727" />
+      <circle
+         style="fill:#d1d1c7;fill-opacity:1;stroke:#a3a398;stroke-width:1.00028;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path6-2-2-8"
+         cx="104.75197"
+         cy="96.173515"
+         r="10.035533" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="98.588669"
+         y="138.29227"
+         id="text7-2-7"><tspan
+           id="tspan7-1-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+           x="98.588669"
+           y="138.29227"
+           sodipodi:role="line">T<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan18">pex</tspan></tspan></text>
+    </g>
+    <g
+       id="g24"
+       inkscape:label="Ttex (with label) reference">
+      <circle
+         style="fill:#c6c9d2;fill-opacity:1;stroke:#9290a2;stroke-width:1.00028;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path6-23-3-9"
+         cx="159.14774"
+         cy="103.15733"
+         r="26.443727" />
+      <circle
+         style="fill:#a9adbd;fill-opacity:1;stroke:#777989;stroke-width:1.00028;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path6-2-2-8-8"
+         cx="165.13188"
+         cy="96.173515"
+         r="10.035533" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="158.96858"
+         y="138.29227"
+         id="text7-2-7-6"><tspan
+           id="tspan7-1-4-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+           x="158.96858"
+           y="138.29227"
+           sodipodi:role="line">T<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan19">tex</tspan></tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Protein references"
+     style="opacity:1"
+     transform="translate(-220.00001,-310)">
+    <g
+       id="g58"
+       inkscape:label="Mitochondria">
+      <path
+         style="fill:#82ec80;fill-opacity:1;stroke:#159b1f;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         d="m -60.097749,159 c -2.336149,0.0936 -4.666306,0.41044 -6.928776,1 -0.823958,0.21471 -1.644114,0.46765 -2.398023,0.86341 -0.75391,0.39577 -1.443325,0.94304 -1.907446,1.6569 -0.445457,0.68516 -0.666613,1.4965 -0.754578,2.30899 -0.08796,0.81248 -0.04898,1.63272 -0.01118,2.44908 0.04421,0.95462 0.08729,1.91431 0.283976,2.84949 0.196688,0.93518 0.556078,1.85333 1.170023,2.58567 0.721225,0.86031 1.753651,1.415 2.8281,1.74035 1.07445,0.32534 2.199903,0.43871 3.31738,0.54611 2.984579,0.28685 6.015459,0.541 8.964581,0 2.941962,-0.53968 5.688731,-1.85263 8.262762,-3.37604 1.171717,-0.69346 2.362876,-1.4818 3.021523,-2.67344 0.511459,-0.92534 0.651701,-2.03059 0.49369,-3.076 -0.15801,-1.0454 -0.601074,-2.03389 -1.186398,-2.91437 -0.760463,-1.14394 -1.776682,-2.12955 -2.988543,-2.7763 -1.079161,-0.57593 -2.288646,-0.87355 -3.503014,-1.02051 -1.214367,-0.14696 -2.440945,-0.14831 -3.66408,-0.16334 -1.666763,-0.0205 -3.334447,-0.0667 -5.000001,0 z"
+         id="path47"
+         inkscape:path-effect="#path-effect48"
+         inkscape:original-d="m -60.097749,159 c -0.675291,-0.10148 -3.595441,0.66666 -6.928776,1 -3.333331,0.33333 -2.981846,1.68021 -4.305469,2.52031 -1.323623,0.84011 -0.422711,3.08238 -0.765754,4.75807 -0.343043,1.67569 0.969333,3.61762 1.453999,5.43516 0.484666,1.81753 4.150079,1.61979 6.14548,2.28646 1.9954,0.66666 11.806408,-0.281 8.964581,0 -13.564061,1.34123 5.042801,-1.43958 8.262762,-3.37604 2.477805,-1.49013 1.68819,-1.67344 3.021523,-2.67344 1.333333,-1 -0.359376,-3.99037 -0.692708,-5.99037 -0.333336,-2 -1.988542,-1.7763 -2.988543,-2.7763 -1.000001,-1 -4.83376,-0.85052 -7.167094,-1.18385 -2.333334,-0.33334 -4.32471,0.10147 -5.000001,0 z"
+         sodipodi:nodetypes="sssssssssssss"
+         transform="translate(-8.2374281,-19.594931)" />
+      <path
+         style="fill:#bcf4c5;fill-opacity:1;stroke:#58ab17;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         d="m -68.81633,161.96692 c -0.417396,0.77835 -0.763661,1.59483 -1.033074,2.43594 -0.476558,1.48782 -0.710235,3.08906 -0.389062,4.61797 0.221057,1.05232 0.695582,2.03321 1.206863,2.97917 0.230338,0.42617 0.475556,0.85608 0.836678,1.17898 0.180561,0.16145 0.389266,0.29394 0.618657,0.3717 0.229391,0.0778 0.48006,0.0993 0.715947,0.0443 0.244753,-0.0571 0.467925,-0.19573 0.636795,-0.38186 0.168869,-0.18613 0.284192,-0.41829 0.342672,-0.66271 0.11696,-0.48884 0.0064,-1.01124 -0.216896,-1.46156 -0.237189,-0.47835 -0.593121,-0.88531 -0.91185,-1.31366 -0.318729,-0.42836 -0.609862,-0.90074 -0.68346,-1.42957 -0.03074,-0.22086 -0.02109,-0.45233 0.06653,-0.65738 0.04381,-0.10252 0.106945,-0.19731 0.188294,-0.27355 0.08135,-0.0762 0.181158,-0.13357 0.289355,-0.16048 0.109129,-0.0271 0.225017,-0.023 0.333824,0.005 0.108806,0.0284 0.210683,0.0805 0.301576,0.14677 0.181787,0.13243 0.317622,0.31781 0.43856,0.50744 0.598372,0.93822 0.89547,2.0337 1.140103,3.11927 0.183322,0.8135 0.353308,1.65931 0.837072,2.33854 0.288898,0.40563 0.695678,0.74189 1.175997,0.87339 0.240159,0.0658 0.495759,0.079 0.739511,0.0282 0.243751,-0.0508 0.475004,-0.16679 0.654544,-0.33932 0.208803,-0.20065 0.342367,-0.47219 0.40191,-0.75558 0.05954,-0.28339 0.048,-0.57849 -0.005,-0.86317 -0.153858,-0.82587 -0.642189,-1.54889 -0.900779,-2.34818 -0.256137,-0.79171 -0.279396,-1.65723 -0.06615,-2.46156 0.01199,-0.10938 0.05348,-0.21538 0.118928,-0.30383 0.06544,-0.0885 0.154673,-0.15914 0.255759,-0.2026 0.101086,-0.0435 0.213771,-0.0596 0.322989,-0.0462 0.109219,0.0134 0.214693,0.0562 0.302322,0.12272 0.106436,0.0808 0.185017,0.19498 0.23468,0.31905 0.04966,0.12408 0.07149,0.25798 0.07698,0.39152 0.01098,0.26706 -0.04189,0.53255 -0.05133,0.79968 -0.01502,0.425 0.08043,0.8478 0.223572,1.24825 0.143144,0.40045 0.333556,0.78199 0.516105,1.16608 0.212528,0.44717 0.415921,0.90088 0.683732,1.3173 0.26781,0.41642 0.605922,0.79816 1.034237,1.0465 0.378213,0.21929 0.826443,0.32757 1.259522,0.26776 0.433079,-0.0598 0.846185,-0.29564 1.088655,-0.65943 0.157546,-0.23637 0.240177,-0.51821 0.259804,-0.8016 0.01963,-0.28339 -0.02184,-0.56867 -0.0974,-0.8425 -0.151107,-0.54767 -0.434757,-1.04774 -0.658501,-1.56996 -0.132812,-0.30998 -0.246671,-0.64206 -0.213381,-0.97765 0.01664,-0.16779 0.07142,-0.33355 0.170519,-0.46998 0.09909,-0.13642 0.244151,-0.24182 0.408395,-0.27998 0.114425,-0.0266 0.235435,-0.0203 0.348538,0.0114 0.113102,0.0317 0.218441,0.0884 0.311603,0.16 0.186322,0.14311 0.321744,0.34202 0.437348,0.54655 0.391944,0.69345 0.587523,1.47771 0.776301,2.25157 0.07947,0.32577 0.159286,0.65397 0.298803,0.95889 0.139518,0.30493 0.344239,0.58869 0.627146,0.76871 0.201642,0.12831 0.437679,0.19976 0.676237,0.21436 0.238559,0.0146 0.479363,-0.0268 0.702914,-0.1114 0.447102,-0.16909 0.816801,-0.50564 1.091684,-0.89671 0.490044,-0.69717 0.694652,-1.55571 0.793842,-2.40208 0.02105,-0.17963 0.0382,-0.36153 0.09574,-0.53299 0.05754,-0.17147 0.160752,-0.33462 0.316756,-0.42613 0.08083,-0.0474 0.173245,-0.0739 0.266699,-0.0808 0.09345,-0.007 0.187903,0.006 0.277651,0.0326 0.179496,0.0539 0.337649,0.16391 0.47536,0.29102 0.275422,0.25424 0.48518,0.58472 0.805198,0.77986 0.322419,0.19661 0.730996,0.23015 1.09344,0.12411 0.362445,-0.10603 0.678961,-0.34316 0.914372,-0.63844 0.236364,-0.29648 0.395014,-0.65052 0.486992,-1.01836 0.09198,-0.36784 0.118851,-0.74975 0.10832,-1.12877 -0.02147,-0.7727 -0.197687,-1.53791 -0.486457,-2.25495 -0.449427,-1.11596 -1.177422,-2.12225 -2.114844,-2.8763 -0.316636,-0.2547 -0.662108,-0.48351 -1.049519,-0.60616 -0.387411,-0.12264 -0.822812,-0.13076 -1.189711,0.0439 -0.123269,0.0587 -0.238198,0.13796 -0.326913,0.24173 -0.08871,0.10378 -0.150155,0.23314 -0.16137,0.36921 -0.0148,0.17951 0.05913,0.35906 0.175855,0.49624 0.116725,0.13719 0.273209,0.23559 0.437296,0.30989 0.328175,0.14858 0.697084,0.21019 0.997696,0.40871 0.210683,0.13913 0.375495,0.33838 0.511164,0.55131 0.135669,0.21293 0.244901,0.44136 0.366271,0.66275 0.147707,0.26943 0.314446,0.53055 0.422308,0.81826 0.107861,0.28771 0.153018,0.6119 0.05044,0.90154 -0.06414,0.18111 -0.185771,0.34221 -0.345334,0.44924 -0.159563,0.10703 -0.356575,0.15856 -0.547635,0.13826 -0.157566,-0.0167 -0.308272,-0.0811 -0.436585,-0.17402 -0.128314,-0.093 -0.23489,-0.21389 -0.321255,-0.34674 -0.172729,-0.26569 -0.264288,-0.57445 -0.358919,-0.8769 -0.07341,-0.23462 -0.150348,-0.46923 -0.259744,-0.68938 -0.109396,-0.22015 -0.252976,-0.42669 -0.442693,-0.58302 -0.26588,-0.2191 -0.603327,-0.32641 -0.926297,-0.44635 -0.322969,-0.11994 -0.653406,-0.26721 -0.867361,-0.53724 -0.170579,-0.21529 -0.249628,-0.48702 -0.324124,-0.7514 -0.0745,-0.26438 -0.151817,-0.53629 -0.319885,-0.75355 -0.158196,-0.20449 -0.387331,-0.34568 -0.630152,-0.43446 -0.24282,-0.0888 -0.500528,-0.12863 -0.757183,-0.15981 -0.162314,-0.0197 -0.326557,-0.0362 -0.489037,-0.0179 -0.162479,0.0183 -0.324843,0.074 -0.446545,0.18324 -0.125254,0.11238 -0.199295,0.27565 -0.218689,0.44281 -0.0194,0.16716 0.01316,0.33774 0.07637,0.4937 0.126425,0.31191 0.366966,0.56062 0.587885,0.81453 0.608973,0.6999 1.101739,1.49162 1.5875,2.28203 0.553704,0.90096 1.102015,1.8053 1.6362,2.71797 0.190587,0.32562 0.381354,0.65696 0.480521,1.021 0.04958,0.18201 0.07558,0.37137 0.06517,0.55973 -0.01041,0.18836 -0.05794,0.37582 -0.148818,0.54114 -0.165676,0.30137 -0.473512,0.51496 -0.80952,0.58825 -0.336008,0.0733 -0.695442,0.0114 -0.999855,-0.14866 -0.27775,-0.146 -0.510448,-0.36982 -0.689881,-0.62724 -0.179434,-0.25742 -0.307365,-0.548 -0.402591,-0.84699 -0.190453,-0.59797 -0.252344,-1.22878 -0.401892,-1.83827 -0.299031,-1.21872 -0.938808,-2.32058 -1.478647,-3.45339 -0.40932,-0.85893 -0.76655,-1.74799 -1.283761,-2.54661 -0.189744,-0.29298 -0.408035,-0.57966 -0.706811,-0.76014 -0.149387,-0.0902 -0.317623,-0.15191 -0.491537,-0.16654 -0.173914,-0.0146 -0.353494,0.0193 -0.503995,0.10767 -0.170799,0.10029 -0.297673,0.2671 -0.366995,0.45265 -0.06932,0.18554 -0.08357,0.3888 -0.0604,0.58551 0.04635,0.39342 0.235333,0.75315 0.405675,1.11079 0.436004,0.91542 0.772755,1.90247 0.76849,2.91641 -0.0025,0.59668 -0.122929,1.19522 -0.04444,1.78672 0.03298,0.24853 0.100858,0.49274 0.112098,0.74319 0.0056,0.12522 -0.0032,0.25194 -0.0372,0.3726 -0.03399,0.12065 -0.09395,0.23528 -0.181928,0.32458 -0.116006,0.11775 -0.279746,0.18704 -0.445036,0.18834 -0.165289,0.001 -0.330095,-0.0654 -0.447933,-0.18134 -0.145316,-0.9863 -0.401632,-1.95619 -0.762555,-2.88551 -0.1833,-0.47197 -0.397601,-0.94012 -0.723754,-1.32739 -0.218207,-0.25909 -0.481292,-0.47581 -0.730312,-0.70545 -0.249019,-0.22963 -0.488687,-0.47829 -0.643363,-0.77965 -0.173075,-0.33721 -0.230112,-0.72097 -0.362998,-1.07595 -0.06644,-0.17749 -0.153129,-0.34956 -0.276483,-0.49344 -0.123354,-0.14387 -0.285775,-0.25858 -0.469899,-0.30347 -0.150828,-0.0368 -0.311857,-0.0254 -0.458901,0.0244 -0.147045,0.0498 -0.280214,0.1371 -0.390609,0.24625 -0.220791,0.21831 -0.346796,0.51683 -0.415074,0.81972 -0.191466,0.84937 0.0361,1.73614 0.338542,2.55261 0.29873,0.80646 0.674784,1.59621 0.797656,2.4474 0.03283,0.22745 0.04669,0.46276 -0.01452,0.68427 -0.03061,0.11075 -0.08012,0.21694 -0.150946,0.30742 -0.07083,0.0905 -0.163437,0.16487 -0.269858,0.2082 -0.154386,0.0629 -0.332292,0.0572 -0.488781,-2.4e-4 -0.156489,-0.0574 -0.292208,-0.16392 -0.398876,-0.29202 -0.213335,-0.25619 -0.30961,-0.5871 -0.403655,-0.90695 -0.286588,-0.97469 -0.602927,-1.94875 -0.712594,-2.95876 -0.03801,-0.35007 -0.05103,-0.70349 -0.115832,-1.04961 -0.0648,-0.34611 -0.185852,-0.69045 -0.413335,-0.95924 -0.164181,-0.19399 -0.379776,-0.34245 -0.615992,-0.4362 -0.236216,-0.0938 -0.492568,-0.13352 -0.746599,-0.12604 -0.469324,0.0138 -0.932217,0.19185 -1.289843,0.49609 z"
+         id="path48"
+         inkscape:path-effect="#path-effect49"
+         inkscape:original-d="m -68.81633,161.96692 c -0.429948,0.16537 -0.699741,1.60105 -1.033074,2.43594 -0.333332,0.8349 -0.389062,3.11953 -0.389062,4.61797 0,1.49844 0.87353,1.97917 1.206863,2.97917 0.333332,1 1.341652,1.10578 2.171282,1.59493 0.829633,0.48915 0.592203,-1.68365 0.762571,-2.50613 0.170371,-0.82249 -1.127286,-1.74323 -1.59531,-2.74323 -0.468024,-1 0.409485,-0.75808 0.544176,-1.09141 0.134692,-0.33333 0.740625,0.3263 1.07396,0.65964 0.333332,0.33333 0.80677,2.11927 1.140103,3.11927 0.333332,1 0.50374,1.46094 0.837072,2.33854 0.333333,0.87761 1.753442,0.43984 2.570052,0.56224 0.816612,0.1224 0.213487,-1.1105 0.396875,-1.61875 0.18339,-0.50825 -0.684318,-1.52309 -0.900779,-2.34818 -0.216464,-0.82508 -0.183018,-3.30114 -0.06615,-2.46156 -0.116872,-0.8637 0.684689,-0.31671 0.999998,-0.42994 0.315309,-0.11323 0.2423,1.07732 0.260323,1.51025 0.01802,0.43294 0.406345,1.56111 0.739677,2.41433 0.333333,0.85321 1.220454,1.50824 1.717969,2.3638 0.497515,0.85555 1.512358,-0.20278 2.348177,-0.39167 0.835819,-0.18889 -0.332756,-2.21406 -0.496094,-3.21406 -0.163338,-1 0.202195,-1.06094 0.365533,-1.72761 0.163338,-0.66666 0.764156,0.38464 1.097489,0.71797 0.333332,0.33334 0.556392,1.5849 0.776301,2.25157 0.219911,0.66666 0.479192,1.22482 0.925949,1.7276 0.446756,0.50278 1.804167,-0.6243 2.470835,-0.79375 0.666665,-0.16945 0.460507,-1.57934 0.793842,-2.40208 0.333333,-0.82274 0.249709,-0.62839 0.412499,-0.95912 0.162793,-0.33073 1.321033,0.69193 1.824908,1.02266 0.503875,0.33073 1.341146,-0.33707 2.007812,-0.51433 0.666668,-0.17725 0.26198,-1.48046 0.595312,-2.14713 0.333336,-0.66667 -0.153125,-1.4342 -0.486457,-2.25495 -0.333333,-0.82074 -1.448179,-2.03038 -2.114844,-2.8763 -0.666668,-0.84592 -1.572564,-0.22891 -2.23923,-0.56224 -0.666668,-0.33333 -0.342392,0.2776 -0.488283,0.61094 -0.145888,0.33333 1.131623,0.88151 1.610847,1.21484 0.479221,0.33334 0.544102,0.72352 0.877435,1.21406 0.333335,0.49054 0.315166,1.21034 0.47275,1.7198 0.157583,0.50946 -0.573265,0.42448 -0.892969,0.5875 -0.319704,0.16302 -0.730909,-0.90131 -1.116759,-1.39766 -0.385852,-0.49636 -0.583742,-0.93906 -0.702437,-1.2724 -0.118694,-0.33333 -1.12699,-0.65026 -1.793658,-0.98359 -0.666665,-0.33333 -0.470257,-0.98125 -0.644009,-1.50495 -0.173754,-0.52369 -0.894421,-0.28559 -1.387335,-0.59427 -0.49291,-0.30868 -0.602249,-2.6e-4 -0.935582,0.16537 -0.333333,0.16571 0.280784,1.25529 0.445571,1.75104 0.164788,0.49574 1.085623,1.44444 1.5875,2.28203 0.501881,0.83759 1.14589,1.89088 1.6362,2.71797 0.490307,0.82708 0.220517,1.28229 0.396875,2.12187 0.176358,0.83959 -1.258192,0.43959 -1.809375,0.43959 -0.551185,0 -1.045548,-2.3125 -1.494364,-3.3125 -0.448815,-1 -0.811979,-2.33499 -1.478647,-3.45339 -0.666666,-1.1184 -0.950426,-1.66502 -1.283761,-2.54661 -0.333333,-0.8816 -1.23293,-0.59818 -1.702343,-0.81901 -0.469413,-0.22084 0.175546,1.59479 -0.02172,2.14895 -0.197252,0.55417 0.435158,1.91641 0.76849,2.91641 0.333333,1 -0.04444,1.12005 -0.04444,1.78672 0,0.66667 0.007,0.94922 -0.107031,1.44037 -0.114033,0.49114 -1.112272,0.018 -0.892969,0.007 -0.219303,0.0371 -0.629078,-2.05 -0.762555,-2.88551 -0.133477,-0.8355 -0.02816,-0.96074 -0.723754,-1.32739 -847.434475,-446.68619 -627.983925,-193.14685 -1.373675,-1.4851 0.428025,0.13092 -0.776047,-1.87286 -1.10938,-1.87286 -0.333335,0 -0.931251,0.75703 -1.264584,1.09036 -0.333333,0.33334 0.338542,1.71771 0.338542,2.55261 0,0.83489 0.464323,1.61562 0.797656,2.4474 0.333332,0.83177 -0.268656,0.80797 -0.435325,1.19989 -0.166666,0.39193 -0.849849,-0.85448 -1.291312,-1.19921 -0.441462,-0.34474 -0.470059,-1.91157 -0.712594,-2.95876 -0.242533,-1.04719 -0.379828,-1.34219 -0.529167,-2.00885 -0.149336,-0.66667 -0.872519,-0.41598 -1.362591,-0.56224 -0.490074,-0.14627 -0.859896,0.33073 -1.289843,0.49609 z"
+         transform="translate(-8.2374281,-19.594931)"
+         sodipodi:nodetypes="cssssssssssssscssssssssssssssssssssssssssssscssssssssssssscsssssssssssscc" />
+    </g>
+    <g
+       id="g75"
+       inkscape:label="Antigenes">
+      <ellipse
+         style="fill:#ee5b5b;fill-opacity:1;stroke:#da0505;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path127-3-4-33"
+         cx="-49.822643"
+         cy="37.38446"
+         rx="2.0860815"
+         ry="2.1155338" />
+    </g>
+    <g
+       id="g36"
+       inkscape:label="TCR"
+       style="stroke-width:0.5;stroke-dasharray:none">
+      <rect
+         style="fill:#ffc35b;fill-opacity:1;stroke:#d17006;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12"
+         width="4.9999981"
+         height="7.8749986"
+         x="-114.0115"
+         y="143.0625"
+         ry="0.34345812" />
+      <rect
+         style="fill:#ffc35b;fill-opacity:1;stroke:#d17006;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="rect13"
+         width="1"
+         height="6.9999995"
+         x="-112.0115"
+         y="150.9375"
+         ry="0.29608458" />
+      <rect
+         style="fill:#ffc35b;fill-opacity:1;stroke:#d17006;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12-4"
+         width="4.9999981"
+         height="7.8749986"
+         x="-109.09775"
+         y="143.0625"
+         ry="0.34345812" />
+      <rect
+         style="fill:#ffc35b;fill-opacity:1;stroke:#d17006;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="rect13-7"
+         width="1"
+         height="6.9999995"
+         x="-107.09775"
+         y="150.98537"
+         ry="0.29608458" />
+      <path
+         style="fill:#ffc35b;fill-opacity:1;stroke:#d17006;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m -114.0115,135.93751 v 7 h 5 l -0.0863,-5.45214 c -1,-0.0921 -1.47241,-0.52758 -1.5394,-1.53947 -1.19256,-0.42702 -3.3743,-0.008 -3.3743,-0.008 z"
+         id="path14"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="fill:#ffc35b;fill-opacity:1;stroke:#d17006;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m -104.09773,135.93751 v 7 h -5 l 0.0862,-5.45214 c 1,-0.0921 1.47245,-0.52798 1.53945,-1.53986 1.18696,-0.4315 3.37435,-0.008 3.37435,-0.008 z"
+         id="path15"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+  </g>
+</svg>

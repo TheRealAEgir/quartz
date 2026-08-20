@@ -1,4 +1,4 @@
-# PD1
+# PD1 (codé par PDCD1)
 
 - Programmed death-ligand 1
 - PD1 est un checkpoint immunitaire exprimé par les lymphocytes T. La liaison de PD1 avec son ligand PD-L1 entraine une régulation négative de l'activité des lymphocytes par la signalisation entrainant l'activation de SHP-2 et le blocage de l'activation TCR.
