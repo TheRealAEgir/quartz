@@ -76,3 +76,22 @@ a.internal-line {
   font-style: italic;
   line-height: 1.4;
 }
+
+// Better images
+.custom-figure-title {
+  margin-bottom: 0.75rem;
+}
+
+.custom-figure-image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 0.75rem auto;
+}
+
+.custom-figure-legend {
+  margin-top: 0.5rem;
+  font-style: italic;
+  line-height: 1.4;
+}

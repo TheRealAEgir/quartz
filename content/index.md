@@ -16,4 +16,5 @@ Cette thèse a été écrite en utilisant les logiciels Obsidian, Quartz et Zote
 [[TRM]]
 [[P14]]
 
-[[Figure 1]]
+[[Figure 1]] (svg)
+[[Figure 3]] (png)
