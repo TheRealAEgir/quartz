@@ -8,3 +8,7 @@
 - Herpes Simplex Virus
 - Le HSV est un virus souvent utilisé dans des modèles murins expérimentaux et particulièrement dans l'étude des TRM
 - L'infection par HSV génère (selon le mode d'infection) une réponse immunitaire localisée au niveau de la peau. La résolution de l'infection génère abondamment des TRM uniquement dans la zone infectée, et capable de protection contre un re-challenge. Il existe des lymphocytes T spécifiques d'antigènes de l'HSV, comme les lymphocytes T gBT-I (CD8+) ou gDT-II (CD4+) spécifiques du peptide gB.
+# Parabiose
+- La parabiose est une technique qui consiste à relier la circulation sanguine par chirurgie. Ce modèle est important dans l'étude des TRM, car il permet de valider expérimentalement la résidence des cellules. Par exemple, alors que la proportion de cellules circulantes provenant de l'hôte et du parabiont s'équilibre dans le sang, les TRM ne sont pas partagés dans les souris et les organes contenant des TRM ont une plus forte proportion de cellules autologues.
+
+#

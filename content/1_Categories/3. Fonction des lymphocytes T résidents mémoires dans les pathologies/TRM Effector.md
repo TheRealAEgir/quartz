@@ -1,35 +1,26 @@
-### Paradigme sur le rôle des populations de lymphocytes mémoires dans le contrôle de l'infection
+# 3.1 Mécanisme d'action des lymphocytes T résidents mémoires contre les infections
 
-Le paradigme suggère que les TRM servent de barrière contre les pathogènes, tandis que les TCM permettent de renforcer la réponse immunitaire à distance, depuis les SLOs. Un tel modèle a été qualifié de "inside out" par [[Fonseca_NatImmunol_2020]], dans un article qui suggère qu'il existe également une immunité suivant un modèle "oustide in". En effet il a été observé dans ces travaux que les TRM sont des cellules capable de maintenir une certaine plasticité, et qu'une partie des TRM pouvait recirculer et se différencier en TEM et TCM [[Fonseca_NatImmunol_2020]].
+Les TRM ont été découverts à l'origine dans des modèles murins d'infection par HSV [[Gebhardt_NatImmunol_2009]], et les modèles murins d’infection restent les plus utilisés dans l’étude de ces cellules. Dans cette partie, le mode d'action des TRM dans la réponse immunitaire et leur rôle dans la protection contre les infections sera décrit.
 
+### 3.1.1 Mécanisme d'action des lymphocytes T résidents mémoires dans la réponse immunitaire
 
-Les TRM sont des cellules efficaces dans l'élimination des dangers, et deux mécanismes d'action distincts ont été décris. A l'origine, il a d'abord été décris que les TRM pouvaient recruter d'autres cellules immunitaires sur le site d'inflammation, et il n'était pas connu si ces cellules avaient des capacités cytotoxiques [[Mueller_NatRev_2016]].
-Les TRM exprimant CD103 et CD39 sont capable de détruire des cellules tumorales dans une co-culture *ex-vivo* autologue [[Duhen_NatCommun_2018]].
-Les TRM extraits de cancer du sein chez la souris peuvent détruire des cellules tumorale de manière IFNg et TNFa dépendante, et le traitement avec des anti-PD1/anti-CTLA4 améliore ce résultat [[Virassamy_CancerCell_2023]].
+Les TRM les plus étudiés sont les TRM CD8+, et le rôle des lymphocytes T CD8+ est d'éliminer les cellules dangereuses par cytotoxicité. Dans ce sens, le mécanisme d'action des TRM (en tout cas des TRM CD8+) le plus évident est que ces cellules agissent par cytotoxicité. Pourtant, le rôle cytotoxique des TRM n'a pas été mis en évidence tout de suite ; les premières observations décrivent plutôt un rôle d'initiation et de maintien de l'inflammation et de recrutement d'autres acteurs immunitaires [[Mueller_NatRev_2016]]. Dans cette partie, les rôles directs et indirects des TRM dans la réponse immunitaire seront décrit.
+##### 3.1.1.1 Rôle direct cytotoxique des lymphocytes T résidents mémoires contre les infections
 
-### Rôle direct cytotoxique des TRM
+La cytotoxicité est le rôle le plus évident des TRM CD8+. Cependant, celui-ci a surtout été étudié dans le cadre de cancers où il est plus facile de définir les cellules cibles [[Duhen_NatCommun_2018]] [[Park_Nature_2019]] [[Liikanen_JClinInvest_2021]] ([[TRM Cancer#3.2.3.1 Rôle direct cytotoxique des lymphocytes T résidents mémoires contre les cellules tumorales|voir partie dédiée dans le chapitre suivant]]).
+##### 3.1.1.2 Rôle indirect des lymphocytes T résidents mémoires contre les infections (recrutement d'autres acteurs)
 
-Dans des cancer humain, il a été observé que les TRM CD103+CD39+ pouvait sécréter de l'IFNg et induire l'activité des caspases 3/7 dans des cellules tumorales autologues dans un modèle de co-culture *ex vivo*, et ce de manière CMH-I dépendante [[Duhen_NatCommun_2018]].
-Dans un modèle de mélanome murin, il a été montré que les TRM jouaient un role dans la phase d'équilibre du cancer de manière antigène dépendante, et que le TNFa avait un rôle important tandis que l'IFNg et la perforine était dispensable [[Park_Nature_2019]].
-Les TRM avec une signalisation HIF1a constitutive sont plus efficace dans l'élimination de cellules tumorale dans des expériences *in vitro*[[Liikanen_JClinInvest_2021]].
-Il a été montré que les TRM CD4+ expriment de manière constitutive les mRNA codant des cytokines comme l'IL17a, mais n'expriment pas les protéines dans un contexte homéstatique [[Asada_NatImmunol_2025]]. Ce mécanisme pourrait permettre une réponse plus rapide en cas d'activation des cellules.
-### Rôle indirect (passant par le recrutement d'autres acteurs) des TRM
+Le rôle le plus décris des lymphocytes T résidents mémoires est un rôle de recrutement d'autres cellules immunitaires par l'initiation et le maintien d'une inflammation locale. Par exemple, l'IFNg sécrété par les TRM induit l'expression VCAM1 sur les cellules endothéliales (recrutant les cellules immunitaires par diapédèse) [[Chang_NatImmunol_2014]] ou la sécrétion de CXCL9 et CXCL10 (recrutant les cellules exprimant CXCR3) [[Yenyuwadee_SciAdv_2022]]. Les TRM sont les cellules les plus efficaces et sécrètent plus d'IFNg que les Tcirc dans les poumons [[Hombrink_NatImmunol_2016]]. Cette fonction a été observée dans un modèle de vaccination dans l'oreille de la peau, où les TRM spécifiques de l'antigènes entrainent une inflammation et un recrutement de neutrophiles, de monocytes inflammatoires et d'autres lymphocytes T CD8+ [[Khan_JExpMed_2016]].
 
-L'IFNg sécrété par les TRM pourrait avoir un rôle de recrutement des autres leukocytes, en induisant l'expression de VCAM1 sur les cellules endothéliales [[Chang_NatImmunol_2014]]. De plus, l'IFNg est connu pour induire l'expression de CXCL9 et CXCL10 (par quel type cellulaire ?), deux cytokines permettant le recrutement de lymphocytes T CD8 *via* CXCR3 [[Yenyuwadee_SciAdv_2022]]. L'IL2 et le TNFa, quand à eux, pourraient jouer sur la maturation des cellules dendritiques et des lymphocytes NK [[Chang_NatImmunol_2014]].
-Les TRM des poumons sécrètent plus d'INFg que les TCIRC après stimulation *ex vivo* [[Hombrink_NatImmunol_2016]].
-Les TRM avec une signalisation HIF1a constitutive ont une plus forte sécrétion de cytokines [[Liikanen_JClinInvest_2021]].
-Après un re-challenge avec un peptide gp33 de TRM formés dans la peau de l'oreille de souris avec une infection gp33-VacV, il y a une inflammation locale avec du swelling, un recruitement de neutrophiles et de monocytes inflammatoires et une augmentation du nombre de lymphocyte CD8+ [[Khan_JExpMed_2016]].
+L'IFNg n'est pas la seule cytokine impliquée. L'IL2 et le TNFa sont aussi sécrétés par les TRM et pourraient jouer sur la maturation des cellules dendritiques et des lymphocytes NK [[Chang_NatImmunol_2014]]. Il a aussi été montré que les TRM CD4+ expriment de manière constitutive les mRNA codant des cytokines comme l'IL17a, mais n'expriment pas les protéines dans un contexte homéostatique [[Asada_NatImmunol_2025]]. Ce mécanisme pourrait permettre une réponse plus rapide en cas d'activation des cellules.
+##### 3.1.1.3 Modulation de l'efficacité des lymphocytes T résidents mémoires
 
-### Autres rôles
+En l'absence de signalisation TGFb dans la peau, les TRM sont moins efficaces contre un re-challenge avec VV-OVA [[Hirai_Immunity_2019]]. Ce résultat suggère que, margé le rôle anti-inflammatoire décris du TGFb, celui-ci pourrait au contraire jouer un rôle activateur des lymphocytes T. Des observations similaires ont aussi été décrites dans le cadre de cancers [[Boutet_CancerRes_2016]]. En plus du TGFb, l'induction de l'hypoxie augmente la sécrétion de cytokines par les TRM [[Liikanen_JClinInvest_2021]].
+### 3.1.2 Efficacité des lymphocytes T résidents mémoires dans le contrôle des infections
 
-Les TRM pourraient se différencier en TEM dans un contexte d'infection secondaire et mettre en place une réponse systémique [[Behr_NatImmunol_2020]].
+Grâce à leurs mécanismes d'action, les TRM ont été décrit comme étant très efficace dans le contrôle de plusieurs maladies infectieuses. Par exemple, des TRM protecteurs sont générés suite à une infection localisée par HSV dans la peau [[Gebhardt_NatImmunol_2009]] [[Mackay_ProcNatlAcadSciUSA_2012]] ou la muqueuse vaginale [[Iijima_Science_2014a]] de souris. Dans le cas d'une infection HSV, la déplétion des Tcirc n'impact pas la protection médiée par les TRM [[Mackay_ProcNatlAcadSciUSA_2012]]. De plus, si une souris vaccinée est liée à une souris naïve par parabiose, seule la souris vaccinée est protégée contre un challenge de façon IFNg et TRM CD4+ dépendante [[Iijima_Science_2014a]]. De façon surprenante, la génération de TRM CD103+ non spécifiques par l'utilisation de DNFB permet quand même la protection contre un re-challenge par HSV [[Mackay_ProcNatlAcadSciUSA_2012]].
 
-### Modulation de l'efficacité des TRM
-
-En l'absence de signalisation TGFb dans la peau, les TRM sont moins efficaces contre un re-challenge avec VV-OVA [[Hirai_Immunity_2019]].
-
-La protéine CD61 peut se fixer à CD103 lors de la synapse immunologique, et les TIL CD61 sont plus fonctionnels et moins épuisés dans les cancers NSCLC [[Hamid_NatImmunol_2024]].
-
+Les TRM permettent aussi la protection contre d'autres types d'infection. Par exemple, les TRM dans l'intestins ont un rôle contre l'infection par LM et une vaccination génère des TRM et préviens l'apparition de la maladie [[Sheridan_Immunity_2014]]. De manière similaire, une infection par IAV génère des TRM dans les poumons et les tissus nasaux, où la protection est TRM CD4+ dépendante et dépend partiellement des réponses Th17 et de l'IL17 [[Mathew_JExpMed_2026]]. Dans le cerveau, les TRM sont capables de produire des cytokines et protègent contre des infections dont le LCMV [[Urban_NatImmunol_2020]]. Chez l'Homme, les TRM du foie protègent contre le paludisme [[Fernandez-Ruiz_Immunity_2016]]. Dans ces expériences, les TRM sont plus fonctionnels et cytotoxiques que les TEM, et leur nombre corrèle avec le contrôle de la maladie [[Fernandez-Ruiz_Immunity_2016]].
 
 ## List of used references
 ```dataview

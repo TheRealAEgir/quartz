@@ -10,6 +10,7 @@ Dans le foie, les TRM sont localisés au niveau des sinusoïdes [[Fernandez-Ruiz
 Il a été observé que les TRM pouvaient s'accumuler dans des structures appelées MLC (memory lymphocytes clusters) dans le FRT après une infection par HSV [[Iijima_Science_2014a]]. Les TRM CD8 sont plutôt à la périphérie, et les TRM CD4 au centre [[Iijima_Science_2014a]].
 Dans le SI, deux populations de TRM sont retrouvés dans les microvillosités. Celle-ci sont séparées spatiallement le long de l'axe crypte-villus [[Reina-Campos_Nature_2025]].
 Dans le cerveau, les TRM sont retrouvés dans les méninges, dans les vaisseaux sanguins, mais aussi dans le reste de l'organe [[Urban_NatImmunol_2020]].
+Il existe des TRM dans les LN, et ceux-ci localisent dans la zone T, mais aussi la zone B et les zones d'entrée des vaisseaux lymphatique (proche des cellules HEV) [[Heim_bioRxiv_2026]]. Ces résultats suggèrent que les TRM dans les LN pourraient avoir un rôle dans la maturation des lymphocytes B, mais également protéger les LN avec un positionnement stratégique [[Heim_bioRxiv_2026]].
 
 Dans les tumeurs, les TRM avec un phénotype épuisé sont retrouvés au niveau des îlots tumoraux [[Anadon_CancerCell_2022]] [[Paolini_JImmunotherCancer_2024]] [[Burn_NatImmunol_2026]].
 

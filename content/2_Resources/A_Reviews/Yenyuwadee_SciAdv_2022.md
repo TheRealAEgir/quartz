@@ -59,7 +59,7 @@ articletype: Review
 >[[TRM Transcriptome]]
 > NR4A2/JUNB/FOSL2 are important in TRM. JUNB/FOSL2 downregulate TBET, and FOSL2 positively upregulate TGFb signaling. NOTCH is also important. BLIMP1/HOBIT downregulate CCR7 and S1PR1.
 >[[TRM Recirculation]] TRM may be able to replenish TCIRCM [...] depending on the tumor micro environment. TRM could protect SLOs upon reinfection. 
->[[TRM Infection]] Has a nice table recapitulating finding on TRM and infection, including organ, phenotype of TRM and what was found in the original study.
+>[[TRM Effector]] Has a nice table recapitulating finding on TRM and infection, including organ, phenotype of TRM and what was found in the original study.
 >[[TRM Heterogeneity]] In intestinal tissue : Blimp hi/KLRG1 hi/int/Id3 low/CD127 low (effector, early phase of infection) vs Blimp1 low/Id3 hi/KLRG1 low/CD127 low (later infection incidents)
 >[[TRM Effector]] TRM secrete IFNg, which induce VCAM-1/CXCL9/CXCL10 and entry of CD8 TCIRC
 >[[TRM Differenciation]] one cell, single/multiple fate explained with evidence on TRM. Talks about antigen-independant formation of TRM. IL15/TGFb, IL7, hypoxia. Signalisation = NOTCH, JAK/STAT5, PI3K/AKT, Wnt. FABP4/5 are important

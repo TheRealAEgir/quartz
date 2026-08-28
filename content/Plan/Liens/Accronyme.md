@@ -1,17 +1,18 @@
-# TRM (Cellule)
+ # T<sub>RM</sub> (Cellule)
 - Lymphocyte T résident mémoire
 - Les TRM sont une population de lymphocyte mémoire capables de résidence dans la plupart des tissus de l'organisme et qui ne recirculent peu ou pas.
 - L'infiltration des tumeurs par des TRM est associée avec un pronostic favorable, ce qui rend ces cellules particulièrement intéressantes dans la rechercher contre le cancer.
-
-# TEM (Cellule)
+# T<sub>EM</sub> (Cellule)
  - Lymphocyte T effecteur mémoire
  - Les TEM sont une population de lymphocyte mémoire capables de se différencier rapidement en cellule effectrice après activation.
  - La plupart des TEM sont retrouvés sous forme circulante dans le sang et la lymphe, et qui ne peut pas rentrer dans les SLO. Les TEM prolifèrent peu après activation, et leur nombre est plutôt régulé par la différenciation de TCM vers les TEM.
-
-# TCM (Cellule)
+# T<sub>CM</sub> (Cellule)
 - Lymphocyte T central mémoire
 - Les TCM
-
+# T<sub>CIRC</sub> (Cellule)
+- Lymphocyte T circulant
+# T<sub>CIRCM</sub> (Cellule)
+- Lymphocyte T CIRCulant Mémoire
 # SLO (Organe)
 - Organe lymphoïde secondaire (Secondary Lymphoïd Organ en anglais)
 - Principal lieu d'activation des cellules de l'immunité adaptative
@@ -54,3 +55,19 @@
 # AMPc
 - Adénosine MonoPhosphate cyclique
 - L'AMPc est un inhibiteur puissant de l'activité des lymphocytes T. Il est formé à partir d'ATP/ADP en adénosine par CD39, puis en AMPc par CD73.
+# IAV (Virus)
+- Influenza A Virus
+- l'IAV est un virus à tropisme respiratoire.
+# VV (Virus)
+- Vaccinia virus
+# HSV (Virus)
+- Herpes Simplex Virus
+- Le HSV est un virus à tropisme dermique.
+# Clonotype
+- Un clonotype est le nom donné à plusieurs lymphocytes partageant les mêmes séquences TCR, ce qui implique leur activation et expansion clonale.
+# LN (Organe)
+- Ganglion lymphatique (*Lymph Node* en anglais)
+# Trogocytose
+- Processus durant lequel le lymphocyte échange une partie de sa membrane avec sa cellule cible
+# FC
+- Cytométrie en flux (*Flow Cytometry* en anglais)

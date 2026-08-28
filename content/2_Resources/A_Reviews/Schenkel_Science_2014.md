@@ -28,7 +28,7 @@ articletype: Review
 >CD103 KO cells are not retained in tissues -> retention or survival ? CD103 hi cells are BCL2 high
 >S1PR5 is regulated independently of CD69 and KLF2
 >KLF2 regulate CCR7 expression
->[[TRM Specificity]] TGFb treatment in vitro induce CD103, but antigen reduce it.
+>[[TRM Effector]] TGFb treatment in vitro induce CD103, but antigen reduce it.
 >Inhibiting PI3K-AKT ameliorated cytokine induced downregulation of KLF2 and S1PR1
 >[[TRM Caracteristics]] Talk a lot about TRM localization and challenges
 >Speed of Trm inside NLT increase after antigen expousre via CXCL10

@@ -1,25 +1,31 @@
-En utilisant un modèle de fate mapping ciblant HOBIT et une infection secondaire, une population CD69-HOBIT+ a été observée dans les ganglions associé au tissu infecté, mais aussi des populations exHOBIT de TCM et TEM dans le sang. Ces populations pourrait provenir des TRM HOBIT+ de l'infection primaire, suggérant que ceux-ci peuvent recirculer [[Behr_NatImmunol_2020]]. Cependant, le transfert de TRM du foie ou des intestins dans une souris re-infectée par le LCMV ne permet pas de reformer des TCM dans les ganglions lymphatiques et ne forme que des TEM KLRG1+CX3CR1+ dans la rate [[Behr_NatImmunol_2020]]. De plus, la déplétion des TRM avant l'infection impacte la formation des TRM et des TEM [[Behr_NatImmunol_2020]]. Ces résultats suggèrent que les TRM sont en parti capable de recirculation, et, bien qu'ils ne puissent pas e différencier en TCM, ils semblent tout de même important pour la formation de TEM dans une infection secondaire.
+### 3.1.3 Recirculation des lymphocytes T résidents mémoires dans l'organisme : rôle de protection à distance ?
 
-En utilisant un agent provoquant l'inflammation dans le bras de donneurs volontaires, des TRM avec des séquences partagées sont retrouvés dans le bras et la jambe du même individu [[Gaide_NatMed_2015]]. A noter que dans ce modèle, la dissémination des clonotypes n'est pas forcément due à une re-circulation des TRM, mais peut être lié à d'autres types cellulaires.
+L'une des caractéristiques principales des TRM est la résidence au sein des tissus, et il a initialement été décris que les TRM ne recirculent pas [[Masopust_JExpMed_2010]]. En effet, les lymphocytes mémoires sortant des tissus n'expriment pas CD69 et correspondent à des TEM [[Steinert_Cell_2015]]. Cependant, il a été observé que certains TRM peuvent sortir des tissus et recirculer, et ces observations seront décrites dans cette partie.
 
+##### 3.1.3.1 Expériences démontrant l'existence de lymphocytes T résidents mémoires re-circulants
+
+Certaines observations montrent qu'il existe des clonotypes partagés entre les TRM et des lymphocytes d'un autre site anatomique. Par exemple, des donneurs sains volontaires injectés avec un agent inflammatoire dans le bras montrent des clonotypes partagés entre le bras et la jambe [[Gaide_NatMed_2015]]. Lors d'une réponse tumorale, des clonotypes sont partagés entre les TRM de la tumeur primaire, le sang et les métastases au niveau des LN [[Lee_Sci.Immunol._2022]]. Bien que ces cellules pourraient provenir de TRM re-circulants, ils pourraient aussi avoir été générés au moment de l'activation initiale et provenir d'une différentiation parallèle à celle des TRM.
+
+Une preuve plus solide de l'existence de TRM re-circulants repose sur l'utilisation de la parabiose. Dans ce modèle, la circulation d'une souris contient la moitié de ses propres cellules, et la moitié des cellules du parabiont. Après dissociation chirurgicale des deux souris, les cellules de la circulation s'enrichissent progressivement avec des TEM autologues [[Wijeyesinghe_Nature_2021]]. Une interprétation possible de ce résultat est que les TRM des tissus recirculent et se différencient en TEM [[Wijeyesinghe_Nature_2021]]. Une autre expérience repose aussi sur l'utilisation de la parabiose et de la déplétion des Tcirc. Dans ce modèle, il y a une apparition de Tcirc provenant du parabiont dans la souris hôte, ce qui suggèrent que ces cellules proviennent des TRM [[Christo_NatImmunol_2021]].
+
+Des observations similaires sont possibles en utilisant des greffes avec des marqueurs congéniques. [[Fonseca_NatImmunol_2020]] décris que des TRM sont capables de recirculer depuis le greffon jusqu'à l'hôte de manière S1P dépendante. Les cellules obtenues sont alors CCR9+Ly6C+, mais perdent l'expression de CD69 et de CD103 [[Fonseca_NatImmunol_2020]]. De manière intéressante, si ces cellules sont récupérées, réactivées et transférées dans une nouvelle souris hôte, elles se différencient préférentiellement en TRM (mais génèrent aussi des TCM) et migrent préférentiellement dans le tissus d'origine [[Fonseca_NatImmunol_2020]].
+
+L'un des modèles les plus importants dans l'étude de la recirculation des TRM a été mis au point par [[Behr_NatImmunol_2020]], en utilisant le fate mapping du gène HOBIT (le fate mapping qui, en utilisant des gènes rapporteurs et le système CRE-LOX, permet de marquage irréversible des cellules ayant exprimé un gène d'intérêt). Des cellules exHOBIT sont alors retrouvées dans les ganglions drainants le tissu infecté et dans le sang (avec un phénotype semble à des TEM et TCM) [[Behr_NatImmunol_2020]].
+
+##### 3.1.3.2 Impact physiologique des lymphocytes T résidents mémoires re-circulants
+
+Le paradigme suggère que les TRM servent de barrière contre les pathogènes, tandis que les TCM permettent de renforcer la réponse immunitaire à distance, depuis les SLOs. Un tel modèle a été qualifié de "inside out" par [[Fonseca_NatImmunol_2020]], dans un article qui suggère qu'il existe également une immunité suivant un modèle "outside in". Dans le modèle "outside-in", les TRM participent à l'immunité systémique en recirculant et en alimentant les populations de Tcircm et notamment de TCM [[Fonseca_NatImmunol_2020]]. Ce modèle est consolidé par les observations de [[Behr_NatImmunol_2020]], qui montrent que la déplétion des TRM avant un rechallenge impacte la formation de TEM. Ainsi, en plus de participer à la protection locale, les TRM pourraient aussi participer à la protection systémique de l'organisme.
+
+
+
+maybe :
 Dans un contexte de cancer NSCLC chez l'homme, [[Caushi_Nature_2021]] décris une population de cellules ayant un phénotype semblable aux TRM (HOBIT+) circulant dans le sang. Ces cellules apparaissant après le traitement par immunothérapie, et possèdent des séquences TCR retrouvées dans la tumeur avant le traitement, suggérant qu'elle pourrait provenir de la re-circulation des TRM de la tumeur [[Caushi_Nature_2021]].
 
-En utilisant une déplétion des TCIRC (via anti-CXCR3) ou des TRM (via anti-Gr-1) dans un modèle de parabiose, il a été montré que des TRM pouvaient perdre leur phénotype TRM et repopuler le parabiont en présence d'antigène [[Christo_NatImmunol_2021]].
-
-Les cellules mémoires capablent de sortir de SG et FRT n'expriment pas CD69 et seraient plutôt des TEM [[Steinert_Cell_2015]]. Le thymus et la zone médullaire (mais pas corticale) serait des organes plus permissible à la recirculation [[Steinert_Cell_2015]].
-
-[[Masopust_JExpMed_2010]] observent que les lymphocytes mémoires dans l'intestin ne reciculent pas.
-
-En utilisant des marqueurs congénique et des greffes de peau, il a été observé qu'il existe des exTRM recirculant dans le sang après ré-activation [[Fonseca_NatImmunol_2020]]. Ceux-ci gardent des caractéristiques de TRM, y compris l'expression de CCR9 et Ly6C mais pardent l'expression de CD69 et CD103 [[Fonseca_NatImmunol_2020]]. La recirculation semble dépendre de S1P [[Fonseca_NatImmunol_2020]]. Les exTRM sont capablent de former des TCM et des TEM, et migrent de façon préférentielle dans le tissu d'origine (bien que uniquement après réactivation) [[Fonseca_NatImmunol_2020]].
 L'acide rétinoïque est capable de bloquer la recirculation des exTRM, et le traitement avec du FTY720 limite cet effet [[Obers_Immunity_2024]].
-
-Après une parabiose et la dissociation chirurgicale des deux souris, les TCIRC qui étaient à l'équilibre deviennent progressivement numériquement plus de l'hôte, et surtout dans les TEM, ce qui suggère que les TRM (qui ne s'équilibre pas avec la parabiose) sont capables de reformer des TEM [[Wijeyesinghe_Nature_2021]].
 
 Les TRM CD4+ ont plus de facilité à ressotir des tissus via les vaisseaux lymphatiques afférents [[Gebhardt_Nature_2011]].
 
-Dans une infection secondaire, les TRM sont important pour la formation d'une réponse mémoire systémique passant par la formation de TEM exHOBIT [[Behr_NatImmunol_2020]].
-
-Bien que la caractéristique de recirculation des TRM n'a pas été étudiée par [[Lee_Sci.Immunol._2022]], cette étude montre qu'il existe des clones TCR partagés entre les TRM de la tumeur primaire, des métastases des LN et les TEM du sang.
+Les TRM dans les LN sont plus stem-like, prolifèrent plus et sécrètent plus d'IFNg que les TRM dans les poumons [[Heim_bioRxiv_2026]]
 ## List of used references
 ```dataview
 LIST

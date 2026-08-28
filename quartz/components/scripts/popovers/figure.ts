@@ -4,10 +4,22 @@ export function buildFigurePopupContent(
   targetUrl: URL,
 ) {
   // ----------------------------------------------------------
+  // Find article content
+  // ----------------------------------------------------------
+
+  const content =
+    html.querySelector("article.popover-hint") ??
+    html.querySelector(".popover-hint")
+
+  if (!content) {
+    return false
+  }
+
+  // ----------------------------------------------------------
   // Title
   // ----------------------------------------------------------
 
-  const title = html.querySelector("h1")
+  const title = content.querySelector("h1")
 
   if (!title) {
     return false
@@ -28,87 +40,45 @@ export function buildFigurePopupContent(
   )
 
   // ----------------------------------------------------------
-  // DEBUG: inspect the HTML returned for the figure note
-  // ----------------------------------------------------------
-
-  const debug =
-    document.createElement("pre")
-
-  debug.classList.add(
-    "custom-figure-debug",
-  )
-
-  const article =
-    html.querySelector(
-      "article.popover-hint",
-    ) ??
-    html.querySelector(
-      ".popover-hint",
-    )
-
-  debug.textContent =
-    `FIGURE POPUP DEBUG\n\n` +
-    `Note URL:\n${targetUrl.toString()}\n\n` +
-    `HTML contains img: ${
-      html.querySelector("img")
-        ? "YES"
-        : "NO"
-    }\n\n` +
-    `Images found: ${
-      html.querySelectorAll("img").length
-    }\n\n` +
-    `--- ARTICLE HTML ---\n\n` +
-    (
-      article?.innerHTML ??
-      "NO ARTICLE FOUND"
-    )
-
-  popoverInner.appendChild(
-    debug,
-  )
-  
-
-  // ----------------------------------------------------------
-  // Find the embedded figure
+  // Find embedded image
+  //
+  // SVG:
+  //   <object data="figure-1.svg">
+  //
+  // PNG/JPG/etc.:
+  //   <img src="figure-3.png">
   // ----------------------------------------------------------
 
   const sourceObject =
-    html.querySelector("object") as
-      | HTMLObjectElement
-      | null
+    content.querySelector(
+      "object[data]",
+    ) as HTMLObjectElement | null
 
   const sourceImage =
-    html.querySelector("img") as
-      | HTMLImageElement
-      | null
+    content.querySelector(
+      "img[src]",
+    ) as HTMLImageElement | null
 
-  const embeddedElement =
-    sourceObject ?? sourceImage
+  let imagePath: string | null = null
 
-  if (!embeddedElement) {
-    console.warn(
-      "FIGURE POPUP: no embedded image found",
-      targetUrl.toString(),
-    )
-
-    return false
+  if (sourceObject) {
+    imagePath =
+      sourceObject.getAttribute("data")
+  } else if (sourceImage) {
+    imagePath =
+      sourceImage.getAttribute("src")
   }
-
-  const imagePath =
-    embeddedElement.getAttribute(
-      sourceObject ? "data" : "src",
-    )
 
   if (!imagePath) {
     console.warn(
-      "FIGURE POPUP: embedded image has no path",
+      `FIGURE POPUP: no image found in ${targetUrl.pathname}`,
     )
 
     return false
   }
 
   // ----------------------------------------------------------
-  // Resolve image path
+  // Resolve image path relative to the figure note
   // ----------------------------------------------------------
 
   const imageUrl =
@@ -120,6 +90,7 @@ export function buildFigurePopupContent(
   // ----------------------------------------------------------
   // Create popup image
   // ----------------------------------------------------------
+
   const image =
     document.createElement("img")
 
@@ -132,11 +103,34 @@ export function buildFigurePopupContent(
   image.alt =
     title.textContent?.trim() ?? ""
 
-  popoverInner.appendChild(image)
+  popoverInner.appendChild(
+    image,
+  )
 
   // ----------------------------------------------------------
-  // Return success
+  // Figure legend
+  //
+  // The legend is the <em> element following the image.
   // ----------------------------------------------------------
 
-    return true
+  const legendElement =
+    content.querySelector("em")
+
+  if (legendElement) {
+    const legend =
+      document.createElement("p")
+
+    legend.classList.add(
+      "custom-figure-legend",
+    )
+
+    legend.innerHTML =
+      legendElement.innerHTML
+
+    popoverInner.appendChild(
+      legend,
+    )
+  }
+
+  return true
 }

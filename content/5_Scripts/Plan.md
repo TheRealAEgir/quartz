@@ -277,12 +277,12 @@ if (!targetNote) {
 ## 2.5 [[TRM Precursors]] (4-5 pages)
 
 # 3. Fonction des lymphocytes T résidents mémoires dans les pathologies
-## 3.1 [[TRM Effector]] and [[TRM Infection]] and [[TRM Recirculation]](5-6 pages)
+## 3.1 [[TRM Effector]] and [[TRM Effector]] and [[TRM Recirculation]](5-6 pages)
 ##### 3.1.1 Positionnement stratégique des TRM dans l'organisme
 ##### 3.1.2 Rôle d'alerte et de recrutement des acteurs cellulaires
 ##### 3.1.3 Rôle cytotoxique des TRM
 ##### 3.1.4 Recirculation des TRM : Rôle de protection à distance
-## 3.2. [[TRM Cancer]] and [[TRM Cancer]] and [[TRM Cancer]] and [[TRM Specificity]] (~20 pages)
+## 3.2. [[TRM Cancer]] and [[TRM Cancer]] and [[TRM Cancer]] and [[TRM Effector]] (~20 pages)
 ##### 3.2.1 Introduction sur l'immunosurveillance
 ##### 3.2.2 Observations sur les TRM dans le cancer
 ##### 3.2.3 Rôle pronostique des TRM dans le cancer
