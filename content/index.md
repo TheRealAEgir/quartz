@@ -1,4 +1,4 @@
-﻿---
+---
 title: Caractérisation des sous-populations de lymphocytes T résidents mémoires dans les métastases hépatiques de cancer colorectaux
 ---
 Bienvenue sur la version numérique de cette thèse. Vous pouvez commencer la lecture tout de suite en cliquant sur l'un des liens suivant :
@@ -17,5 +17,3 @@ Cette thèse a été écrite en utilisant les logiciels Obsidian, Quartz et Zote
 [[P14]]
 
 [[Figure 1]]
-[[Figure 3]]
-[[Chang_2007_figure_3A.png]]

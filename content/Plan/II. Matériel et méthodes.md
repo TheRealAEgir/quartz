@@ -1,6 +1,6 @@
 ### Echantillons humains
 
-Les échantillons provenant de patients atteints de cancers ont été récupérés sous la forme de prélèvement sanguins par le centre hospitalier universitaire de Besançon (département de chirurgie digestive) à partir des cohortes
+Les échantillons provenant de patients atteints de cancers ont été obtenu grâce au centre hospitalier universitaire (CHU) de Besançon (département de chirurgie digestive) à partir des cohortes (NIPICOL : [[TMP]], CRC01 : [[TMP]], CRC02 [[TMP]], Epitopes-CRC02 : [NCT02817178](https://clinicaltrials.gov/ct2/show/NCT02817178),NIPISAFE : [[TMP]], NEONIPIGA : [[TMP]] , HORIZON [[TMP]]). Les échantillons provenant de donneurs sains ont été obtenu grâce à l'Etablissement Français du Sang (EFS). Chaque échantillon provient d'un individu qui a donné son consentement selon les loi françaises. Cette étude a été approuvé par les comités d'éthique locaux et nationaux.
 
 
 

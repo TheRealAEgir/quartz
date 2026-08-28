@@ -71,3 +71,7 @@
 - Processus durant lequel le lymphocyte échange une partie de sa membrane avec sa cellule cible
 # FC
 - Cytométrie en flux (*Flow Cytometry* en anglais)
+# EFS
+- Etablissement Français du Sang
+# CHU
+- Centre Hospitalier Universitaire

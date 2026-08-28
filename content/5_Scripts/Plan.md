@@ -6,7 +6,7 @@
 
 ```dataviewjs
 // Specify the target note's name (without .md extension)
-const targetNoteName = "1_Categories/1. La réponse immunitaire adaptative mémoire/1.2 Les différents types de lymphocytes T mémoires et leurs rôles";
+const targetNoteName = "1_Categories/1. La réponse immunitaire adaptative mémoire/1.2 Hétérogénéité des lymphocytes T mémoires et mécanisme d'action";
 
 // Construct the full path (assuming the note is in the root of your vault)
 const targetNotePath = targetNoteName.endsWith(".md") ? targetNoteName : targetNoteName + ".md";
