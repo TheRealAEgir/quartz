@@ -23,7 +23,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
+> %% begin Notes %%**Summary** : [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]]
 > 
 >**Experiment** : Transfer of P14 into mouse and infection with gp33-LM, and examination of CFSE undivided T cell by microscopy.
 >**Results** : There was a polarisation of the MTOC with CD3/CD8 and LFA1 tower the membrane. When cells were in anaphase, there as one MTOC at the other end of the cell. Also in CD4 with CD3/CD4/IFNgR. PKC was localized at the other end.

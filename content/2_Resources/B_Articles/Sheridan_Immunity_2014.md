@@ -23,7 +23,7 @@ used_in_redaction: Yes
 > [!notes]
 > %% begin Notes %%
 > 
-> **Summary** : This article talked about the [[TRM Differenciation]] in intestine epithelium in a model of oral infection with L. monocytogenes which was doing effective protection. This population is induced by rapid accumulation of CD103 expressing MPEC. This observation maybe explained by apoptosis of SLEC by TGFb while this cytokine upregulate MPEC's CD103. Other infection settings induced SLEC in intestine, which lead to decreased memory formation. [[TRM Precursors]]  [[TRM Therapies]] [[TRM Phenotype]] [[TRM Caracteristics]] [[TRM Effector]]
+> **Summary** : This article talked about the [[2.3.1 TRM Differentiation -]] in intestine epithelium in a model of oral infection with L. monocytogenes which was doing effective protection. This population is induced by rapid accumulation of CD103 expressing MPEC. This observation maybe explained by apoptosis of SLEC by TGFb while this cytokine upregulate MPEC's CD103. Other infection settings induced SLEC in intestine, which lead to decreased memory formation. [[2.3.2 TRM Precursors -]]  [[2.7 TRM Therapies -]] [[2.4.1 TRM Phenotype -]] [[2.4.4 TRM Caracteristics -]] [[2.2.1 TRM Effector -]]
 > 
 >**Experiment** : Oral infection with L. Monocytogenes
 >**Model** : L. Monocytogenes recognise E-cadherhin through internalin A, but differences in human vs mouse E-cadherin made previous model biased. Here, they used a recombinant bacteria taht correctly recognise E-cadherin. Also, the mouse has antigen-specific CD8 T cells.

@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[TRM Cancer]] [[TRM Cancer]] 
+> %% begin Notes %%**Summary** : [[2.5 TRM Cancer -]] [[2.5 TRM Cancer -]] 
 > 
 >**Experiment** : Study of CD8+CD103+ T cell infiltration in MICB cancers
 >**Results** : A TRM signature is associated with favorable clinical outcome in TCGA-BLCA and IMvigor210 (ICB treated) cohorts of bulk RNAseq. In IF, less TRM in tumor than healthy, infiltration negatively correlated with disease stage. TRM correlated with ACT-treated, but not untreated MICB patient survival.

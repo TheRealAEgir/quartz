@@ -24,8 +24,8 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[TRM Cancer]] [[TRM Differenciation]]
-> CyTOF of human skin TRM and mice showed high PD1 epxression. Co-transfer of PD1 WT/KO showed that PD1 confered an advantage in skin TRM formation. Anti-PD1 treatment reduced the number of PD1+ TRM. Some transcriptomics analyses reveled TGFb. Anti-PD1 reduced TRM number only early after infection, and TGFb treatment/TGFbRI constitutive signaling reverted the effects. [[TRM Phenotype]] [[TRM Therapies]]
+> %% begin Notes %%**Summary** : [[2.5 TRM Cancer -]] [[2.3.1 TRM Differentiation -]]
+> CyTOF of human skin TRM and mice showed high PD1 epxression. Co-transfer of PD1 WT/KO showed that PD1 confered an advantage in skin TRM formation. Anti-PD1 treatment reduced the number of PD1+ TRM. Some transcriptomics analyses reveled TGFb. Anti-PD1 reduced TRM number only early after infection, and TGFb treatment/TGFbRI constitutive signaling reverted the effects. [[2.4.1 TRM Phenotype -]] [[2.7 TRM Therapies -]]
 > 
 >**Experiment** : CyTOF characterisation of human skin vs blood T cells.
 >**Results** : High expression of PD1 in skin, with a TRM phenotype.

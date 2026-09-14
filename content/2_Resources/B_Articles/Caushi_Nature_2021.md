@@ -35,7 +35,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : This article used MANAfest and ViralFest to detect TCR specific for some antigen, and paired this analysis with scRNA-TCRseq of NSCLC T cells. Patient with non-MPR had fewer MANA-specific, and there was no association in clinical outcome and blood MANA-specific T cells. MANA-specific CD8+ T cells were restricted to TRM clusters with distinct transcriptome from influenza-specific TRM cluster, and EBV-specific were mainly Teff. Influenza-specific had higher IL7 responsivness than MANA-specific. MANA-specific TRM from MPR patient had higher expression of immune-checkpoin than non-MPR patient who had higher CD127/TCF1. There was detection of MANA-specific T cells in the blood following anti-PD1 treatment with a TRM-like phenotype (mostly because of HOBIT expression), and it slowly decreased with time.
-> [[TRM Cancer]] [[TRM Phenotype]] [[TRM Effector]] [[TRM Recirculation]] [[TRM Heterogeneity]] [[TRM Cancer]]
+> [[2.5 TRM Cancer -]] [[2.4.1 TRM Phenotype -]] [[2.2.1 TRM Effector -]] [[2.2.2 TRM Recirculation -]] [[2.4.2 TRM Heterogeneity -]] [[2.5 TRM Cancer -]]
 > 
 >**Experiment** : scRNA-TCRseq of TIL/Normal/tdLN/distant metastasis of T cells in neoadjuvant anti-PD1 treated NSCLC + MANAFEST/ViralFEST
 >**Results** : UMAP analyses showed differences between tumor/normal tissue, but little difference in MPR vs non-MPR TILs. MANAFEST/ViralFEST showed some TCR clonotypes associated with neo-antigen and viral antigen, respectively. Patient with non-MPR had more MANA-specfic TIL, and there was no association between clinical responses and tissue/blood viral-specific T cells. Frequency of MANA-specific T cells in the blood was very low.

@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
+> %% begin Notes %%**Summary** : [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]]
 > 95% of activated T cells die after pathogen clearance
 > 
 >**Experiment** : Barcoding of naive OT-I T cells by transducing thymocytes and transfering them in the thymus of a mouse, then sorting of naive T cells, transfer into a secondary host, then infection with LM-OVA. Validated with multiple models

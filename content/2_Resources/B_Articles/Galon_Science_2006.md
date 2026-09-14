@@ -19,7 +19,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : One of the earliest paper evaluating the effect of immune infiltration on cancer patient prognosis [[TRM Cancer]]
+> %% begin Notes %%**Summary** : One of the earliest paper evaluating the effect of immune infiltration on cancer patient prognosis [[2.5 TRM Cancer -]]
 > 
 >**Experiment** : qPRC in TME tissue sample
 >**Results** : There is correlation between Th1, inflammation and immunosupression genes; there is an inverse correlation between these genes and patient recurrence.

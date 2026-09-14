@@ -37,7 +37,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %% [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]] [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
+> %% begin Notes %% [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]] [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]]
 > CD127/KLRG1 + CD27
 > magnitude and duration of TCR-peptide interaction direct the magnitude of the T cell response.
 > SLEC is promoted by IL15 but TGFb induce apoptosis, while MPEC depend on IL7 for early survival and IL15 for long term maintenance.

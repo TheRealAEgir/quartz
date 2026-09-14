@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article did deep TCRseq of skin/LN sample and found shared TCR. With most of the skin being Trm and distant LN being Tcm, this suggested a common clonal T cell between Trm and Tcm. This seemed true in human as well. Repeted injection lead to preferiential expansion of Trm over Tcm. [[TRM Precursors]] (Talks a bit about auto immune diseases at the end (actually, it's just a model of inlammation and comparing TCR in non-inflammated tissue in human patient.))
+> %% begin Notes %%**Summary** : This article did deep TCRseq of skin/LN sample and found shared TCR. With most of the skin being Trm and distant LN being Tcm, this suggested a common clonal T cell between Trm and Tcm. This seemed true in human as well. Repeted injection lead to preferiential expansion of Trm over Tcm. [[2.3.2 TRM Precursors -]] (Talks a bit about auto immune diseases at the end (actually, it's just a model of inlammation and comparing TCR in non-inflammated tissue in human patient.))
 > 
 >**Experiment** : Injection of OVA, DNFB and poxvirus in mouse with OT-I cells, then TCRseq of skin and LN.
 >**Results** : There was shared CDR3 sequences in all three type of immunisation between skin (mostly Trm), draining lymph node and distant lymph node (mostly Tcm), suggesting a common precursor to the two cell populations. Multiple application of DNFB lead to detection of clone in both skin and LN (that wasn't detected in blood, so it wasn't due to blood contamination); these clone were more numerous in the skin.
@@ -22,7 +22,7 @@ used_in_redaction: Yes
 >**Results** : DNFB lead to Tcm dissemination and acquiring of antigen specific clones in the naive mice with delay. FTY-720 prevented this dissemination in ears.
 >
 >**Experiment** : Sensitisation of human with arm injection of DPCP, and biospie of arm and legs after 4 months + microscopy and TCRseq
->**Results** : There was shared clones that was found both in arm and leg after sensitisation. [[TRM Recirculation]] 
+>**Results** : There was shared clones that was found both in arm and leg after sensitisation. [[2.2.2 TRM Recirculation -]] 
 >
 > %% end Notes %%
 

@@ -37,7 +37,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article identified an unexpected CD61 expression on T cell, which paired with CD103 at the cSMAC and induced better functionnality. CD61 expression is associated with better survival and CD61+ T cells are enriched in tumor-reactive, non-exhausted T cells [[TRM Cancer]] [[TRM Effector]] [[TRM Cancer]]
+> %% begin Notes %%**Summary** : This article identified an unexpected CD61 expression on T cell, which paired with CD103 at the cSMAC and induced better functionnality. CD61 expression is associated with better survival and CD61+ T cells are enriched in tumor-reactive, non-exhausted T cells [[2.5 TRM Cancer -]] [[2.2.1 TRM Effector -]] [[2.5 TRM Cancer -]]
 > 
 >**Experiment** : Comparison of CD103+ vs CD103- clones isolated from gastric and melanoma patients
 >**Results** : There was CD61 upregulation in CD103+ confirmed in IHC and FC in lung cancer patients. More CD61 in tumor tissue than peripheral and blood. There was upregulation flowing activation that peaked in the first 2 hours in the cSMAC region of the immunological synapse in colocalisation with CD103 but not with ITGB7 (CD103 ligand) or with CD41/CD51 (conventionnal cis-interacting partner of CD61).

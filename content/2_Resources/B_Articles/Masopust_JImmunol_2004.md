@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article studied memory T cells formation following infection in mice, and describe that it induced memory T cells in almost all organs with some enrichment in infected organ draning LN. However, activated T cells by a enterocyte-OVA and OT-I system showed clear enrichment of T cells in intestine. When transfering T cells from various tissue in a naive mouse, these preferencially homed in their tissu of origin. However, this was different with intestine T cells. Closer examination at these cells showed accommodation to tissue by expression of CD69 (not activation induced) and integrine (alphaE)beta7, which was briefly increase following activation. [[TRM Historic]] [[TRM Caracteristics]]
+> %% begin Notes %%**Summary** : This article studied memory T cells formation following infection in mice, and describe that it induced memory T cells in almost all organs with some enrichment in infected organ draning LN. However, activated T cells by a enterocyte-OVA and OT-I system showed clear enrichment of T cells in intestine. When transfering T cells from various tissue in a naive mouse, these preferencially homed in their tissu of origin. However, this was different with intestine T cells. Closer examination at these cells showed accommodation to tissue by expression of CD69 (not activation induced) and integrine (alphaE)beta7, which was briefly increase following activation. [[2.1 TRM Historic -]] [[2.4.4 TRM Caracteristics -]]
 > 
 >**Experiment** : Mouse infected with rotavirus (intestine infection)
 >**Results** : Despite intestine-restricted infection, there was activated ag-specific CD8 T cells in several tissues.

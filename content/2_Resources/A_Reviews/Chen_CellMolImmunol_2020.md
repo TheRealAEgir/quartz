@@ -51,12 +51,12 @@ articletype: Review
 
 > [!notes]
 > %% begin Notes %%
-> Has nice reference for CD4+ TRM and implication of TRM in [[TRM Autoimmune diseases]]. Talks extensively about that. Should be re-read when working on this part, which was skipped at the first reading.
->Talks about [[TRM Precursors]] (references saved in zotero already)
->Has a paragraph about [[TRM Effector]] with references (not saved at the moment). Has a paragraph about MTOR in [[TRM Differenciation]]
->[[TRM Phenotype]] has a table with chemokine receptor for some tissues
+> Has nice reference for CD4+ TRM and implication of TRM in [[2.6 TRM Autoimmune diseases -]]. Talks extensively about that. Should be re-read when working on this part, which was skipped at the first reading.
+>Talks about [[2.3.2 TRM Precursors -]] (references saved in zotero already)
+>Has a paragraph about [[2.2.1 TRM Effector -]] with references (not saved at the moment). Has a paragraph about MTOR in [[2.3.1 TRM Differentiation -]]
+>[[2.4.1 TRM Phenotype -]] has a table with chemokine receptor for some tissues
 >TGFb induce CD103 but inhibit KLRG1, making the two molecules mutually exclusive.
->JAK/STAT5, PI3K/AKT, NOTCH, WNT may play a role in [[TRM Caracteristics]] 
+>JAK/STAT5, PI3K/AKT, NOTCH, WNT may play a role in [[2.4.4 TRM Caracteristics -]] 
 >Talk about Notch in TRM
 > %% end Notes %%
 

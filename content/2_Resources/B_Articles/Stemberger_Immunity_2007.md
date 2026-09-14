@@ -18,7 +18,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %% [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
+> %% begin Notes %% [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]]
 > Less than 24 hours activation is enough to induce the complete diversity of T cell subsets.
 > TCM are derived from latecomer T cells with less antigen specificity than effector cells, but this was not found in this study with one latecomer cell vs 100 cells.
 > 

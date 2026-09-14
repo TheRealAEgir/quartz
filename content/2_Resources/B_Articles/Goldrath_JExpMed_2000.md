@@ -20,7 +20,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
+> %% begin Notes %%**Summary** : [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]]
 > Naive T cell require peptide-MHC signal for HP. HP can replenish destroyed T cell compartiment.
 >
 >**Experiment** : Transfer of small number of naive T cells into irradiated mouse or RAG KO

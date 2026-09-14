@@ -31,7 +31,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article studied CD39+ T cells with a TRM phenotype in breast cancer, and found that it was mostly found in immunogenic type of cancer, it had a exhausted/resident phenotype, they were tumor specific, they were shared in tumor and metastatic LN, there was TCR sequence sharing between TIL and other compartiement including blood TEM, that the CD39+ signature was associated with better survival, and that they proliferated/gained functionnality upon CKI treatment. [[TRM Cancer]] [[TRM Effector]] [[TRM Precursors]] [[TRM Phenotype]] [[TRM Cancer]] [[TRM Cancer]] [[TRM Recirculation]]
+> %% begin Notes %%**Summary** : This article studied CD39+ T cells with a TRM phenotype in breast cancer, and found that it was mostly found in immunogenic type of cancer, it had a exhausted/resident phenotype, they were tumor specific, they were shared in tumor and metastatic LN, there was TCR sequence sharing between TIL and other compartiement including blood TEM, that the CD39+ signature was associated with better survival, and that they proliferated/gained functionnality upon CKI treatment. [[2.5 TRM Cancer -]] [[2.2.1 TRM Effector -]] [[2.3.2 TRM Precursors -]] [[2.4.1 TRM Phenotype -]] [[2.5 TRM Cancer -]] [[2.5 TRM Cancer -]] [[2.2.2 TRM Recirculation -]]
 > 
 >**Experiment** : Study of T cell from breast cancer patient cohort
 >**Results** : More IAV-specific bystander T cells (but not HCMV) in blood compared to tumor. There was NY-ESO1 specific T cells in TNBC and sometimes in matching blood, and most harboured a TRM phenotype. Only NY-ESO1, but not IAV/HCMV-specific T cell from tumor, but not healthy tissue, were CD39+.

@@ -20,7 +20,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : There is CD4 dependant TRM formation in brain, but independent in LCMV. This article observed a TRM/TFH like population in brain, showed that it express IL21 and that was important for CD8 TRM formation. [[TRM Differenciation]]
+> %% begin Notes %%**Summary** : There is CD4 dependant TRM formation in brain, but independent in LCMV. This article observed a TRM/TFH like population in brain, showed that it express IL21 and that was important for CD8 TRM formation. [[2.3.1 TRM Differentiation -]]
 > 
 >**Experiment** : Mouse infected with MuPyV
 >**Results** : Tetramer+ CD4 T cell were Tbet+, PD1+CXCR5+ suggesting Th1/Tfh hybrid. No BCL6 expression difference between CXCR5- and +, but higher Blimp1. With IL21/IFNg reporter mouse : majority of ag-specific are IL21+ and PD1+CXCR5+. There was an enrichment in high affinity clones.

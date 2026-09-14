@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %% [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]] [[TRM Phenotype]]
+> %% begin Notes %% [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]] [[2.4.1 TRM Phenotype -]]
 > Divide memory into three steps : generation/homoestasis (~30 years)/senescence (~65 years)
 > Has the estimate number of T cells in a human body : 2 × 1010 in the skin16,17, 1 × 1010 in the lungs18, 3 × 1010 in the intestines19 and 20 × 1010 in lymphoid tissues (that is, the spleen, the lymph nodes and the bone marrow)19. Therefore, peripheral blood T cells (5–10 × 109 in human blood) represent only 2–2.5% of the total T cell complement in the bodyLes lymphocytes mémoires expriment CD45RO et les lymphocytes T naïfs expriment CD45RA [[Farber_NatRevImmunol_2014]]. Les TSCM sont CD27+CD28+CD127+CD62L+CCR7+ et ont des fortes capacités de prolifération [[Farber_NatRevImmunol_2014]].
 La plupart des lymphocytes T mémoires sont formés pendant les premières années de vie [[Farber_NatRevImmunol_2014]].

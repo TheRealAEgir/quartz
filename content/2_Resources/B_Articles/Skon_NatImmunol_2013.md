@@ -33,7 +33,7 @@ used_in_redaction: Yes
 > [!notes]
 > %% begin Notes %%
 >**Summary** : This study used a KLF2-GFP P14 T cell model to show that NLT resident cell downregulate KLF2. Forced expression of KLF2 resulted in high S1PR1 and SELL expression, and co transfert of forced KLF2 or S1PR1 P14 with WT P14 resulted in reduced number in NLT. KLF2 downregulation in NLT seemed independant of antigen stimulation, shown by transfert in naive mice and with DNFB injection. Finally, KLF2 downregulation seemed controlled by PI3K-AKT through various cytokines, including IL12/TGFb/IL33/TNF/Type I IFN and to various degree IL6 and IL18, while IL15 promote it's expression.
->[[TRM Phenotype]] [[TRM Differenciation]]
+>[[2.4.1 TRM Phenotype -]] [[2.3.1 TRM Differentiation -]]
 >
 >**Experiment** :
 >**Model** : Use of a KLF2-GFP functional protein mice

@@ -17,7 +17,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[TRM Therapies]]
+> %% begin Notes %%**Summary** : [[2.7 TRM Therapies -]]
 > 
 >**Experiment** : *In vivo* imaging in mouse with tumors and radiation
 >**Results** : There was preservation of T cells in the tumor and newly recruted T cell to radiation. SLO T cell were sensitive, liver was intermediary, gut/tumor was resistant, correlated to TRM proportion. TRM were the most resistant in liver and increased after radiation. Anti-TGFb partially radiosensitized intratumoral T cells. Irradiated T cells showed growth arrest, but higher IFNg production

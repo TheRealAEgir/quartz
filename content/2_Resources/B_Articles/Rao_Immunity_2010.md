@@ -21,7 +21,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : Effect of IL12/mTOR to promote Tbet over Eomes and effector over memory [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
+> %% begin Notes %%**Summary** : Effect of IL12/mTOR to promote Tbet over Eomes and effector over memory [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]]
 > 
 >**Experiment** : OT-I with BOK-OVA cell line +- IL12
 >**Results** : IL12 turned T cells into IFNg producing T cell. mTOR activation detected at 2h and 12h, with decline until 48h; addition of IL12 lead to longer mTOR activation (validated with mTOR targets). Same effect on Akt phosphorylation, and inhibiting Akt limited mTOR activation. Similar for STAT4 (late point only).

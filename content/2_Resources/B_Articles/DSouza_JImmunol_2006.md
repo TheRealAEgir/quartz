@@ -17,7 +17,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
+> %% begin Notes %%**Summary** : [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]]
 > 
 >**Experiment** : CFSE labeled OT-I T cells transfer in mouse, then VSV-OVA infection. + transfer of ag-specific T cells after infection to mimick latecomer
 >**Results** : There was recrutement of T cells in LN starting from 24 hours to 72h. Delayed transfered cells had the same kinetics but delayed with less burst. They had more CD62L expression, suggesting reduced stimulation. Also, more CD25 and CD127 and CCR7 and less KLRG1 expression, with TCM phenotype. They also secreted cytokine upon stimulation and had expansion following rechallenge.

@@ -17,7 +17,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article demonstrated the need for IL7 signaling in memory formation and T cell survival [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]] 
+> %% begin Notes %%**Summary** : This article demonstrated the need for IL7 signaling in memory formation and T cell survival [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]] 
 > IL7R is IL7R (bind IL7 and TLSP) and the gamma common chain (without TLSPR)
 > 
 >**Experiment** : IL7R expression

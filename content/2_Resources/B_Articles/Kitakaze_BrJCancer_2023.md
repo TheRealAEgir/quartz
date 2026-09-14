@@ -24,7 +24,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[TRM Cancer]]
+> %% begin Notes %%**Summary** : [[2.5 TRM Cancer -]]
 > 
 >**Experiment** : FC/IHC analyses of TIL from CRC and TCGA
 >**Results** : In TCGA, CD103 expression is associated with cytotoxic T cells genes, and CD8hiCD103hi had better prognosis than CD8hiCD103low (without stats). CD8+CD103+ TIL was associated with better survival in IHC and CD103 alone was better than CD8.

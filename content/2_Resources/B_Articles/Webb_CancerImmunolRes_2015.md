@@ -22,7 +22,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This paper studied PD1/CD103 expression in TIL of ovarian cancer. [[TRM Cancer]] [[TRM Cancer]]
+> %% begin Notes %%**Summary** : This paper studied PD1/CD103 expression in TIL of ovarian cancer. [[2.5 TRM Cancer -]] [[2.5 TRM Cancer -]]
 > 
 >**Experiment** : Evaluation of PD1+ and/or CD103+ TIL infiltrate in ovarian cancer cohorts
 >**Results** : More PD1 in high grade HGSC and only in those was associated with better OS. Corralated to CD3/CD8/CD25+FOXP3+. Restricted to CD3+. Strong positive association between PD1 and CD103 and coexpression in epithelium in TIL but not in healthy tissue. Cytokine production upon re-stimulation with PMA/iono, and low expression of other CKI.

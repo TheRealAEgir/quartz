@@ -30,7 +30,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article showed CD127 expression distinguish effector from MP. [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
+> %% begin Notes %%**Summary** : This article showed CD127 expression distinguish effector from MP. [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]]
 > 
 >**Experiment** : LCMV infection in mouse
 >**Results** : Naive and memory, but not effector, expressed CD127. At effector phase, CD127low had a more effector phenotype (GZMB/CD62L/CD43/CD27/KLRG1) than CD127high. CD127high had more BCL2/BLC-XL.

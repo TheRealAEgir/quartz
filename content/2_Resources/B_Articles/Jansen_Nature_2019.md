@@ -22,7 +22,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article studied TIL infiltration in kidney cancer, and descrie a Tex and a Tpex population with distinct phenotype, transcriptome and epigenome. Only the Tpex proliferated and differenciated into Tex upon stimulation, and the two shared TCR sequences. Tex were only found in TIL-hi tumors, and Tpex in MHC-II dense regions. [[TRM Cancer]] 
+> %% begin Notes %%**Summary** : This article studied TIL infiltration in kidney cancer, and descrie a Tex and a Tpex population with distinct phenotype, transcriptome and epigenome. Only the Tpex proliferated and differenciated into Tex upon stimulation, and the two shared TCR sequences. Tex were only found in TIL-hi tumors, and Tpex in MHC-II dense regions. [[2.5 TRM Cancer -]] 
 > 
 >**Experiment** : In kidney cancer cohort, TIL infiltration
 >**Results** : High infiltration correlated with progression after surgery. There was TIM3/PD1/CTLA4/TIGIT exhausted T cells and Cd28/TCF1 Tpex. Only Tpex proliferated upon *ex vivo* stimulation and acquired a Tex phenotype. There was TCR sequence overlap between the two populations. Only tumor with high infiltration had Tex. In RNA-seq, Tex were granzymes/perforin+ and Tpex CD127/CD25 with CD28/CD226/CD2. Changes are epigenetically regulated.

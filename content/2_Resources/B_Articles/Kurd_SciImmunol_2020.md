@@ -153,7 +153,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : scRNAseq of P14 T cells after LCMV infection at multiple timepoint and descriptive analysis with low verification. Co-transfer of NR4A2/JUNB/FOSL2 shRNA affected TRM compartiment. CD127hi cells had higher functionnality upon reactivation. co-transfer of shRNA KO PNRC1, ZFP36L2 resulted in the loss of CD28hi TRM. DDX5 specific T cell KO resulted in loss of TRM and TCIRC. [[TRM Heterogeneity]] [[TRM Differenciation]]
+> %% begin Notes %%**Summary** : scRNAseq of P14 T cells after LCMV infection at multiple timepoint and descriptive analysis with low verification. Co-transfer of NR4A2/JUNB/FOSL2 shRNA affected TRM compartiment. CD127hi cells had higher functionnality upon reactivation. co-transfer of shRNA KO PNRC1, ZFP36L2 resulted in the loss of CD28hi TRM. DDX5 specific T cell KO resulted in loss of TRM and TCIRC. [[2.4.2 TRM Heterogeneity -]] [[2.3.1 TRM Differentiation -]]
 > 
 >**Experiment** : scRNAseq of naive (spleen) and effector (IEL) P14 T cells transfered into a mouse with LCMV infection at multiple time points
 >**Results** : TRM with a TRM transcriptome were different from spleen from the earliest D4 timepoint. GO reavealed DNA replication/cell cycle regulation that stopped after D7 while continuing in spleen. There was a weighted gene co-expression analysis which revealed that some gene are shared between spleen and IEL.

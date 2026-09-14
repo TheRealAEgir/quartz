@@ -17,7 +17,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article showed that ICOS signalling is important is the TRM generation. The ICOS signalling is not important during priming, but rather during activation in NLT. ICOSLG seem to be produced by radioresistant non-hematopoeitic cells. Finally, the transcriptome of TRM formed without ICOS signaling is very similar, and removing ICOS-PI3K signalling impact the number of TRM [[TRM Phenotype]] [[TRM Differenciation]] [[TRM Therapies]]
+> %% begin Notes %%**Summary** : This article showed that ICOS signalling is important is the TRM generation. The ICOS signalling is not important during priming, but rather during activation in NLT. ICOSLG seem to be produced by radioresistant non-hematopoeitic cells. Finally, the transcriptome of TRM formed without ICOS signaling is very similar, and removing ICOS-PI3K signalling impact the number of TRM [[2.4.1 TRM Phenotype -]] [[2.3.1 TRM Differentiation -]] [[2.7 TRM Therapies -]]
 > 
 >**Experiment** : Co-transfer of WT/ICOS KO P14 T cells into mice, then LCMV Arm infection. (verified in LM-gp33 and PR8-gp33, and with BM mixing, and with ICOSLG Ko mouse)
 >**Results** : At memory timepoint: no change in blood/SLO and TCM/TEM/LLEC proportions, but KO are decreased in IEL, LP, kidney and SG. KO cells in NLT still displayed a TRM phenotype. Initial entry at effector timepoint was not affected, suggesting an effect in TRM phenotype acquiring.

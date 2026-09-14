@@ -16,7 +16,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : Extansion of the previous paper with type II and type III Treg [[Ferreira_NatImmunol_2020]]. While type II did not made any TRM, type III worked similarly to type I and deletion of RORgt in Treg lead to decreased type III treg and lower CD8+ TRM numbers in Aspergillus infection [[TRM Differenciation]].
+> %% begin Notes %%**Summary** : Extansion of the previous paper with type II and type III Treg [[Ferreira_NatImmunol_2020]]. While type II did not made any TRM, type III worked similarly to type I and deletion of RORgt in Treg lead to decreased type III treg and lower CD8+ TRM numbers in Aspergillus infection [[2.3.1 TRM Differentiation -]].
 > 
 >**Experiment** : IAV infection with WT of FOXP3 conditional KO of Tbet
 >**Results** : Type I response with type I Treg CXCR3+. KO lead to decrease of lung TRM.

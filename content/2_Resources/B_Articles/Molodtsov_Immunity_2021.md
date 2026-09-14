@@ -47,7 +47,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This paper showed that there is TRM in LN and that they protect against cancer (metastases) [[TRM Cancer]] [[TRM Heterogeneity]]
+> %% begin Notes %%**Summary** : This paper showed that there is TRM in LN and that they protect against cancer (metastases) [[2.5 TRM Cancer -]] [[2.4.2 TRM Heterogeneity -]]
 > 
 >**Experiment** : model of melanoma in mouse and vitiligo with pmel tumor-antigen specific T cells
 >**Results** : Great number of memory pmel in vitiligo, some in LN/lung/liver and had a CD69+CD103+CD62Llo and distinct transcriptomic tissue related signature, with LN/lung/liver having intermediate expression of activation/exhaustion/Tcircm transcripts.

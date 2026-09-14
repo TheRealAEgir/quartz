@@ -44,12 +44,12 @@ articletype: Review
 
 > [!notes]
 > %% begin Notes %%
->[[TRM Cancer]] Has a very exhaustive table showing TRM subpopulation that has been associated with cancer prognosis
->[[TRM Differenciation]] murine BATF3+ DC and human CD1C/CD163 DC in lymphoid tissue. DNGR1 (CLEC9A) murine DC also. Naive T cell can be pre-trained by alphaVbeta8 DC's TGFb, resulting in CD103 expression. DC in the tumor microenvironment may play a similar role. + CD103+ DC, CD301B DC...
+>[[2.5 TRM Cancer -]] Has a very exhaustive table showing TRM subpopulation that has been associated with cancer prognosis
+>[[2.3.1 TRM Differentiation -]] murine BATF3+ DC and human CD1C/CD163 DC in lymphoid tissue. DNGR1 (CLEC9A) murine DC also. Naive T cell can be pre-trained by alphaVbeta8 DC's TGFb, resulting in CD103 expression. DC in the tumor microenvironment may play a similar role. + CD103+ DC, CD301B DC...
 >TRM Differenciation (already cited, broke the link) BLIMP1 and NOTCH are require for TRM and favor TEM, whereas RUNX3 and NR4A1 promote TRM and support TCM. Conversely, T-bet and Eomes inhibit TRM formation but promote TEM and TCM differentiation, respectively
->[[TRM Caracteristics]] Phenotype of chemokine receptors
->[[TRM Recirculation]] Lung TRM can recirculate to the associated LN. Low level in blood is also detected. This suggest plasticity
->[[TRM Cancer]] Talks about evidence of TRM being involved in immunotherapy response. Targetting BHLHE40, TSCM, RUNX3, IL15 nanogel, metabolite may be strategies to improve therapy.
+>[[2.4.4 TRM Caracteristics -]] Phenotype of chemokine receptors
+>[[2.2.2 TRM Recirculation -]] Lung TRM can recirculate to the associated LN. Low level in blood is also detected. This suggest plasticity
+>[[2.5 TRM Cancer -]] Talks about evidence of TRM being involved in immunotherapy response. Targetting BHLHE40, TSCM, RUNX3, IL15 nanogel, metabolite may be strategies to improve therapy.
 >
 >FIGURE ARE VERY USEFUL
 > %% end Notes %%

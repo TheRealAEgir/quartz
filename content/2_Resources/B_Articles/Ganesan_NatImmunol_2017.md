@@ -55,7 +55,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : RNAseq de TIL vs healthy CD8 sorted. Tumor with high infiltration have better prognosis value, and T cells show a more activated/exhausted phenotype including TRM features. [[TRM Cancer]] [[TRM Cancer]]
+> %% begin Notes %%**Summary** : RNAseq de TIL vs healthy CD8 sorted. Tumor with high infiltration have better prognosis value, and T cells show a more activated/exhausted phenotype including TRM features. [[2.5 TRM Cancer -]] [[2.5 TRM Cancer -]]
 > 
 >**Experiment** : RNAseq of TIL vs healthy tissue T cells %%of%% NSCLC and HNSCC
 >**Results** : Relative similarity between cancers types to healthy tissue T cells, including T cell  exhaustion and proliferation, 4-1BB and CD27 pathways. CKI expression varied among samples, and PD1/4-1BB correlated with TIL infiltration density.

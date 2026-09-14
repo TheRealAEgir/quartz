@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : Results of a clinical trial which tested neoadjuvant + anti-PD1 +- anti-CTLA4. Only read the part that talk about TRM. [[IV. Discussion]] [[TRM Cancer]]
+> %% begin Notes %%**Summary** : Results of a clinical trial which tested neoadjuvant + anti-PD1 +- anti-CTLA4. Only read the part that talk about TRM. [[IV. Discussion]] [[2.5 TRM Cancer -]]
 > 
 >**Experiment** : cohort of ICB treated patient in NSCLC
 >**Results** : Post-treatment samples treated with anti-CTLA4 vs anti-PD1 only showed an increase in the number of TIL infiltration, in which CD103+ CD4+ and CD8+ TRM phenotype cells were also increased. There is a positive correlation between number of clonotypes in blood and in tumor and most was increased after treatment.

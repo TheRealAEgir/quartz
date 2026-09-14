@@ -1,7 +1,7 @@
 # 0. Préface - La réponse immunitaire adaptative
 
 # 1. La réponse immunitaire adaptative mémoire
-## [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]] (3-4 pages)
+## [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]] (3-4 pages)
 ## [[1.2 Hétérogénéité des lymphocytes T mémoires et mécanisme d'action]] (3-4 pages)
 
 ```dataviewjs
@@ -92,8 +92,8 @@ if (!targetNote) {
 ```
 
 # 2. Les lymphocytes T résidents mémoires
-### 2.0 [[TRM Historic]]
-### 2.1 [[TRM Phenotype]] and [[TRM Epigenetic]] (10-15 pages)
+### 2.0 [[2.1 TRM Historic -]]
+### 2.1 [[2.4.1 TRM Phenotype -]] and [[2.4.3 TRM Epigenetic -]] (10-15 pages)
 
 ```dataviewjs
 // Specify the target note's name (without .md extension)
@@ -139,7 +139,7 @@ if (!targetNote) {
     }
 }
 ```
-## 2.2 [[TRM Heterogeneity]] (5-10 pages)
+## 2.2 [[2.4.2 TRM Heterogeneity -]] (5-10 pages)
 ```dataviewjs
 // Specify the target note's name (without .md extension)
 const targetNoteName = "1_Categories/2. Les lymphocytes T résidents mémoires/TRM Heterogeneity";
@@ -184,7 +184,7 @@ if (!targetNote) {
     }
 }
 ```
-### 2.3 [[TRM Caracteristics]]
+### 2.3 [[2.4.4 TRM Caracteristics -]]
 ```dataviewjs
 // Specify the target note's name (without .md extension)
 const targetNoteName = "1_Categories/2. Les lymphocytes T résidents mémoires/TRM Caracteristics";
@@ -229,7 +229,7 @@ if (!targetNote) {
     }
 }
 ```
-### 2.4 [[TRM Differenciation]] (15-20 pages)
+### 2.4 [[2.3.1 TRM Differentiation -]] (15-20 pages)
 ```dataviewjs
 // Specify the target note's name (without .md extension)
 const targetNoteName = "1_Categories/2. Les lymphocytes T résidents mémoires/TRM Differenciation";
@@ -274,15 +274,15 @@ if (!targetNote) {
     }
 }
 ```
-## 2.5 [[TRM Precursors]] (4-5 pages)
+## 2.5 [[2.3.2 TRM Precursors -]] (4-5 pages)
 
 # 3. Fonction des lymphocytes T résidents mémoires dans les pathologies
-## 3.1 [[TRM Effector]] and [[TRM Effector]] and [[TRM Recirculation]](5-6 pages)
+## 3.1 [[2.2.1 TRM Effector -]] and [[2.2.1 TRM Effector -]] and [[2.2.2 TRM Recirculation -]](5-6 pages)
 ##### 3.1.1 Positionnement stratégique des TRM dans l'organisme
 ##### 3.1.2 Rôle d'alerte et de recrutement des acteurs cellulaires
 ##### 3.1.3 Rôle cytotoxique des TRM
 ##### 3.1.4 Recirculation des TRM : Rôle de protection à distance
-## 3.2. [[TRM Cancer]] and [[TRM Cancer]] and [[TRM Cancer]] and [[TRM Effector]] (~20 pages)
+## 3.2. [[2.5 TRM Cancer -]] and [[2.5 TRM Cancer -]] and [[2.5 TRM Cancer -]] and [[2.2.1 TRM Effector -]] (~20 pages)
 ##### 3.2.1 Introduction sur l'immunosurveillance
 ##### 3.2.2 Observations sur les TRM dans le cancer
 ##### 3.2.3 Rôle pronostique des TRM dans le cancer
@@ -290,8 +290,8 @@ if (!targetNote) {
 ##### 3.2.4 Mode d'action des immunothérapies (Tpex, remplacement clonal)
 ##### 3.2.4 Rôle prédictifs des TRM dans un contexte d'immunothérapie
 ##### 3.2.5 Classification TRM/TEX et changement de paradigme
-## 3.3 [[TRM Autoimmune diseases]] (5-6 pages)
-## 3.4 [[TRM Therapies]] (5-10 pages)
+## 3.3 [[2.6 TRM Autoimmune diseases -]] (5-6 pages)
+## 3.4 [[2.7 TRM Therapies -]] (5-10 pages)
 ##### 3.4.1 Utilisation des TRM comme outil diagnostic de pronostic et/ou de prédiction
 ##### 3.4.2 Optimisation des stratégies de vaccins pour générer des TRM
 ##### 3.4.3 Utilisation des TRM en thérapie cellulaire

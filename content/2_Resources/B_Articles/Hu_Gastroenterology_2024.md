@@ -22,7 +22,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[TRM Cancer]] [[TRM Cancer]]
+> %% begin Notes %%**Summary** : [[2.5 TRM Cancer -]] [[2.5 TRM Cancer -]]
 > 
 >**Experiment** : In gastric cancer; analysis of TLS and TRM
 >**Results** : High expression of CD8A/CXCL13 in TLS, and better prognosis value of TLS. scRNAseq of TLShi/low showed positive correlation of CXCL13+CD103+CD8+ TRM and TLS (also in TCGA). CXCL13 have a exhausted/activated phenotype, with greater clonotype expansion in TLShi and are associated with better survival. CD103+ have higher CKI expression. CD103+ sorted from TLShigh had better tumor killing in coculture wtih anti-PD1 and higher cytokine production.

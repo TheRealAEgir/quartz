@@ -20,7 +20,7 @@ used_in_redaction: Yes
 > [!notes]
 > %% begin Notes %%
 >**Summary** : Use a mouse model with HSV infection and described an antigen-specific CD103/CD49a/CD62Llow/CD122low CD8+ population in the skin and ganglia graft. These cell do not exit the graft, and localise preferentially in some skin compartment. They are long lived without antigen stimulation.
->[[TRM Historic]] [[TRM Phenotype]] [[TRM Effector]] [[Method]] 
+>[[2.1 TRM Historic -]] [[2.4.1 TRM Phenotype -]] [[2.2.1 TRM Effector -]] [[Method]] 
 > 
 > **Experiment** : Transplanting ganglia into mice with circulating HSV-specific CD8+ memory cells obtained with prealable infection. T cells from the transplant itself (GFP+) are resident and can be diffenrenciated appart from the circulating T cells (CD45.1+). Then, a second systemic HSV infection is used.
 > **Model** : gBT-I.GFP-transgenic mice (all T cells are specific for the gB antigen from HSV and also express GFP)

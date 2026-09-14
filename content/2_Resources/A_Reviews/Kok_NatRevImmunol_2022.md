@@ -40,14 +40,14 @@ articletype: Review
 
 > [!notes]
 > %% begin Notes %%
->[[TRM Effector]] Cite two 2014 paper in Science that talk about TRM recruiting other immune cell upon activation. TRM with low cytotoxic potential has been reported.
->[[TRM Differenciation]] Early effector from the primary response shows early acquiring of resident phenotype. These effectors can be distinguished in short-lived terminal effector KLRG1/TBET/BLIMP1 and memory precursor CD127/ID2/TCF1. Short-lived terminal effector fail to express CD69/CD103.
+>[[2.2.1 TRM Effector -]] Cite two 2014 paper in Science that talk about TRM recruiting other immune cell upon activation. TRM with low cytotoxic potential has been reported.
+>[[2.3.1 TRM Differentiation -]] Early effector from the primary response shows early acquiring of resident phenotype. These effectors can be distinguished in short-lived terminal effector KLRG1/TBET/BLIMP1 and memory precursor CD127/ID2/TCF1. Short-lived terminal effector fail to express CD69/CD103.
 >Some references for IL15/TGFb/antigen/IL7/IL33/TNFa/IL21. Not sure wether these signal play a role in the NLT or in LT prior to tissue entry.
 >BLIMP1 suppress TCF1/KLF2/CCR7 and S1PR1 expression. HOBIT is similar. IL15 and IL12 induce BLIMP1in early effector cells. 
->[[TRM Precursors]] Precursor with memory precursor possess superior potential to yield TRM. Propose two model of differenciation : "local divergence", where precursor enter NLT and differenciate with tissue signals, and "systemic divergence", where event occur in blood or LT and a memory-forming potential precursor exist.
->[[TRM Differenciation]] DC subset : CD1c/CD163 (via TGFb) ; BATF3+ (with IL15/IL12/CD24 (costim)) ; CD11b is better at Tcm than BATF3 that is better at Trm. Migratory DC epigenetically reprogram naive T cell to give rise to Trm in skin. DC priming may change T cell tissue entry or rentenion (chemokin receptor, integrin, adhesion molecules...) as well as inhibiting tissue egress; or by shaping epegenetically and transcriptionnaly the precursor to be prone to differentiation.
+>[[2.3.2 TRM Precursors -]] Precursor with memory precursor possess superior potential to yield TRM. Propose two model of differenciation : "local divergence", where precursor enter NLT and differenciate with tissue signals, and "systemic divergence", where event occur in blood or LT and a memory-forming potential precursor exist.
+>[[2.3.1 TRM Differentiation -]] DC subset : CD1c/CD163 (via TGFb) ; BATF3+ (with IL15/IL12/CD24 (costim)) ; CD11b is better at Tcm than BATF3 that is better at Trm. Migratory DC epigenetically reprogram naive T cell to give rise to Trm in skin. DC priming may change T cell tissue entry or rentenion (chemokin receptor, integrin, adhesion molecules...) as well as inhibiting tissue egress; or by shaping epegenetically and transcriptionnaly the precursor to be prone to differentiation.
 >[[TRM Transcriptome]] Low level of TBET recquired for IL15R expression. High level inhibit TGFBR and CD103. Same for EOMES. TCF1 bind ITGAE locus. TGFb inhibit TBET/EOMES/TCF1, and IL12 inibit TCF1/EOMES.
->[[TRM Recirculation]] Talks about some paper on TRM recirculation
+>[[2.2.2 TRM Recirculation -]] Talks about some paper on TRM recirculation
 > %% end Notes %%
 
 > [!Useful Informations]-

@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : inflammation induce CD103+ TRM in skin/FRT and protect against local HSV infection [[TRM Effector]] [[TRM Differenciation]] [[TRM Caracteristics]]
+> %% begin Notes %%**Summary** : inflammation induce CD103+ TRM in skin/FRT and protect against local HSV infection [[2.2.1 TRM Effector -]] [[2.3.1 TRM Differentiation -]] [[2.4.4 TRM Caracteristics -]]
 > 
 >**Experiment** : Mouse infected with HSV and re-challenge
 >**Results** : Tcircm largely didn't protected mouse from re-challenge event with prime-boost and large number of Tem

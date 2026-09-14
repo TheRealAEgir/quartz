@@ -55,7 +55,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article studied TILs and describe that CD103+CD8+ is associated with better survival, as well as caracterizing their phenotype and transcriptome. [[TRM Cancer]]
+> %% begin Notes %%**Summary** : This article studied TILs and describe that CD103+CD8+ is associated with better survival, as well as caracterizing their phenotype and transcriptome. [[2.5 TRM Cancer -]]
 > 
 >**Experiment** : IF of NSCLC cohort
 >**Results** : CD8+CD103+ enriched in epithelial region, but globally more T cell in stromal regions. CD8+ and CD103+ are associated with response to ICB and PFS/OS. E-cadherin and ICAM1 are not associated with clinical benefit.

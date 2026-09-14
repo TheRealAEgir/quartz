@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[TRM Caracteristics]] [[TRM Recirculation]] [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteur ou mémoire]]
+> %% begin Notes %%**Summary** : [[2.4.4 TRM Caracteristics -]] [[2.2.2 TRM Recirculation -]] [[1.1 Différenciation des lymphocytes T en lymphocyte T effecteurs ou mémoires]]
 > 
 >**Experiment** : Transfer of P14 and LCMV Amr infection and study in microscopy.
 >**Results** : At memory timepoint (16dpi), TRM decreased in intestine/uterus, but stayed high in other.
