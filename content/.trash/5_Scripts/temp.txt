@@ -1,0 +1,30 @@
+
+subprocess.run([
+    sys.executable,
+    SCRIPT_DIR / "ConvertSynthax.py",
+    "--vault", str(VAULT_PATH),
+    "--source", SOURCE_DIR,
+    "--output", OUTPUT_DIR,
+    "--replacement", REPLACEMENT_FILE,
+    "--boundaries", BOUNDARIES
+], check=True)
+
+
+subprocess.run([ #Calling it another time on dictionary output
+    sys.executable,
+    SCRIPT_DIR / "ConvertSynthax.py",
+    "--vault", str(VAULT_PATH),
+    "--source", DICTIONARY_OUTPUT,
+    "--output", DICTIONARY_OUTPUT,
+    "--replacement", REPLACEMENT_FILE,
+    "--boundaries", BOUNDARIES
+], check=True)
+
+subprocess.run([
+    sys.executable,
+    SCRIPT_DIR / "ConvertWikilinks.py",
+    "--vault", str(VAULT_PATH),
+    "--source", SOURCE_DIR,
+    "--output", OUTPUT_DIR,
+    "--definitions", DEFINITIONS_DIR
+], check=True)

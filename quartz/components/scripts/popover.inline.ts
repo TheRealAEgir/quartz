@@ -56,23 +56,17 @@ async function mouseEnterHandler(
 
   const isOutputNote =
     linkPath.includes(
-      "/output/",
+      "/V. Annexes/Abréviations/",
     )
 
   const isArticleNote =
     linkPath.includes(
-      "/2_resources/a_reviews/",
-    ) ||
-    linkPath.includes(
-      "/2_resources/b_articles/",
-    ) ||
-    linkPath.includes(
-      "/2_resources/d_unread/",
+      "/V. Annexes/Notes Articles/",
     )
 
   const isFigureNote =
     linkPath.includes(
-      "/2_resources/e_figures/",
+      "0. Figures",
     )
 
   // ==========================================================
