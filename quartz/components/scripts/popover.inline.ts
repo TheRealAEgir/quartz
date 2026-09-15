@@ -66,7 +66,7 @@ async function mouseEnterHandler(
 
   const isFigureNote =
     linkPath.includes(
-      "/0.-figures/",
+      "figure",
     )
     
 
