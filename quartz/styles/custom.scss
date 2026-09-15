@@ -58,10 +58,10 @@ a.internal-link[data-slug^="figure"] {
 }
 
 /* Remove Quartz's yellow background from internal links */
-body a.internal-link {
+body a.internal-link,
+body a.internal-link:hover {
   background-color: transparent !important;
 }
-
 .custom-popover-figure-title {
   margin-bottom: 1rem;
 }
