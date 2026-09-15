@@ -47,7 +47,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article indentify TOX as a major exhaustion factor. TOX KO cells showed that TOX repress Teff formation. TOX is induced by NFAT2, and have an epigenetic function by binding at epigenetic factor. [[1.3 Dynsfonction]].
+> %% begin Notes %%**Summary** : This article indentify TOX as a major exhaustion factor. TOX KO cells showed that TOX repress Teff formation. TOX is induced by NFAT2, and have an epigenetic function by binding at epigenetic factor. [[1.3 Dysfonction]].
 > 
 >**Experiment** : LCMV cl13 vs Arm
 >**Results** : In chronic infection T cell, STAT1/STAT2/TCF4/IKZF2/TET2/DNMT3A/SETBP1/KDM4A/TOX upregulated. TOX was the most important and had epigenetic regulation in it's promoter. It remain high in Tex while it peaked in Teff at 5-6 dpi. There was both TOX+ and TOX- in CD127+KLRG1- but no TOX+ in CD127-KLRG1+. TCF1, EOMES, PD1, TIGIT, LAG3 expression was confined to TOX+. TOX was also expressed in tumors.

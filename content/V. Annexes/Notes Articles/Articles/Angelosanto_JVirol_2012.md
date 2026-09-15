@@ -17,7 +17,7 @@ used_in_redaction: No
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[1.3 Dynsfonction]]
+> %% begin Notes %%**Summary** : [[1.3 Dysfonction]]
 > 
 >**Experiment** : Transfer of Tex from different dpi into naive antigen free mouse
 >**Results** :  Tex transfered in antigen-free mouse cannot persist. When 15 dpi, persist without complete conversion of the phenotype. When 8 dpi, persist and reverse phenotype. When doing the opposite (arm into cl13), Tmem differenciated into Tex.

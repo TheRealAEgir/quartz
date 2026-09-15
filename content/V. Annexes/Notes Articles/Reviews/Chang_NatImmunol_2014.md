@@ -72,7 +72,7 @@ articletype: Review
    Cite three reviews that talks about the role of mTOR / PI3K/AKT in the metabolic changes of T cells.
    Naive T cells metabolism relies on pyruvate oxidation and mitochondira-dependant fatty acid beta-oxidation. After activation, there is a rapid increase in glycolysis and glutamine oxidation, with cMYC then HIF. Effector cells has aerobic glycolysis as major metabolism. Memory return to oxydative phosphorylation like naive T cells.
    Treating cells with a compound that promotes fatty acid acid catabolism (via mTOR inhibition) promorte memory cells. Overexpression of CPT1 (limiting the mithcondrial fatty acid oxidation) do the same. Same with inhibition of glycolysis
-   [[2.2.1 Fonctions TRM]] IFNg induce VCAM1 on endothelial cells and recruit leukocytes, and IL2/TNFa induce the maturation of DC and activation of NK
+   [[2.2 Fonctions TRM]] IFNg induce VCAM1 on endothelial cells and recruit leukocytes, and IL2/TNFa induce the maturation of DC and activation of NK
    TRM_Differentiation (couldn't find the original article, break the link) TGF produced by Treg induce TRM in the brain
 > > %% end Notes %%
 

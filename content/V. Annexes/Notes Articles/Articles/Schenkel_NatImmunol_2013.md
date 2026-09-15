@@ -19,7 +19,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article indentified that TRM have a role in initiating immune response by secreting IFNg, which in turn lead to chemokine increase (including CXCL9/CXCL10). Importantly, it was shown that P14 T cells that are reactivated by gp33 peptide recruited bystander T cells into their site of residence, both in normal mouse but also in parabiosed mouse indicated that this effect is only mediated by TRM. [[2.1 Historique TRM]], [[2.2.1 Fonctions TRM]] 
+> %% begin Notes %%**Summary** : This article indentified that TRM have a role in initiating immune response by secreting IFNg, which in turn lead to chemokine increase (including CXCL9/CXCL10). Importantly, it was shown that P14 T cells that are reactivated by gp33 peptide recruited bystander T cells into their site of residence, both in normal mouse but also in parabiosed mouse indicated that this effect is only mediated by TRM. [[2.1 Historique TRM]], [[2.2 Fonctions TRM]] 
 > 
 >**Experiment** : P14 T cells in naïve mouse, then infection with LCMV Arm. Then re-challenge with VV-gp33.
 >**Results** : Accumulation of CD8+ T cells in the FRT. Accompanied with CXCL9 increase (antigen dependant), and CCL2/CXCL9 on DC and CCL3/CCL4 on CD8 T cells, and CXCL10/CX3CL1 on endothelial cells.

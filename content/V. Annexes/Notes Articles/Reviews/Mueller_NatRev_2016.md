@@ -30,10 +30,10 @@ articletype: Review
 > %% begin Notes %%
 > Define TRM as "undergo little to no proliferation"
 > [[2.1 Historique TRM]]
-> [[2.4.4 Caractéristiques TRM]] Talk about the heterogeneity of TRM through organs
+> [[2.4 Caractérisation TRM]] Talk about the heterogeneity of TRM through organs
 > TRM Autoimmune diseases CD49a+ TRM are found in large number in skin with psioriasis. (breaking link because the original article was cited instead)
-> [[2.4.1 Phénotype TRM]] EOMES/TCF1/Tbet low
-> [[2.3.1 Différenciation TRM]] mTOR could be important
+> [[2.4 Caractérisation TRM]] EOMES/TCF1/Tbet low
+> [[2.3 Différenciation TRM]] mTOR could be important
 > CXCR3 drive TRM localisation and differenciation
 > Lack of CCR7 show differenciation in skin
 > S1PR1 and it's TF KLF2 low
@@ -43,13 +43,13 @@ articletype: Review
 > TGFb reduce Tbet
 > CD4 produced IFNg facilitate the entry of CD8 in the skin
 > Antigen not crucial, but nervous system need it for CD103 expression
-> [[2.3.2 Précurseurs TRM]] KLRG1 low -> Approriate marker ? Direct role of KLRG1 (ligand is CD103) ? KLRG1 high are too differenciated ?
-> [[2.4.4 Caractéristiques TRM]]
+> [[2.3 Différenciation TRM]] KLRG1 low -> Approriate marker ? Direct role of KLRG1 (ligand is CD103) ? KLRG1 high are too differenciated ?
+> [[2.4 Caractérisation TRM]]
 > Very high persitance in non-lymphoid organs, High BCL2 expression
 > CD103 could enhance persitance
 > AHR involved in persistance
 > Space is limitting factor
-> [[2.2.1 Fonctions TRM]]
+> [[2.2 Fonctions TRM]]
 > Not known if active killers, although display a cytotoxic phenotype
 > However, they may recruit others cells
 > Evidence of action in non specific manner "Bridge between innate and adapative" ?

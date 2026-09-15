@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[2.4.4 Caractéristiques TRM]] [[2.2.2 Recirculation TRM]]
+> %% begin Notes %%**Summary** : [[2.4 Caractérisation TRM]] [[2.2 Fonctions TRM]]
 > 
 >**Experiment** : intravital microscopy of HSV infected mouse with GFP/DsRed gBT-I or gDT-II.
 >**Results** : CD8 in epidermis with more CD103 staining than CD4 in the dermis. Epidermis are slower in migration than dermis, which can leave the tissue more easily.

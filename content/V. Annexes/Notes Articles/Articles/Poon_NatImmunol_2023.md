@@ -34,7 +34,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : Used expensive cytof/scRNAseq/TCRseq and made observations. [[2.3.2 Précurseurs TRM]] [[2.4.2 Hétérogénéité TRM]] 
+> %% begin Notes %%**Summary** : Used expensive cytof/scRNAseq/TCRseq and made observations. [[2.3 Différenciation TRM]] [[2.4 Caractérisation TRM]] 
 > 
 >**Experiment** : CyTOF, scRNA and TCR seq from human tissues
 >**Results** : Composition of CD4/CD8 T cell is different depending on tissue site with different TRM populations. More clonal expansion in CD8 than CD4, and in barrier site than LN. There was more sharing in CD8 than CD4, with large sharing in BM/LN/lung/spleen and skin/intestine with their respective LN.

@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article describe CD8 TRM cells formation in skin following VV infection. These were not impaired by the absence of CD4 or IFNg, but were impaired by loss of E/P selectin ligand. The cells were resident as assessed by parabiosis, in which the immunised mouse showed better protection than the naive mouse. Also, immunised mouse protection was not affected by FTY720. Finally, they observed skin TRM accumulation in distant site from infection, and these were protective against re-challenge (but, they were OT-I) [[2.4.4 Caractéristiques TRM]] [[2.4.1 Phénotype TRM]] [[2.2.1 Fonctions TRM]] [[2.2.2 Recirculation TRM]] [[2.3.1 Différenciation TRM]]
+> %% begin Notes %%**Summary** : This article describe CD8 TRM cells formation in skin following VV infection. These were not impaired by the absence of CD4 or IFNg, but were impaired by loss of E/P selectin ligand. The cells were resident as assessed by parabiosis, in which the immunised mouse showed better protection than the naive mouse. Also, immunised mouse protection was not affected by FTY720. Finally, they observed skin TRM accumulation in distant site from infection, and these were protective against re-challenge (but, they were OT-I) [[2.4 Caractérisation TRM]] [[2.4 Caractérisation TRM]] [[2.2 Fonctions TRM]] [[2.2 Fonctions TRM]] [[2.3 Différenciation TRM]]
 > 
 >**Experiment** : VV infection in WT or CD4-/- or CD4 depleted.
 >**Results** : No effect of CD4 depletion on CD8 number or specificity

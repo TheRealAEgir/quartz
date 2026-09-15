@@ -36,7 +36,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article used scRNA-TCRseq and define TRM-like cells with ICB treatment induced TCR expansion in HNSCC. Based on scRNAseq, there was two trajectory of T cells with GZMK vs GZMB TRM-like. There was expansion of some TCR clonotype which were enriched in this GZMB cluster and expressed TRM genes. Using T-scan, TCR TAA specificity was validated. In blood, there was similar expansion following treatment in an activated HLA-DRA+CD38+ T cells cluster that contracted after treatment. This population had similar kinetics in FC analyses, were PD1+KLRG1- T cells had strong prognosis value. [[2.2.1 Fonctions TRM]] [[2.5 TRM Cancer]] [[Clonal Replacement]]
+> %% begin Notes %%**Summary** : This article used scRNA-TCRseq and define TRM-like cells with ICB treatment induced TCR expansion in HNSCC. Based on scRNAseq, there was two trajectory of T cells with GZMK vs GZMB TRM-like. There was expansion of some TCR clonotype which were enriched in this GZMB cluster and expressed TRM genes. Using T-scan, TCR TAA specificity was validated. In blood, there was similar expansion following treatment in an activated HLA-DRA+CD38+ T cells cluster that contracted after treatment. This population had similar kinetics in FC analyses, were PD1+KLRG1- T cells had strong prognosis value. [[2.2 Fonctions TRM]] [[2.5 TRM Cancer]] [[Clonal Replacement]]
 > 
 >**Experiment** : HNSCC patient treated with neoadjuvant ICB + scRNA-TCRseq of CD45+
 >**Results** : Treatment induced immune response and enhanced the patient's prognosis.

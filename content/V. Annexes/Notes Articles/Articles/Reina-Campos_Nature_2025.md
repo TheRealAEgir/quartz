@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article used spatial transcriptomic on SI and describe two spatially distinct population of TRM. The population located at the top of the crypt-villus axis is more differentiated while the bottom have a stem like phenotype. Bottom have interaction with fibroblast/(bottom) immune cells, while top have interaction with enterocytes/(top) immune cells. There is differences in cytokines chemokine including TGFb at the top and CXCL9/10 at the bottom, and TGFbRII KO localize preferentially at the bottom while CXCR3 KO localize at top with gain of the respective phenotype [[2.4.2 Hétérogénéité TRM]] [[2.4.4 Caractéristiques TRM]] [[2.3.1 Différenciation TRM]] 
+> %% begin Notes %%**Summary** : This article used spatial transcriptomic on SI and describe two spatially distinct population of TRM. The population located at the top of the crypt-villus axis is more differentiated while the bottom have a stem like phenotype. Bottom have interaction with fibroblast/(bottom) immune cells, while top have interaction with enterocytes/(top) immune cells. There is differences in cytokines chemokine including TGFb at the top and CXCL9/10 at the bottom, and TGFbRII KO localize preferentially at the bottom while CXCR3 KO localize at top with gain of the respective phenotype [[2.4 Caractérisation TRM]] [[2.4 Caractérisation TRM]] [[2.3 Différenciation TRM]] 
 > 
 >**Experiment** : P14 transfer and LCMV infection and follow of T cell localization in the SI
 >**Results** : Following infection, there is infiltration, clearance and formation of two spatially separated populations.

@@ -15,7 +15,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article showed that TRM activation can lead to distant activation of antigen-unrelated T cells through DC in LN. [[2.5 TRM Cancer]] [[2.2.1 Fonctions TRM]] [[2.5 TRM Cancer]]
+> %% begin Notes %%**Summary** : This article showed that TRM activation can lead to distant activation of antigen-unrelated T cells through DC in LN. [[2.5 TRM Cancer]] [[2.2 Fonctions TRM]] [[2.5 TRM Cancer]]
 > 
 >**Experiment** : Generation of OVA-specific TRM in mouse by vaccination and depletion of Tcirc.
 >**Results** : There was XCR1+ cDC1 after TRM activation in skin and differents DCs in LN.

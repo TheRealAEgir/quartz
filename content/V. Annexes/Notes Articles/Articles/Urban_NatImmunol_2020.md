@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article studied and showed that there is brain TRM formed after infection/activation of T cells, independant on brain infection. These TRM had a TRM phenotype, but  were different from other TRM population from other tissus. They did not depend on CD103. They migrated slowly, and some of them are protected from intravascular depletion. Finally, they were able to produce cytokine and protect against infection. [[2.3.1 Différenciation TRM]] [[2.4.2 Hétérogénéité TRM]] [[2.2.1 Fonctions TRM]] [[2.4.4 Caractéristiques TRM]]
+> %% begin Notes %%**Summary** : This article studied and showed that there is brain TRM formed after infection/activation of T cells, independant on brain infection. These TRM had a TRM phenotype, but  were different from other TRM population from other tissus. They did not depend on CD103. They migrated slowly, and some of them are protected from intravascular depletion. Finally, they were able to produce cytokine and protect against infection. [[2.3 Différenciation TRM]] [[2.4 Caractérisation TRM]] [[2.2 Fonctions TRM]] [[2.4 Caractérisation TRM]]
 > 
 >**Experiment** : GFP-marked OT-I/P14 T cells and infection with VSV or IAV or LM-OVA/GP33, with intravascular ab staining.
 >**Results** : Both VSV and IAV induced IV- T cells in the brain.

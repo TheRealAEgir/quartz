@@ -45,7 +45,7 @@ used_in_redaction: Yes
 > [!notes]
 > %% begin Notes %%
 > **Summary** : This article explored the phenotype of human skin Trm. Epidermal Trm showed more expression of CD103 and CD49a. The CD49a population had less TCR diversity, and upregulated granzymes/IFNg while the epidermal CD49a- population expressed IL17/RORC/IL23R and CCR6. The CD49a population showed limited cytotoxicity, but was greatly rescued by IL15 pre-stimulation. Finally, vitiligo derived skin Trm were enriched in an IFNg CD49a+ population, while psoriasis region derived skin Trm were enriched in the CD49a- IL17 producing population.
-> [[2.6 TRM Maladies Auto-immunes]] [[2.4.1 Phénotype TRM]] [[2.4.2 Hétérogénéité TRM]]
+> [[2.6 TRM Maladies Auto-immunes]] [[2.4 Caractérisation TRM]] [[2.4 Caractérisation TRM]]
 > 
 >**Experiment** : Phenotyping of human skin T cells
 >**Results** : Cells in epidermis vs dermis expressed CD69 and CD103, with CD49a expression being restricted to CD103+ epidermis TRM cells. There was heterogeneity in CD27/CD28/CD45RA and cells were CD62L-. CD49a+ Trm had less TCR diversity, which low sharing with CD49a-.

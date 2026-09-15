@@ -27,7 +27,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article studied age-related T cell changes in healthy human. [[2.4.1 Phénotype TRM]] [[2.4.2 Hétérogénéité TRM]] [[2.4.3 Epigénétique TRM]] [[2.4.4 Caractéristiques TRM]]
+> %% begin Notes %%**Summary** : This article studied age-related T cell changes in healthy human. [[2.4 Caractérisation TRM]] [[2.4 Caractérisation TRM]] [[2.4 Caractérisation TRM]] [[2.4 Caractérisation TRM]]
 > There is a hypomethylation of DNA in T cells with age. CD244 est un marqueur de sénéscence.
 >
 >**Experiment** : Multi-omic analyses of healthy human organs, including 14C dating and bisulfite sequencing.

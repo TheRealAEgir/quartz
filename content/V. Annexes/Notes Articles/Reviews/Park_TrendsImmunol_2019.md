@@ -25,13 +25,13 @@ articletype: Review
 > [!notes]
 > %% begin Notes %%
 >[[2.1 Historique TRM]] Some key papers
->[[2.4.1 Phénotype TRM]] Cite three paper related to Trm17/Trm2. TRM cells maintain ability to produce cytokine and cytotoxic molecules despite checkpoint expression.
->[[2.3.1 Différenciation TRM]] TGFb/IL15/Antigen
+>[[2.4 Caractérisation TRM]] Cite three paper related to Trm17/Trm2. TRM cells maintain ability to produce cytokine and cytotoxic molecules despite checkpoint expression.
+>[[2.3 Différenciation TRM]] TGFb/IL15/Antigen
 >[[2.6 TRM Maladies Auto-immunes]] CD69+CD103+CD49a- IFNg+ T cells are responsible for some vitiligo, and IL17 in psoriasis. Also in type I diabetes and multiple sclerosis, and colitis. There was a report of TRM accelrating tissue repair in commensal infection.
 >[[2.5 TRM Cancer]] A lot of paper showing sing of TRM in cancer, including localization, patient prognosis and functionnality.
 >Mouse with CD69 KO/CD103 KO/CD49a blocked shows higher melanoma;
->[[2.4.2 Hétérogénéité TRM]] Multiple distinct subset detected in a single tumor. Cite paper that has evidence of bystander CD103+ T cell in tumor.
->[[2.2.1 Fonctions TRM]] Cite paper that shows evidence of TRM being cytotoxic. CD103 ehanced the synapse through binding with CD103.
+>[[2.4 Caractérisation TRM]] Multiple distinct subset detected in a single tumor. Cite paper that has evidence of bystander CD103+ T cell in tumor.
+>[[2.2 Fonctions TRM]] Cite paper that shows evidence of TRM being cytotoxic. CD103 ehanced the synapse through binding with CD103.
 >[[2.5 TRM Cancer]] TRM cytokine production is enhanced by ICB treatment. Talks a bit about vaccination and ACT as well.
 > %% end Notes %%
 

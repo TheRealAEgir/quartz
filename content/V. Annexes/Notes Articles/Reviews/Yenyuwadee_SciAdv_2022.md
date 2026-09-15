@@ -58,11 +58,11 @@ articletype: Review
 > %% begin Notes %%
 >[[TRM Transcriptome]]
 > NR4A2/JUNB/FOSL2 are important in TRM. JUNB/FOSL2 downregulate TBET, and FOSL2 positively upregulate TGFb signaling. NOTCH is also important. BLIMP1/HOBIT downregulate CCR7 and S1PR1.
->[[2.2.2 Recirculation TRM]] TRM may be able to replenish TCIRCM [...] depending on the tumor micro environment. TRM could protect SLOs upon reinfection. 
->[[2.2.1 Fonctions TRM]] Has a nice table recapitulating finding on TRM and infection, including organ, phenotype of TRM and what was found in the original study.
->[[2.4.2 Hétérogénéité TRM]] In intestinal tissue : Blimp hi/KLRG1 hi/int/Id3 low/CD127 low (effector, early phase of infection) vs Blimp1 low/Id3 hi/KLRG1 low/CD127 low (later infection incidents)
->[[2.2.1 Fonctions TRM]] TRM secrete IFNg, which induce VCAM-1/CXCL9/CXCL10 and entry of CD8 TCIRC
->[[2.3.1 Différenciation TRM]] one cell, single/multiple fate explained with evidence on TRM. Talks about antigen-independant formation of TRM. IL15/TGFb, IL7, hypoxia. Signalisation = NOTCH, JAK/STAT5, PI3K/AKT, Wnt. FABP4/5 are important
+>[[2.2 Fonctions TRM]] TRM may be able to replenish TCIRCM [...] depending on the tumor micro environment. TRM could protect SLOs upon reinfection. 
+>[[2.2 Fonctions TRM]] Has a nice table recapitulating finding on TRM and infection, including organ, phenotype of TRM and what was found in the original study.
+>[[2.4 Caractérisation TRM]] In intestinal tissue : Blimp hi/KLRG1 hi/int/Id3 low/CD127 low (effector, early phase of infection) vs Blimp1 low/Id3 hi/KLRG1 low/CD127 low (later infection incidents)
+>[[2.2 Fonctions TRM]] TRM secrete IFNg, which induce VCAM-1/CXCL9/CXCL10 and entry of CD8 TCIRC
+>[[2.3 Différenciation TRM]] one cell, single/multiple fate explained with evidence on TRM. Talks about antigen-independant formation of TRM. IL15/TGFb, IL7, hypoxia. Signalisation = NOTCH, JAK/STAT5, PI3K/AKT, Wnt. FABP4/5 are important
 >[[2.7 TRM Thérapies]] Discuss some paper that propose to use TRM as therapeutic strategies and ACT against viral infection.
 >[[2.5 TRM Cancer]] RUNX3 is indispensable
 >A team described an ID3lowBlimp1hi and Id2hiBlimp1low TRM subsets.

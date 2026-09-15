@@ -33,7 +33,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article observed that a subset of exhauted T cells during LCMV cl13 infection expressed TCF1. By removing TCF1, it was found that this TF is important for expansion upon re-challenge and could re-form a TCF1+ sub-population. This population loose Teff caracterisctics and gain Tmem caracteristic compared to TCF1- Tex. Finally, anti-PDL1 treatment induced the expansion of TCF1 but not TCF1- subset. [[1.3 Dynsfonction]], [[Immunosurveillance]]
+> %% begin Notes %%**Summary** : This article observed that a subset of exhauted T cells during LCMV cl13 infection expressed TCF1. By removing TCF1, it was found that this TF is important for expansion upon re-challenge and could re-form a TCF1+ sub-population. This population loose Teff caracterisctics and gain Tmem caracteristic compared to TCF1- Tex. Finally, anti-PDL1 treatment induced the expansion of TCF1 but not TCF1- subset. [[1.3 Dysfonction]], [[Immunosurveillance]]
 > TCF1 is expressed by naive and some memory T cells but not by effector T cells.
 > 
 >**Experiment** : TCF1 KO mouse infected with LCMV cl13, or WT/TCF1 KO P14 T cell transfer in WT mouse then infection with LCMV

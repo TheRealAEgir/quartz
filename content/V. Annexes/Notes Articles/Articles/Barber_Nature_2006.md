@@ -18,7 +18,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[1.3 Dynsfonction]] [[Immunosurveillance]]
+> %% begin Notes %%**Summary** : [[1.3 Dysfonction]] [[Immunosurveillance]]
 > 
 >**Experiment** : LCMV cl13 infection +- anti PD-L1
 >**Results** : High PD1 expression in exhausted T cells and high PD-L1 on infected cells. Anti PD-L1 lead to better virus control, increase in T cell number (+BRDU and KI67) and their functionnality, restore cytolytic activity, even in the absence of CD4 help. anti-PD1 also worked but was less efficient. anti-CTLA4 did not worked. Anti-PD1 worked on PD1+ cells and not on PD1- transfered T cells.

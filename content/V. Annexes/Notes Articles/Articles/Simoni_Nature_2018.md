@@ -32,7 +32,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article used mass cytometry in human TILs from lung and colorectal cancer with tetramer staining and found a specific upregulation of CD39 in cancer-related specific T cells vs cancer-unrelated (bystander) T cells. These cells showed higher proliferation, activation and exhaustion. In lung cancer, they were negatively correlation with mutation in EGFR, which is associated with low CD8 infiltration and resistance to anti-PD1. CD39+ may be increased in blood of patient who respond to immunotherapy as well. [[2.5 TRM Cancer]] [[2.4.1 Phénotype TRM]] [[2.5 TRM Cancer]] [[2.2.1 Fonctions TRM]]
+> %% begin Notes %%**Summary** : This article used mass cytometry in human TILs from lung and colorectal cancer with tetramer staining and found a specific upregulation of CD39 in cancer-related specific T cells vs cancer-unrelated (bystander) T cells. These cells showed higher proliferation, activation and exhaustion. In lung cancer, they were negatively correlation with mutation in EGFR, which is associated with low CD8 infiltration and resistance to anti-PD1. CD39+ may be increased in blood of patient who respond to immunotherapy as well. [[2.5 TRM Cancer]] [[2.4 Caractérisation TRM]] [[2.5 TRM Cancer]] [[2.2 Fonctions TRM]]
 > 
 >**Experiment** : Mass cytometry of human CD8+ TILs of colorectal and lung cancer, with tetramer staining for neoantigen/tumor related/cancer unrelated epitopes.
 >**Results** : 0.17% of the neoantigen were detected among CD8+ TILs, as well as 37.5-50 of patients with cancer unrelated epitodes, but there was no detection of TAA-specifid T cells. Bystander cells expressed CD69 and CD103, suggesting they wasn't part of a blood contamination.

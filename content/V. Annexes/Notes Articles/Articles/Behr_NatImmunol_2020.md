@@ -32,7 +32,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %% **Summary** : This article used HOBIT fate mapping and described [[2.2.2 Recirculation TRM]] in MLN from intestine infection. Secondary infection of primary Trm gave rise to an exHOBIT population that mostly resemble Tem, but are distinct from regular Tem. Transfer of Trm in mice only lead to Trm and Tem formation as opposed to Tcm which gave rise to every populations. Removal of primary Trm before secondary response impaired Trm and Tem formation, suggesting that primary Trm plays a role in secondary Trm and Tem formation. [[1.1 Réponse Mémoire]] [[2.4.1 Phénotype TRM]] [[2.2.1 Fonctions TRM]]
+> %% begin Notes %% **Summary** : This article used HOBIT fate mapping and described [[2.2 Fonctions TRM]] in MLN from intestine infection. Secondary infection of primary Trm gave rise to an exHOBIT population that mostly resemble Tem, but are distinct from regular Tem. Transfer of Trm in mice only lead to Trm and Tem formation as opposed to Tcm which gave rise to every populations. Removal of primary Trm before secondary response impaired Trm and Tem formation, suggesting that primary Trm plays a role in secondary Trm and Tem formation. [[1.1 Réponse Mémoire]] [[2.4 Caractérisation TRM]] [[2.2 Fonctions TRM]]
 > 
 >**Model** : Use of a fate mapping model with tdTomato, cre recombinase and diphteria toxin receptor in the HOBIT locus on OT-I cells in an oral infection with listeria monocytogenes-OVA
 >**Results** : Hobit reporter T cells differenciated in Tcm/Tem in the spleen, MLN and liver, as well as CD69+ Trm in the liver and intestine LP and IEL. Only Trm had expression of HOBIT and reporter gene.

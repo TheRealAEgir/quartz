@@ -33,7 +33,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article identified a Tfh-like resident population in lung after IAV infection. The depletion of this population by anti-CD4 or BCL6 impaired antigen-speicific CD8 TRM in the lung and decrease in host protection. This population expressed high level of IL21, and blockade of IL21 or IL21R lead to partial loss of CD8 TRM and reduced protection [[2.3.1 Différenciation TRM]]
+> %% begin Notes %%**Summary** : This article identified a Tfh-like resident population in lung after IAV infection. The depletion of this population by anti-CD4 or BCL6 impaired antigen-speicific CD8 TRM in the lung and decrease in host protection. This population expressed high level of IL21, and blockade of IL21 or IL21R lead to partial loss of CD8 TRM and reduced protection [[2.3 Différenciation TRM]]
 > 
 >**Experiment** : Mouse with IAV and CD4 depletion.
 >**Results** : Late CD4 depletion decreased NP-specific CD8 lung TRM and CD69+ +/- CD103+ but not total TRM number, and antigen specific B cells. Also with partial depletion with low dose Ab.

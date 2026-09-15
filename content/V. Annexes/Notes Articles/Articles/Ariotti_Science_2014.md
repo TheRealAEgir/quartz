@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : Activation of TRM result in local inflammation and IFNg secretion, that can help control infection even if it does not express antigen [[2.2.1 Fonctions TRM]]
+> %% begin Notes %%**Summary** : Activation of TRM result in local inflammation and IFNg secretion, that can help control infection even if it does not express antigen [[2.2 Fonctions TRM]]
 > 
 >**Experiment** : gBT-GFP (but specific for gB498 instead of 33) and HSV1/peptide injection
 >**Results** : Change in bulk RNAseq profile

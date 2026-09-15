@@ -20,7 +20,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article observed that there was high mRNA expression of cytokine in healthy kidney CD4+ TRM, and that it was untranslated. It further showed that the translation was inhibited through integrated stress response (ISR) and eiF2a phosphorylation. Inhibiting the dephosphorylation of eiF2a lead to better disease control in a TRM dependant manner. [[2.2.1 Fonctions TRM]] [[2.7 TRM Thérapies]] [[2.4.1 Phénotype TRM]] [[2.6 TRM Maladies Auto-immunes]]
+> %% begin Notes %%**Summary** : This article observed that there was high mRNA expression of cytokine in healthy kidney CD4+ TRM, and that it was untranslated. It further showed that the translation was inhibited through integrated stress response (ISR) and eiF2a phosphorylation. Inhibiting the dephosphorylation of eiF2a lead to better disease control in a TRM dependant manner. [[2.2 Fonctions TRM]] [[2.7 TRM Thérapies]] [[2.4 Caractérisation TRM]] [[2.6 TRM Maladies Auto-immunes]]
 > 
 >**Experiment** : CITE-seq of healthy kidney and blood for matched RNA-protein cytokine expression
 >**Results** : Identification of CD4 naive, TCM, TEM and TRM clusters, and TRM had the highest mRNA cytokine expression. TRM were able to produce cytokine following PMA stimulation and in kidney with autoimmune disease, but did not under normal healthy condition and those kidney did not show sign of damage.

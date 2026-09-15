@@ -21,7 +21,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : This article used epidermal injection of tumor cell to show that TRM had a role in the tumor equilibrium. In this model, melanoma had delayed apparition, which was immune related; but tumor cell could still be detected. The removal of either CD69 or CD103 (and so TRM) lead to increase in the tumor growth, which was rescued by transfer of WT but not CD69 KO T cell. This was dependent on the antigen, as tumor cell with OVA instead of gB showed tumor growth. Finally, This mecanism was mainly related to TNFa but IFNg and Perforine had little impact on it.
-> [[2.5 TRM Cancer]] [[2.2.1 Fonctions TRM]] [[2.2.1 Fonctions TRM]]
+> [[2.5 TRM Cancer]] [[2.2 Fonctions TRM]] [[2.2 Fonctions TRM]]
 > 
 >**Experiment** : Epidermal injection of B16-gB in mouse with gBT-I cells
 >**Results** : Epidermal injection of the tumor cells resulted in delayed tumor progression compared to subcutaneous injection. This was immune mediated, because IL15 KO, RAG1/2 KO or IL2RG KO were susceptible. Tumor cells were still detected (by dPCR or luciferase reporter system or two-photon microscopy) even in the mouse with no visible tumor. gBT-I cells were detected in melanomas (CD103-CD69+) and in spleen/LN/peritumoral (CD103+CD69+). Similar observation in gBT-I and HSV-OVA skin, suggesting that skin TRM are not dependent on antigen.

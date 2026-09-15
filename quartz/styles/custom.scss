@@ -98,3 +98,42 @@ body a.internal-link:hover {
   font-style: italic;
   line-height: 1.4;
 }
+
+// Button styling
+.page-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+
+  font-size: 0.95rem;
+}
+
+.page-navigation a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.page-navigation a:hover {
+  text-decoration: underline;
+}
+
+.page-navigation-label {
+  font-size: 0.8rem;
+  color: var(--gray);
+}
+
+.page-navigation-previous {
+  text-align: left;
+}
+
+.page-navigation-next {
+  text-align: right;
+}
+
+.page-navigation-spacer {
+  flex: 1;
+}

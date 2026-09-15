@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[2.4.4 Caractéristiques TRM]] [[2.2.2 Recirculation TRM]] [[1.1 Réponse Mémoire]]
+> %% begin Notes %%**Summary** : [[2.4 Caractérisation TRM]] [[2.2 Fonctions TRM]] [[1.1 Réponse Mémoire]]
 > 
 >**Experiment** : Transfer of P14 and LCMV Amr infection and study in microscopy.
 >**Results** : At memory timepoint (16dpi), TRM decreased in intestine/uterus, but stayed high in other.

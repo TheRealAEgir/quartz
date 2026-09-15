@@ -22,7 +22,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : Study of TRM formed in vitiligo after melanoma elimination, that can protect against rechallenge and have some spreading. Loss of FucT-VII (CLA) lead to reduction in TRM skin access and lymphoid memory formation, and loss of CD103 only impair skin. [[2.5 TRM Cancer]]
-> [[2.7 TRM Thérapies]] [[2.4.4 Caractéristiques TRM]] [[2.3.2 Précurseurs TRM]]
+> [[2.7 TRM Thérapies]] [[2.4 Caractérisation TRM]] [[2.3 Différenciation TRM]]
 > 
 >**Experiment** : model of vitiligo induced by tumor inoculation, Treg depletion and tumor excision. With pmel.
 >**Results** : Enrichment of CD8 T pmel cells in vitiligo with a TRM phenotype with low PD1/LAG3 but cytokine secretion upon restimulation.

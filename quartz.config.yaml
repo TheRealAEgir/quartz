@@ -277,6 +277,11 @@ plugins:
       file: ./syntax-verified.md
       replaceUnderscoresInLinks: true
     order: 50
+  - source: ./local-plugins/page-navigation
+    enabled: true
+    options:
+      file: ./page-order.md
+    order: 50
 layout:
   groups:
     toolbar:

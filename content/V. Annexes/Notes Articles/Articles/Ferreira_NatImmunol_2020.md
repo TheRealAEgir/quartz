@@ -19,7 +19,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article suggested that type I Treg (Tbet+) are important in TRM generation. Deletion of Tbet in FOXP3+ T cell lead to reduced TRM number and increase in KLRG1+ Teff, with defect in protection. Mechanistically, type I Treg are recruited to tissue *via* CXCR3, and activate TGFb through ITGB8, which in turn differenciated CD8 into TRM. [[2.3.1 Différenciation TRM]]
+> %% begin Notes %%**Summary** : This article suggested that type I Treg (Tbet+) are important in TRM generation. Deletion of Tbet in FOXP3+ T cell lead to reduced TRM number and increase in KLRG1+ Teff, with defect in protection. Mechanistically, type I Treg are recruited to tissue *via* CXCR3, and activate TGFb through ITGB8, which in turn differenciated CD8 into TRM. [[2.3 Différenciation TRM]]
 > 
 >**Experiment** : Treg conditionnal KO of TBET or EOMES
 >**Results** : KO of Tbet lead to increase of type I CD4 and CD8 in spleen without affecting Treg number. Also, alteration of Treg location and increase in type 3 Treg. There is a decrease of IEL CD8 T cells which still expressed CD69 and CD103 in Tbet KO from Treg and an increase in KLRG1+ CD8 T cells. Also in all tissue assessed. This lead to decreased protection.

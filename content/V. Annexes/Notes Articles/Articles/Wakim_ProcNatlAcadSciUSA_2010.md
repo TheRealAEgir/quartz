@@ -21,7 +21,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article describe a CD103+ brain resident subset of T cell. It was dependant on CD103, probably for survival. DC played a role in antigen presentation mediated CD103 expression. It did not survive *ex vivo* [[2.1 Historique TRM]] [[2.3.1 Différenciation TRM]] [[2.4.2 Hétérogénéité TRM]] [[2.4.4 Caractéristiques TRM]]
+> %% begin Notes %%**Summary** : This article describe a CD103+ brain resident subset of T cell. It was dependant on CD103, probably for survival. DC played a role in antigen presentation mediated CD103 expression. It did not survive *ex vivo* [[2.1 Historique TRM]] [[2.3 Différenciation TRM]] [[2.4 Caractérisation TRM]] [[2.4 Caractérisation TRM]]
 > 
 >**Experiment** : Mouse with low number of OT-I and VSV-OVA-GFP infection
 >**Results** : By 8 dpi, there is OT-I in the brain and persisted in absence of antigen. They also expressed CD103, while spleen/LN OT-I lacked it. Intracranial injection of CFSE resulted in no CFSE+ cells outside the brain, and limited HP of brain T cells. Antigen-specific were enriched in CD103+, and addition of antigen in the brain lead to upregulation of CD103. It was shown that antigen was presented by BM derived APC.

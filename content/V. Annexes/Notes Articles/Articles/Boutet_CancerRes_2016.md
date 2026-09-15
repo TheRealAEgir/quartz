@@ -21,7 +21,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : Study of TGFb mediated CD103 signaling modulation, that result in adhesion, activation, recruitement in epithelial region of tumors and cytotoxicity. [[2.5 TRM Cancer]] [[2.4.4 Caractéristiques TRM]] 
+> %% begin Notes %%**Summary** : Study of TGFb mediated CD103 signaling modulation, that result in adhesion, activation, recruitement in epithelial region of tumors and cytotoxicity. [[2.5 TRM Cancer]] [[2.4 Caractérisation TRM]] 
 > 
 >**Experiment** : Adhesion expreriment on rE-cadherin-Fc or rICAM-1-Fc of T cells treated or not with xCXCL12, rCCL5, rCCL20 or rTGFb
 >**Results** : rTGFb treatment greatly increased adhesion, with lower effect of the other treatments. There was changes in motollity induced by the treatement. CD103+LFA1+ had more calcium activation in tumor islet than CD103-LFA1+ in a CD103 dependant manner, and TGFb increased the response.

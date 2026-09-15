@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : study of CD103+ TIL in cervical cancer [[2.5 TRM Cancer]] [[2.2.1 Fonctions TRM]] [[2.7 TRM Thérapies]] [[2.5 TRM Cancer]]
+> %% begin Notes %%**Summary** : study of CD103+ TIL in cervical cancer [[2.5 TRM Cancer]] [[2.2 Fonctions TRM]] [[2.7 TRM Thérapies]] [[2.5 TRM Cancer]]
 > 
 >**Experiment** : CD103 in TCGA for cervical cancer
 >**Results** : CD103 correlated with immune infiltration and survival.

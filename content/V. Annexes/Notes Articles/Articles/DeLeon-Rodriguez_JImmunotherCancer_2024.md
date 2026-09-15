@@ -25,7 +25,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : [[2.5 TRM Cancer]] [[2.5 TRM Cancer]] [[2.4.2 Hétérogénéité TRM]]
+> %% begin Notes %%**Summary** : [[2.5 TRM Cancer]] [[2.5 TRM Cancer]] [[2.4 Caractérisation TRM]]
 > [[Discussion]]
 > 
 >**Experiment** : Study of T cells and cDC1 in cohort of melanoma treateed with ICB

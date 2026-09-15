@@ -47,7 +47,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article describe a LN TRM population. Main difference between LN TRM and lung TRM is exhaustion/stemness, proliferation and epigenetic. [[2.4.4 Caractéristiques TRM]] [[2.4.2 Hétérogénéité TRM]] [[2.4.3 Epigénétique TRM]] [[2.3.2 Précurseurs TRM]] [[2.2.2 Recirculation TRM]]
+> %% begin Notes %%**Summary** : This article describe a LN TRM population. Main difference between LN TRM and lung TRM is exhaustion/stemness, proliferation and epigenetic. [[2.4 Caractérisation TRM]] [[2.4 Caractérisation TRM]] [[2.4 Caractérisation TRM]] [[2.3 Différenciation TRM]] [[2.2 Fonctions TRM]]
 > 
 >**Experiment** : Transfer of OT-I (or others) in naive mouse, there IAV-OVA (or others) infection.
 >**Results** : There is CD69+CD103+ T cells in the medLN. They contracted but remain stable after infection. medLN TRM did not show TCR activation. Intravascular staining + intraperitoneal staining suggested residency. These cells were also found with different antigen specificity and origin.

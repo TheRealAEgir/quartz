@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article described a vaccination strategy to generate both TRM and TCIRCM in mouse that protect against tumor challenge. Depending on the vaccination route, there was more or less TRM/TCIRCM and the effect of TCIRCM was more or less important. In parabiosis settings, TCIRCM conferred some protection, but mouse with TRM had better protection. TCM could give rise to TRM inside the tumor. In response to anti-PD1, only TRM expanded in responsive mouse. Finally, intratumoral cross-presenting efficient DC were important to protection, but the effect was TRM independant [[2.5 TRM Cancer]] [[2.7 TRM Thérapies]] [[2.3.2 Précurseurs TRM]] 
+> %% begin Notes %%**Summary** : This article described a vaccination strategy to generate both TRM and TCIRCM in mouse that protect against tumor challenge. Depending on the vaccination route, there was more or less TRM/TCIRCM and the effect of TCIRCM was more or less important. In parabiosis settings, TCIRCM conferred some protection, but mouse with TRM had better protection. TCM could give rise to TRM inside the tumor. In response to anti-PD1, only TRM expanded in responsive mouse. Finally, intratumoral cross-presenting efficient DC were important to protection, but the effect was TRM independant [[2.5 TRM Cancer]] [[2.7 TRM Thérapies]] [[2.3 Différenciation TRM]] 
 > 
 >**Experiment** : Immunisation of mice with rVACV-OVA, then B16-F10-OVA injection at memory phase with/out FTY720
 >**Results** : skin scarification and intranasal, but not intraperitoneal generated TRM at the site of infection. Both TRM and TCIRCM are important in anti-tumor immunity depending on vaccination with varying effect of FTY720 depending on vaccination route.

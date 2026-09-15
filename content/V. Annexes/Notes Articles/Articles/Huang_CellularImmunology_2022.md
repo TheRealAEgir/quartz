@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : Use vaccination to induce TRM and tumor growth control. BM DC express TGFb and can differenciate T cell into TRM *in vitro*; there is correlation between CD103+CD8+ T cell infiltration and CD11c+ DC (CCR7+) and with survival [[2.5 TRM Cancer]] [[2.3.1 Différenciation TRM]] [[2.7 TRM Thérapies]] [[2.5 TRM Cancer]]
+> %% begin Notes %%**Summary** : Use vaccination to induce TRM and tumor growth control. BM DC express TGFb and can differenciate T cell into TRM *in vitro*; there is correlation between CD103+CD8+ T cell infiltration and CD11c+ DC (CCR7+) and with survival [[2.5 TRM Cancer]] [[2.3 Différenciation TRM]] [[2.7 TRM Thérapies]] [[2.5 TRM Cancer]]
 > 
 >**Experiment** : Vaccination to generate TRM
 >**Results** : Cervivovaginal immunization generate more E7-specific TRM than intramuscular that can secrete cytokine after activation.

@@ -187,6 +187,12 @@
       "commit": "832871da9ab33d52f904456c1a5e14f1b2057d83",
       "installedAt": "2026-06-02T15:03:22.598Z"
     },
+    "page-navigation": {
+      "source": "./local-plugins/page-navigation",
+      "resolved": "C:\\Users\\10053234\\Documents\\Quartz\\local-plugins\\page-navigation",
+      "commit": "local",
+      "installedAt": "2026-09-15T16:04:20.457Z"
+    },
     "page-title": {
       "source": "github:quartz-community/page-title",
       "resolved": "https://github.com/quartz-community/page-title.git",
