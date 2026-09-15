@@ -1,0 +1,27 @@
+PLUGIN RAN
+
+Loaded replacements:
+Tnaive → T<sub>naïf</sub>
+Teff → T<sub>eff</sub>
+Tmem → T<sub>mem</sub>
+CD8+ → CD8<sup>+</sup>
+CD4+ → CD4<sup>+</sup>
+IFNg → IFN-γ
+TRM → T<sub>RM</sub>
+Trm → T<sub>RM</sub>
+TCM → T<sub>CM</sub>
+Tcm → T<sub>CM</sub>
+TEM → T<sub>EM</sub>
+Tem → T<sub>EM</sub>
+
+Regex: (^|[\s ().,;:"[\]'’])(Tnaive|Teff|Tmem|CD8\+|CD4\+|IFNg|TRM|Trm|TCM|Tcm|TEM|Tem)(?=$|[\s ().,;:"[\]'’])
+
+Tests:
+TRM => MATCH "TRM"
+TEM => MATCH "TEM"
+IFNg => MATCH "IFNg"
+l'IFNg, => MATCH "IFNg"
+TEM IFNg => MATCH "TEM"
+
+Text nodes containing IFN:
+"IFN-γ"

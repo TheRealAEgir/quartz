@@ -3,6 +3,7 @@ import subprocess
 import sys
 import shutil
 import os
+import shutil
 
 # ============================================================
 # CONFIGURATION
@@ -25,28 +26,35 @@ SCRIPT_DIR = Path(__file__).resolve().parent / "Convertion"
 MERGE = [
     {
         "input": [
-            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.2.1 TRM Effector -.md",
-            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.2.2 TRM Recirculation -.md"
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.2.1 Fonctions TRM.md",
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.2.2 Recirculation TRM.md"
         ],
-        "output": "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.2 TRM Fonctions -.md"
+        "output": "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.2 Fonctions TRM.md"
     },
     {
         "input": [
-            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.3.1 TRM Differentiation -.md",
-            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.3.2 TRM Precursors -.md"
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.3.1 Différenciation TRM.md",
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.3.2 Précurseurs TRM.md"
         ],
-        "output": "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.3 TRM Differentiation -.md"
+        "output": "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.3 Différenciation TRM.md"
     },
     {
         "input": [
-            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.4.1 TRM Phenotype -.md",
-            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.4.2 TRM Heterogeneity -.md",
-            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.4.3 TRM Epigenetic -.md",
-            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.4.4 TRM Caracteristics -.md"
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.4.1 Phénotype TRM.md",
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.4.2 Hétérogénéité TRM.md",
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.4.3 Epigénétique TRM.md",
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.4.3 Epigénétique TRM.md"
         ],
-        "output": "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.4 TRM Caracterisation -.md"
+        "output": "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2.4 Caractérisation TRM.md"
     }
 ]
+
+#Copy text_replacement
+# Source file path
+src_file = "V. Annexes/Scripts/text_replacement.md"
+
+# Destination file path (new name)
+dst_file = "C:/Users/10053234/Documents/Quartz/syntax-verified.md"
 
 # ============================================================
 # SOURCE / OUTPUT CONFIGURATION
@@ -280,12 +288,18 @@ def main():
         convert_syntax(TEXT_SOURCE)
 
     # --------------------------------------------------------
-    # 5. Merge .md files that has to
+    # 5. Merge .md files that has to (temporary disabled)
     # --------------------------------------------------------
 
-    for entry in MERGE:
-        merge_and_remove_md_files(entry["input"], entry["output"])
+    #for entry in MERGE:
+    #    merge_and_remove_md_files(entry["input"], entry["output"])
 
+    # --------------------------------------------------------
+    # 6. Copy text_replacement to be used by quartz on build
+    # --------------------------------------------------------
+
+    shutil.copy(src_file, dst_file)
+    
     # --------------------------------------------------------
     # Finished
     # --------------------------------------------------------

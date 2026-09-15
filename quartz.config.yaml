@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Caractérisation des sous-populations de lymphocytes T résidents mémoires dans les métastases hépatiques de cancer colorectaux"
+  pageTitle: Caractérisation des sous-populations de lymphocytes T résidents mémoires dans les métastases hépatiques de
+    cancer colorectaux
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -269,6 +270,12 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: ./local-plugins/syntax-verified
+    enabled: true
+    options:
+      file: ./syntax-verified.md
+      replaceUnderscoresInLinks: true
     order: 50
 layout:
   groups:

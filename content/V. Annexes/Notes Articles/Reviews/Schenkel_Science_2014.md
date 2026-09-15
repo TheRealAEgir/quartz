@@ -22,15 +22,15 @@ articletype: Review
 
 > [!notes]
 > %% begin Notes %%
->[[2.1 TRM Historic -]] First to describe TEM and TCM based on homing receptor is Sallusto et al. 1999 ?
+>[[2.1 Historique TRM]] First to describe TEM and TCM based on homing receptor is Sallusto et al. 1999 ?
 >IFNg/IL33/TNFa induce CD69 expression
 >CD122 is lost when CD103 is upregulated
 >CD103 KO cells are not retained in tissues -> retention or survival ? CD103 hi cells are BCL2 high
 >S1PR5 is regulated independently of CD69 and KLF2
 >KLF2 regulate CCR7 expression
->[[2.2.1 TRM Effector -]] TGFb treatment in vitro induce CD103, but antigen reduce it.
+>[[2.2.1 Fonctions TRM]] TGFb treatment in vitro induce CD103, but antigen reduce it.
 >Inhibiting PI3K-AKT ameliorated cytokine induced downregulation of KLF2 and S1PR1
->[[2.4.4 TRM Caracteristics -]] Talk a lot about TRM localization and challenges
+>[[2.4.4 Caractéristiques TRM]] Talk a lot about TRM localization and challenges
 >Speed of Trm inside NLT increase after antigen expousre via CXCL10
 > %% end Notes %%
 

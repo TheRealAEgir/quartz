@@ -37,19 +37,24 @@
   }
 }
 
-// Change wikilinks color based on data type
-a.internal-link[data-slug^="output/protéine/"] {
-  color: rgb(124, 31, 179) !important;
-}
-a.internal-link[data-slug^="output/méthode/"] {
-  color: rgb(14, 134, 60) !important;
-}
-a.internal-link[data-slug^="output/accronyme/"] {
-  color: rgb(192, 114, 12) !important;
+// Syntax-verified HTML should always use the surrounding text color
+sub,
+sup {
+  color: inherit !important;
 }
 
-a.internal-link[data-slug^="2_resources/a_reviews/"] {
-  color: rgb(252, 1, 1) !important;
+// Change wikilinks color based on data type
+a.internal-link{
+  color: rgb(184, 143, 126) !important;
+}
+a.internal-link[data-slug^="v.-annexes/abréviations"] {
+  color: rgb(156, 126, 184) !important;
+}
+a.internal-link[data-slug^="v.-annexes/notes-articles"] {
+  color: rgb(110, 123, 179) !important;
+}
+a.internal-link[data-slug^="figure"] {
+  color: rgb(112, 179, 110) !important;
 }
 
 

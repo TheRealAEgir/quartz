@@ -39,18 +39,18 @@ articletype: Review
 
 > [!notes]
 > %% begin Notes %%
->[[2.1 TRM Historic -]] Talks a lot about memory T cell historic
+>[[2.1 Historique TRM]] Talks a lot about memory T cell historic
 >T cells in intestinal mucosa were beleived to be effector T cells because of CD69 and granzyme B expression, and it was latter foudn that they were long lived.
 >Experiment with skin/psoriasis, parabiosis, HSV1 infection and brain TRM
->[[2.4.1 TRM Phenotype -]] Talk about way to identify TRM : CD69/CD103, but also migration potential, parabiosis, transplantation, labelling of cells with Kaede or CFSE, instravascular antibody labeling (but does not test residence, only localisation). Perfusion does not work to remove leukocytes, only red blood cells. Tissue dissociation underrepresented TRM (could be because of vacular contamination). Tissue imaging suffer from technical barriers.
->[[2.4.4 TRM Caracteristics -]] TRM present adaptation to local environment (metabolism, function, phenotype, proliferation, longevity, maintenance). IL15 requirement vary with infection and tissue site.
->[[2.4.4 TRM Caracteristics -]] Thought to be relatively long, but short in lung strom and parenchyma
->[[2.3.1 TRM Differentiation -]] Site of priming could change TRM phenotype, with expression of alpha4beta7, CCR9 or CCR4, CCR10 and PSGL-1
->[[2.3.2 TRM Precursors -]] Too terminally differenciated cells do not acquire CD103
->[[2.5 TRM Cancer -]] TRM accelerate control against microbial pathogen (with references). CD103 correlate with cancer prognosis (with references)
->[[2.4.4 TRM Caracteristics -]] Migrate at 5-10 µm/min, depending on tisssue site.
->[[2.2.1 TRM Effector -]] Effector-like phenotype, but also can proliferate, and sometime recirculate and gain a Tcm/Tem phenotype.
->[[2.6 TRM Autoimmune diseases -]] Talks a bit about evidence in TRM to be involved in auto immune diseases.
+>[[2.4.1 Phénotype TRM]] Talk about way to identify TRM : CD69/CD103, but also migration potential, parabiosis, transplantation, labelling of cells with Kaede or CFSE, instravascular antibody labeling (but does not test residence, only localisation). Perfusion does not work to remove leukocytes, only red blood cells. Tissue dissociation underrepresented TRM (could be because of vacular contamination). Tissue imaging suffer from technical barriers.
+>[[2.4.4 Caractéristiques TRM]] TRM present adaptation to local environment (metabolism, function, phenotype, proliferation, longevity, maintenance). IL15 requirement vary with infection and tissue site.
+>[[2.4.4 Caractéristiques TRM]] Thought to be relatively long, but short in lung strom and parenchyma
+>[[2.3.1 Différenciation TRM]] Site of priming could change TRM phenotype, with expression of alpha4beta7, CCR9 or CCR4, CCR10 and PSGL-1
+>[[2.3.2 Précurseurs TRM]] Too terminally differenciated cells do not acquire CD103
+>[[2.5 TRM Cancer]] TRM accelerate control against microbial pathogen (with references). CD103 correlate with cancer prognosis (with references)
+>[[2.4.4 Caractéristiques TRM]] Migrate at 5-10 µm/min, depending on tisssue site.
+>[[2.2.1 Fonctions TRM]] Effector-like phenotype, but also can proliferate, and sometime recirculate and gain a Tcm/Tem phenotype.
+>[[2.6 TRM Maladies Auto-immunes]] Talks a bit about evidence in TRM to be involved in auto immune diseases.
 > %% end Notes %%
 
 > [!Useful Informations]-

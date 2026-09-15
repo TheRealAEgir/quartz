@@ -1,0 +1,28 @@
+{
+  "name": "syntax-verified",
+  "version": "1.0.0",
+  "description": "Replace configured terminology with syntax-verified HTML representations in Quartz.",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup --config tsup.config.ts"
+  },
+  "dependencies": {
+    "@quartz-community/types": "^0.3.0",
+    "hast-util-from-html": "^2.0.0",
+    "unist-util-visit": "^5.1.0"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  },
+  "quartz": {
+    "category": [
+      "transformer"
+    ]
+  }
+}
