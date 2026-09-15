@@ -1,0 +1,1 @@
+![[Tableau des articles utilisés.base]]

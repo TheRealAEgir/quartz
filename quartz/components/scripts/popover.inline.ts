@@ -68,6 +68,7 @@ async function mouseEnterHandler(
     linkPath.includes(
       "/0.-figures/",
     )
+    
 
   // ==========================================================
   // Position

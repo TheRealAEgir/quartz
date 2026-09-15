@@ -2,6 +2,7 @@ from pathlib import Path
 import subprocess
 import sys
 import shutil
+import os
 
 # ============================================================
 # CONFIGURATION
@@ -19,6 +20,33 @@ QUARTZ_VAULT = Path(
 
 # Scripts are located next to this script
 SCRIPT_DIR = Path(__file__).resolve().parent / "Convertion"
+
+# Files to merge
+MERGE = [
+    {
+        "input": [
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.2.1 TRM Effector -.md",
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.2.2 TRM Recirculation -.md"
+        ],
+        "output": "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.2 TRM Fonctions -.md"
+    },
+    {
+        "input": [
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.3.1 TRM Differentiation -.md",
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.3.2 TRM Precursors -.md"
+        ],
+        "output": "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.3 TRM Differentiation -.md"
+    },
+    {
+        "input": [
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.4.1 TRM Phenotype -.md",
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.4.2 TRM Heterogeneity -.md",
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.4.3 TRM Epigenetic -.md",
+            "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.4.4 TRM Caracteristics -.md"
+        ],
+        "output": "C:/Users/10053234/Documents/Quartz/content/I. Introduction/2. Les lymphocytes T résidents mémoires/2.4 TRM Caracterisation -.md"
+    }
+]
 
 # ============================================================
 # SOURCE / OUTPUT CONFIGURATION
@@ -45,6 +73,47 @@ DEFINITIONS_DIR = "V. Annexes/Abréviations"
 # Characters allowed immediately before/after replacements
 BOUNDARIES = r' ()\.,;:"[]'
 
+# ============================================================
+# MERGE FUNCTION
+# ============================================================
+
+def merge_and_remove_md_files(input_files, output_file):
+    """
+    Merge multiple .md files into a single output file and remove the original files.
+    Handles cases where the output file is also an input file.
+    """
+    # Check if the output file is in the input files
+    if output_file in input_files:
+        # Create a temporary file name for the output
+        temp_output_file = output_file + ".temp"
+    else:
+        temp_output_file = output_file
+
+    combined_content = []
+
+    for file_path in input_files:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+            combined_content.append(content)
+
+    merged_content = "\n\n".join(combined_content)
+
+    # Write the merged content to the temporary output file
+    with open(temp_output_file, 'w', encoding='utf-8') as file:
+        file.write(merged_content)
+
+    # Remove the original input files
+    for file_path in input_files:
+        if os.path.exists(file_path):
+            os.remove(file_path)
+            print(f"Removed: {file_path}")
+
+    # If the output file was originally an input file, rename the temporary file to the output file
+    if output_file in input_files:
+        os.rename(temp_output_file, output_file)
+        print(f"Renamed temporary file to {output_file}")
+    else:
+        print(f"Merged content written to {output_file}")
 
 # ============================================================
 # HELPER
@@ -209,6 +278,13 @@ def main():
 
     for TEXT_SOURCE in TEXT_SOURCES:
         convert_syntax(TEXT_SOURCE)
+
+    # --------------------------------------------------------
+    # 5. Merge .md files that has to
+    # --------------------------------------------------------
+
+    for entry in MERGE:
+        merge_and_remove_md_files(entry["input"], entry["output"])
 
     # --------------------------------------------------------
     # Finished
