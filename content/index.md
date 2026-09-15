@@ -16,9 +16,11 @@ Cette thèse a été écrite en utilisant les logiciels Obsidian, Quartz et Zote
 [[TRM]]
 [[P14]]
 
-[[I. Introduction/0. Figures/Figure_3/Figure 3]]
+[[Figure 3]]
 [[Figure FT]]
-[[I. Introduction/0. Figures/Figure_y/Figure 2|Figure 2]]
+[[Figure 2]]
+
+[[Figure SLECMPEC]]
 [[Figure morphologie]]
 [[Figure recirculation]]
 [[Figure CD69 CD103]]
