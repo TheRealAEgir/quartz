@@ -3,186 +3,126 @@ export function buildFigurePopupContent(
   popoverInner: HTMLElement,
   targetUrl: URL,
 ) {
-  // ==========================================================
-  // DEBUG VERSION
-  //
-  // This function ALWAYS produces a popup.
-  // ==========================================================
-
-  // ----------------------------------------------------------
-  // Gather information
-  // ----------------------------------------------------------
-
-  const pathname = targetUrl.pathname
+  // ============================================================
+  // FIND FIGURE CONTENT
+  // ============================================================
 
   const content =
     html.querySelector("article.popover-hint") ??
     html.querySelector(".popover-hint")
 
+  if (!content) {
+    return false
+  }
+
+  // ============================================================
+  // TITLE
+  // ============================================================
+
   const title =
-    content?.querySelector("h1") ??
-    html.querySelector("h1")
+    content.querySelector("h1, h2, h3, h4, h5, h6")
+
+  if (title) {
+    const titleElement =
+      document.createElement("h1")
+
+    titleElement.classList.add(
+      "custom-figure-title",
+    )
+
+    titleElement.innerHTML =
+      title.innerHTML
+
+    popoverInner.appendChild(
+      titleElement,
+    )
+  }
+
+  // ============================================================
+  // FIND IMAGE
+  // ============================================================
 
   const sourceObject =
-    content?.querySelector(
+    content.querySelector(
       "object[data]",
     ) as HTMLObjectElement | null
 
   const sourceImage =
-    content?.querySelector(
+    content.querySelector(
       "img[src]",
     ) as HTMLImageElement | null
 
-  const allImages =
-    Array.from(
-      html.querySelectorAll("img"),
-    ) as HTMLImageElement[]
+  let imagePath: string | null = null
 
-  const allObjects =
-    Array.from(
-      html.querySelectorAll("object"),
-    ) as HTMLObjectElement[]
-
-  // ----------------------------------------------------------
-  // Extract image paths
-  // ----------------------------------------------------------
-
-  const objectData =
-    sourceObject?.getAttribute("data") ?? "NONE"
-
-  const imageSrc =
-    sourceImage?.getAttribute("src") ?? "NONE"
-
-  const allImageSources =
-    allImages
-      .map((img) => img.getAttribute("src"))
-      .filter(Boolean)
-      .join("\n")
-
-  const allObjectSources =
-    allObjects
-      .map((obj) => obj.getAttribute("data"))
-      .filter(Boolean)
-      .join("\n")
-
-  // ----------------------------------------------------------
-  // Test URL resolution
-  // ----------------------------------------------------------
-
-  let resolvedImageUrl = "NOT RESOLVED"
-
-  const testImagePath =
-    objectData !== "NONE"
-      ? objectData
-      : imageSrc !== "NONE"
-        ? imageSrc
-        : null
-
-  if (testImagePath) {
-    try {
-      resolvedImageUrl =
-        new URL(
-          testImagePath,
-          targetUrl,
-        ).toString()
-    } catch (error) {
-      resolvedImageUrl =
-        `ERROR: ${String(error)}`
-    }
+  if (sourceObject) {
+    imagePath =
+      sourceObject.getAttribute("data")
+  } else if (sourceImage) {
+    imagePath =
+      sourceImage.getAttribute("src")
   }
 
-  // ----------------------------------------------------------
-  // Build visible debug popup
-  // ----------------------------------------------------------
+  if (!imagePath) {
+    console.warn(
+      `FIGURE POPUP: no image found in ${targetUrl.pathname}`,
+    )
 
-  const debug =
-    document.createElement("div")
+    return false
+  }
 
-  debug.style.fontSize = "13px"
-  debug.style.lineHeight = "1.4"
+  // ============================================================
+  // RESOLVE IMAGE URL
+  // ============================================================
 
-  debug.innerHTML = `
-    <h2>FIGURE POPUP DEBUG</h2>
+  const imageUrl =
+    new URL(
+      imagePath,
+      targetUrl,
+    ).toString()
 
-    <hr>
+  // ============================================================
+  // IMAGE
+  // ============================================================
 
-    <h3>1. Target URL</h3>
-    <pre>${escapeHtml(pathname)}</pre>
+  const image =
+    document.createElement("img")
 
-    <h3>2. Content container</h3>
-    <pre>${
-      content
-        ? `${content.tagName}.${content.className}`
-        : "NOT FOUND"
-    }</pre>
+  image.classList.add(
+    "custom-figure-image",
+  )
 
-    <h3>3. Title</h3>
-    <pre>${
-      title
-        ? title.textContent ?? "EMPTY"
-        : "NOT FOUND"
-    }</pre>
+  image.src =
+    imageUrl
 
-    <h3>4. Object[data]</h3>
-    <pre>${escapeHtml(objectData)}</pre>
+  image.alt =
+    title?.textContent?.trim() ?? ""
 
-    <h3>5. img[src]</h3>
-    <pre>${escapeHtml(imageSrc)}</pre>
+  popoverInner.appendChild(
+    image,
+  )
 
-    <h3>6. ALL images in fetched HTML</h3>
-    <pre>${
-      escapeHtml(
-        allImageSources || "NONE"
-      )
-    }</pre>
+  // ============================================================
+  // LEGEND
+  // ============================================================
 
-    <h3>7. ALL objects in fetched HTML</h3>
-    <pre>${
-      escapeHtml(
-        allObjectSources || "NONE"
-      )
-    }</pre>
+  const legendElement =
+    content.querySelector("em")
 
-    <h3>8. Resolved image URL</h3>
-    <pre>${escapeHtml(resolvedImageUrl)}</pre>
+  if (legendElement) {
+    const legend =
+      document.createElement("p")
 
-    <h3>9. Fetched content HTML</h3>
+    legend.classList.add(
+      "custom-figure-legend",
+    )
 
-    <details>
-      <summary>Click to show HTML</summary>
+    legend.innerHTML =
+      legendElement.innerHTML
 
-      <pre style="
-        white-space: pre-wrap;
-        max-height: 500px;
-        overflow: auto;
-        font-size: 10px;
-      ">${escapeHtml(
-        content?.innerHTML ??
-        html.body?.innerHTML ??
-        "NO HTML"
-      )}</pre>
-    </details>
-  `
+    popoverInner.appendChild(
+      legend,
+    )
+  }
 
-  popoverInner.appendChild(debug)
-
-  // IMPORTANT:
-  // Always report success so the popup remains visible.
   return true
-}
-
-
-// ============================================================
-// Escape HTML
-// ============================================================
-
-function escapeHtml(
-  value: string,
-): string {
-  return value
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;")
 }
