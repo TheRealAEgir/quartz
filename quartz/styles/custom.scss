@@ -57,11 +57,9 @@ a.internal-link[data-slug^="figure"] {
   color: rgb(112, 179, 110) !important;
 }
 
-
-// Resolve yellow-brown background !
-a.internal-link {
-  background: none;
-  background-color: transparent;
+/* Remove Quartz's yellow background from internal links */
+body a.internal-link {
+  background-color: transparent !important;
 }
 
 .custom-popover-figure-title {
