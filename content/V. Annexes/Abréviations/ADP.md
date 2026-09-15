@@ -1,3 +1,3 @@
-# ADP
+# ADP (Molécule)
 
 - Adénosine DiPhosphate

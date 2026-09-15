@@ -41,7 +41,7 @@ Sendai virus infection (lung)
 
 Transient depletion of CD4 with CD4-depleting antibody prior or concurent to infection (CD4 repopulation from thymus after ~2 weeks following GK1.5 treatement)
 
-Lymphotoxin-alpha KO mouse don't have [[LN]] [[Mani_Science_2019a]].
+Lymphotoxin-alpha [[KO]] mouse don't have [[LN]] [[Mani_Science_2019a]].
 
 TRM17 can be induced in kidney with a IL17aCRE R26eYFP with Staphylococcus aureus infection.
 ### Others

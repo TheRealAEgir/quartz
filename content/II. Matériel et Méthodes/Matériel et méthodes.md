@@ -16,7 +16,7 @@ Lymphocytes were extracted from liver metastases sample using mechanical and enz
 
 **_In vitro_** **TRM-like differenciation, _in vitro_ exhaustion and cytokine treatment**
 
-Freshly isolated lymphocytes were differentiated into TRM-like by adding 50 ng/mL IL-15 the first day (Miltenyi Biotec, 130-095-760), and 50 ng/mL TGF-β (Peprotech®, 100-21) the third day. TRM-like were used for further experiments after a week. For _in vitro_ exhaustion, lymphocytes were activated three times every 48 hours with anti-CD3/anti-CD28 (Gibco DynabeadsTM, 11453D) at the ratio 1 bead for 3. Exhausted-like T cells were used for further experiments after six days. For cytokine treatment, 1000 IU/mL IFNb (REF), 1000 IU/mL IFNa (REF), 10ng/mL TNFa (REF), calcipotriol (REF) were added to the culture media the first day of _in vitro_ TRM-like differenciation.
+Freshly isolated lymphocytes were differentiated into TRM-like by adding 50 ng/mL [[IL-15]] the first day (Miltenyi Biotec, 130-095-760), and 50 ng/mL TGF-β (Peprotech®, 100-21) the third day. TRM-like were used for further experiments after a week. For _in vitro_ exhaustion, lymphocytes were activated three times every 48 hours with anti-CD3/anti-CD28 (Gibco DynabeadsTM, 11453D) at the ratio 1 bead for 3. Exhausted-like T cells were used for further experiments after six days. For cytokine treatment, 1000 IU/mL IFNb (REF), 1000 IU/mL IFNa (REF), 10ng/mL TNFa (REF), calcipotriol (REF) were added to the culture media the first day of _in vitro_ TRM-like differenciation.
 
 **Flow cytometry and cell sorting**
 
@@ -48,7 +48,7 @@ Single-cell RNA-TCR data was aligned following Parse Biosciences’s pipeline. P
 
 Figures were obtained using Seurat, ggplot version 4.0.3 and patchwork version 1.3.2 packages. Clonal replacement was calculated as follow: for each patient, a cell was labelled “clonal replacement” if a post-treatment tumor-infiltrating T cell harboured a [[TCR]] sequence found 5 times or more in this compartment, and not found in any pre-treatment tumor-infiltrating T cell. Gene signature score were computed using Seurat’s AddModuleScore with default parameters. Used gene signatures can be found in XXX.
 
-Pseudotime analyses for the dataset from Chen _et al_. were conducted using the slingshot package version 2.20.0 on the first 30 dimension components (DC) calculated by the destiny package version 3.26.0 on the first 30 Seurat principal components (PC). For this analysis, the original author’s annotation was used except for TRM-like population-annotated cells on which annotation was replaced. CellChat analyses for the dataset from Chen _et al_. were conducted using the CellChat package version 1.6.0, with XXXXX
+Pseudotime analyses for the dataset from Chen _et al_. were conducted using the slingshot package version 2.20.0 on the first 30 dimension components ([[DC]]) calculated by the destiny package version 3.26.0 on the first 30 Seurat principal components (PC). For this analysis, the original author’s annotation was used except for TRM-like population-annotated cells on which annotation was replaced. CellChat analyses for the dataset from Chen _et al_. were conducted using the CellChat package version 1.6.0, with XXXXX
 
 **Single-cell RNA seq annotation**
 

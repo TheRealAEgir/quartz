@@ -1,3 +1,3 @@
-# AMP
+# AMP (Molécule)
 
 - Adénosine MonoPhosphate
