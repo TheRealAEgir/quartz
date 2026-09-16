@@ -44,6 +44,12 @@ article li {
   color: var(--darkgray);
 }
 
+//Indentation and justify
+article p {
+  text-align: justify;
+  text-indent: 2em;
+}
+
 // Syntax-verified HTML should always use the surrounding text color
 sub,
 sup {
