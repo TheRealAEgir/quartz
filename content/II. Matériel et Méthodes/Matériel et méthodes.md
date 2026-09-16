@@ -16,7 +16,7 @@ Lymphocytes were extracted from liver metastases sample using mechanical and enz
 
 **_In vitro_** **TRM-like differenciation, _in vitro_ exhaustion and cytokine treatment**
 
-Freshly isolated lymphocytes were differentiated into TRM-like by adding 50 ng/mL [[IL-15]] the first day (Miltenyi Biotec, 130-095-760), and 50 ng/mL TGF-β (Peprotech®, 100-21) the third day. TRM-like were used for further experiments after a week. For _in vitro_ exhaustion, lymphocytes were activated three times every 48 hours with anti-CD3/anti-CD28 (Gibco DynabeadsTM, 11453D) at the ratio 1 bead for 3. Exhausted-like T cells were used for further experiments after six days. For cytokine treatment, 1000 IU/mL IFNb (REF), 1000 IU/mL IFNa (REF), 10ng/mL TNFa (REF), calcipotriol (REF) were added to the culture media the first day of _in vitro_ TRM-like differenciation.
+Freshly isolated lymphocytes were differentiated into TRM-like by adding 50 ng/mL [[IL-15]] the first day (Miltenyi Biotec, 130-095-760), and 50 ng/mL TGF-β (Peprotech®, 100-21) the third day. TRM-like were used for further experiments after a week. For _in vitro_ exhaustion, lymphocytes were activated three times every 48 hours with anti-CD3/anti-CD28 (Gibco DynabeadsTM, 11453D) at the ratio 1 bead for 3. Exhausted-like T cells were used for further experiments after six days. For cytokine treatment, 1000 IU/mL [[IFNb]] (REF), 1000 IU/mL [[IFNa]] (REF), 10ng/mL [[TNFa]] (REF), calcipotriol (REF) were added to the culture media the first day of _in vitro_ TRM-like differenciation.
 
 **Flow cytometry and cell sorting**
 

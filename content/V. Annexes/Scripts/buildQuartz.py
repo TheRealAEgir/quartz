@@ -79,7 +79,7 @@ REPLACEMENT_FILE = "V. Annexes/Scripts/text_replacement.md"
 DEFINITIONS_DIR = "V. Annexes/Abréviations"
 
 # Characters allowed immediately before/after replacements
-BOUNDARIES = r' ()\.,;:"[]/-\'’\n'
+BOUNDARIES = r' ()\.,;:"[]/-\'’\n\*<>'
 
 # ============================================================
 # MERGE FUNCTION

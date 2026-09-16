@@ -6,12 +6,19 @@
  - Lymphocyte T effecteur mémoire
  - Les TEM sont une population de lymphocyte mémoire capables de se différencier rapidement en cellule effectrice après activation.
  - La plupart des TEM sont retrouvés sous forme circulante dans le sang et la lymphe, et qui ne peut pas rentrer dans les SLO. Les TEM prolifèrent peu après activation, et leur nombre est plutôt régulé par la différenciation de TCM vers les TEM.
+# T<sub>EMRA</sub>
+ - Lymphocyte T effecteur mémoire réexprimant CD45RA
+ - Les TEMRA sont une population de lymphocytes TEM présentant de la sénescence liée à de nombreuses activations et prolifération.
+ - Chez l'Homme, des TEMRA spécifiques de virus communs sont retrouvés dans le sang et leur proportion parmi les lymphocytes sanguins corrèle avec l'âge de l'individu.
 # T<sub>CM</sub>
 - Lymphocyte T central mémoire
 - Les TCM sont une population de lymphocytes mémoires possédant des capacités de cellules souches, ce qui leur permet de générer d'autres Tmem et de s'autorenouveler après activation.
 # T<sub>naïf</sub>
 - Lymphocyte T naïf
-- Les T<sub>naïf</sub> sont une population de lymphocyte n'ayant pas encore été activé.
+- Les T<sub>naïf</sub> sont une population de lymphocytes n'ayant pas encore été activé.
+# T<sub>eff</sub>
+- Lymphocyte T effecteur
+- Les T<sub>eff</sub> sont une population de lymphocytes dont la fonction est l'élimination du danger. Ils sont générés après le priming d'un Tnaif, et sont éliminés après la résolution de l'inflammation.
 # T<sub>CIRC</sub>
 - Lymphocyte T circulant
 # T<sub>CIRCM</sub>
@@ -57,18 +64,33 @@
 # ATP
 - Adénosine TriPhosphate
 - L'ATP est un nucléotide utilisé par les cellules comme constituant de l'ADN, de l'ARN et comme principale source d'énergie
+# eATP
+- Adénosine TriPhosphate extracellulaire
 # ADP
 - Adénosine DiPhosphate
+# eADP
+- Adénosine DiPhosphate extracellulaire
 # AMP
 - Adénosine MonoPhosphate
+# eAMP
+- Adénosine MonoPhosphate extracellulaire
 # ADN
 - Acide DésoxyriboNucléotidique
-# AMPc
+# cAMP
 - Adénosine MonoPhosphate cyclique
 - L'AMPc est un inhibiteur puissant de l'activité des lymphocytes T. Il est formé à partir d'ATP/ADP en adénosine par CD39, puis en AMPc par CD73.
 # CMH
 - Complexe Majeur d'Histocompatibilité
 - Les CMH sont des protéines qui permettent la présentation des antigènes pour la reconnaissance par les lymphocytes T.
+# IDO
+- Indoleamine-pyrrole 2,3-dioxygenase
+- IDO entraine une action immunosuppressive aux DC en permettant la synthèse de kynurénine inhibitrice à partir de tryptophane
+# HEV
+- High Endothelial Venule
+- Les cellules HEV sont retrouvées à l'entrée des SLO et empêche l'entrée des cellules n'exprimant pas CD62L.
+# S1P
+- Sphingosine 1 Phosphate
+- La S1P est retrouvée dans la circulation sanguine et permet la recirculation des cellules exprimant ses récepteurs par chimiotaxie.
 
 ---
 # LCMV
@@ -143,58 +165,153 @@
 - Le FTY720 est un inhibiteur chimique de S1PR1. S1PR1 permet notamment la sortie des lymphocytes depuis les SLO jusqu'au sang, et son utilisation résulte en un blocage des lymphocytes dans les SLO. Il est notamment utilisé pour créer un environnement où les NLT ne sont constitués que de cellules résidentes (les cellules circulantes étant bloquées dans les SLO), ce qui permet de quantifier l'importance relative de ces deux types de cellules.
 # Clonotype
 - Un clonotype est le nom donné à plusieurs lymphocytes partageant les mêmes séquences TCR, ce qui implique leur activation et expansion clonale.
+# CFSE
+- Carboxyfluorescein succinimidyl ester
+- Le CFSE est une molécule fluorescente capable de rentrer dans les cellules, d'y rester et d'être transmise à sa descendance. Lors d'une division cellulaire, la moitié des molécules de CFSE sont transmises à chaque cellules filles. Ainsi, le CFSE est utilisé pour suivre la descendance d'une cellule, mais aussi pour mesurer le niveau ou le nombre de prolifération.
+# BrdU
+- Bromodésoxyuridine
+- Le BrdU est un analogue de la thymidine dont le niveau d'incorporation est proportionnel avec la durée de contact et la prolifération cellulaire. Celui-ci peut être mesurée par la suite en utilisant des anticorps spécifiques.
+# fate mapping
+- Le fate mapping regroupe un ensemble de techniques permettant de marquer de manière irréversible une cellule. Si le fate mapping est utilisé sur le promoteur d'un gène, alors il peut distinguer les cellules ayant déjà exprimé ce gène, même si elle ne l'exprime plus.
+# transplantation
+- La transplantation consiste à transférer un organe ou tissu d'un organisme à un autre. Elle peut être utilisée dans des but variés, mais dans le cadre de l'étude des TRM, elle est utilisée pour tester la résidence des lymphocytes. En effet, si un tissu contenant des TRM marqués de façon congénique est transplanté dans un autre organisme, alors les cellules résidentes ne recirculent pas en dehors du greffon.
+# CRE-LOX
+- Le système CRE-LOX est utilisé pour effectuer des manipulations géniques. Il est constitué d'une enzyme, la CRE recombinase, qui est capable de couper un fragment d'ADN au niveau des sites loxP. Elle permet notamment d'effectuer des KO conditionnels et/ou inductible, en plaçant l'expression de la CRE recombinase sous le contrôle d'un promoteur d'intérêt ou d'un promoteur inductible par un traitement exogène. Ce système est aussi utilisé pour les modèles de fate mapping.
 
 ---
-# PD-1 (codé par PDCD1)
-- Programmed Death 1
-- PD1 est un checkpoint immunitaire exprimé par les lymphocytes T. La liaison de PD1 avec son ligand PD-L1 entraine une régulation négative de l'activité des lymphocytes par la signalisation entrainant l'activation de SHP-2 et le blocage de l'activation TCR.
-- La surexpression de PD-L1 par les cellules tumorale est un mécanisme d'immunoévasion fréquent, et des immunothérapies cherchant à bloquer ce mécanisme (notamment anticorps anti-PD1, anti-PD-L1) sont aujourd'hui couramment utilisées et avec des efficacités encourageantes.
-# PD-L1
-- Programmed Death-Ligand 1
-- PD-L1 est le ligand de PD-1. La liaison de PD-L1 (exprimé par de nombreux types cellulaires) sur PD-1 (exprimé par les lymphocytes T) entraine l'inhibition de l'activité du lymphocyte.
-# IDO
-- Indoleamine-pyrrole 2,3-dioxygenase
-- IDO entraine une action immunosuppressive aux DC en permettant la synthèse de kynurénine inhibitrice à partir de tryptophane
-# TCF1 (codé par TCF7)
-- Transcription Factor 7
-- Dans le cas des lymphocytes, TCF1 joue un rôle important au niveau de l'hématopoïèse et maintient des capacités de cellules souches dans les TCM et les Tpex.
-- TCF1 est généralement réprimé par les TRM
-# TOX
-- Thymocyte selection-associated high mobility group box protein
-- TOX est un facteur de transcription exprimé par les lymphocytes, où il joue un rôle important au niveau de l'hématopoïèse et dans la mise en place de l'épuisement
-# T-bet (codé par Tbx21)
-- T-Box Expressed in T cells
-- T-bet est un facteur de transcription exprimé par différentes cellules immunitaires. Sur les lymphocytes T, il est notamment responsable de la polarisation des lymphocytes T CD4 vers un phénotype Th1, et de la différenciation des lymphocytes T CD8 vers un phénotype effecteur plutôt que mémoire.
-- T-bet a été décris comme étant nécessairement réprimé par les TRM pour l'acquisition de leur phénotype, mais reste exprimé à des niveau faible par ceux-ci
+# 2B4
+- Aussi connu sous le nom de CD244 ou SLAMF4
+- 2B4 est une protéine membranaire de co-signalisation exprimée par les lymphocytes T
+# 4-1BB
+- Aussi connu sous le nom de TNFRSF9 ou CD137
+- 4-1BB est une molécule de co-stimulation dont l'expression est induite par la signalisation TCR sur les lymphocytes T.
+# AHR
+- Aryl Hydrocarbon Receptor
+- AHR est un récepteur intra-nucléaire avec des ligands variés, dont des ligands dérivés du microbiote et dérivés du tryptophane comme IDO.
+# BATF
+- Basic leucine zipper Transcription Factor
+- BATF est un des facteur de transcriptions capables de fixer des motifs AP-1 de l'ADN. Il est notamment impliqué dans l'épuisement des lymphocytes T.
+# BCL2
+- B-cell lymphoma 2
+- BCL-2 est une protéine anti-apoptotique dérivée des mitochondries.
+# BHLHE40
+- Basic Helix-Loop-Helix E40
+- BHLHE40 est un facteur de transcription. Il est notamment exprimé par les TRM.
+# BLIMP-1
+- B Lymphocyte-Induced Maturation Protein-1 (codé par PRDM1)
+- BLIMP-1 est un facteur de transcription qui joue un rôle important dans la maturation de cellules immunitaires. Il est fortement exprimé par les Tex et les TRM et permet l'acquisition de leur phénotype
+# CLA
+- Cutaneous Lymphocyte-Associated antigen
+- L'expression de CLA est retrouvée sur les lymphocytes de la peau, notamment les TRM.
+# CRTAM
+- Cytotoxic And Regulatory T Cell Molecule
+- CRTAM est exprimé par les lymphocytes T activés et les Teff.
+# CTLA-4
+- Cytotoxic T-Lymphocyte-Associated protein 4 (codé par CD152)
+- CTLA-4 est un CKI qui fonctionne en empêchant la signalisation CD28 par compétition avec ses ligands naturels, CD80-CD86.
+# DUSP6
+- Dual specificity phosphatase 6
+- DUSP6 est une phosphatase qui régule négativement les voies de signalisation MAPK/ERK.
 # EOMES
 - Eomesdermin
 - EOMES est un facteur de transcription exprimé pendant le développement embryonnaire et par les lymphocytes T. EOMES est responsable de la différenciation des lymphocytes T en lymphocytes T mémoires plutôt qu'en lymphocyte T effecteur.
 - EOMES a été décris comme étant nécessairement réprimé par les TRM pour l'acquisition de leur phénotype, bien que son expression par des TRM a déjà été observée.
-# BLIMP-1 (codé par PRDM1)
-- B Lymphocyte-Induced Maturation Protein-1
-- BLIMP-1 est un facteur de transcription qui joue un rôle important dans la maturation de cellules immunitaires. Il est fortement exprimé par les Tex et les TRM et permet l'acquisition de leur phénotype
-# HOBIT (codé par ZNF683)
-- Homolog of BLIMP-1 In T cell
-- HOBIT est un facteur de transcription qui joue un rôle important dans la différenciation des TRM (particulièrement chez la souris, et moins chez l'Homme).
-# NFAT
-- Nuclear Factor of Activated T cells
-- NFAT est l'un des facteurs de transcription activés en aval de la voie de signalisation liée à l'activation du TCR des lymphocytes T. Il existe 5 protéines : NFATC1, NFATC2, NFATC3, NFATC4 et NFATC5. Une forte expression de NFATC1 et de ses cibles a été impliquée dans l'épuisement des lymphocytes T
-# VHL
-- Von Hippel-Lindau tumor suppressor
-- VHL est une protéine responsable de la réponse à l'hypoxie dans les cellules. Cette protéine est exprimée en conditions de normoxie et entrainant la dégradation du facteur de transcription HI1Fα. En cas d'hypoxie, VHL ne dégrade plus HIF1α, dont la transcription de ses cibles entraine la réponse à l'hypoxie.
-# BATF
-- Basic leucine zipper Transcription Factor
-- BATF est un des facteur de transcriptions capables de fixer des motifs AP-1 de l'ADN. Il est notamment impliqué dans l'épuisement des lymphocytes T.
+# FABP4
+- Fatty Acid Binding Protein 4
+- FABP4 est un récepteur membranaire impliqué dans le métabolisme lipidique.
+# FABP5
+- Fatty Acid Binding Protein 5
+- FABP4 est un récepteur membranaire impliqué dans le métabolisme lipidique.
 # FOXO1
 - Forkhead Box O1
 - FOXO1 est un facteur de transcription. Dans les lymphocytes T, FOXO1 est impliqué dans la différenciation des lymphocytes vers le stade Tmem (par inhibition compétitive de la fixation de EZH2 sur l'ADN) et dans l'épuisement.
 # FOXP1
 - Forkhead Box P1
 - FOXP1 est un facteur de transcription. Il est notamment impliqué dans la différenciation des lymphocytes T et préviens l'épuisement.
+# HIC1
+- HIC ZBTB Transcriptional Repressor 1
+- HIC1 est un répresseur transcriptionnel parfois exprimé par les TRM.
+# HOBIT
+- Homolog of BLIMP-1 In T cell (codé par ZNF683)
+- HOBIT est un facteur de transcription qui joue un rôle important dans la différenciation des TRM (particulièrement chez la souris, et moins chez l'Homme).
+# ICOS
+- Inducible T-cell costimulator
+- ICOS est une molécule de co-stimulation dont l'expression est induite par la signalisation TCR sur les lymphocytes T.
+# IRF4
+- Interferon Regulatory Factor 4
+- IRF4 est un facteur de transcription notamment exprimé par les TRM.
+# Ki67
+- Ki67 est un antigène utilisé comme marqueur des cellules en prolifération.
+# KLRG1
+- Killer cell lectin-like receptor subfamily G member 1
+- KLRG1 est une protéine membranaire fortement exprimée par les lymphocytes T sénescents et les TEMRA.
+# LAG3
+- Lymphocyte-activation gene 3
+- LAG3 est un CKI qui provoque l'inhibition de l'activité des lymphocytes T en liant le CMH-II. Il est fortement exprimé par les Treg.
+# Ly6C
+- Lymphocyte antigen 6
+- Ly6C est utilisé comme marqueur des lymphocytes T naïfs
+# NKG2A
+- Killer cell lectin-like receptor subfamily A member 2
+- NKG2A est une protéine membranaire importante pour les lymphocytes NK et les Teff.
+# NOTCH1
+- Neurogenic locus notch homolog protein 1
+- NOTCH1 est un facteur de transcription qui est exprimé par certains TRM.
+# P2RX7
+- P2X purinoceptor 7
+- P2RX7 est un purinoceptor capable de lier l'ATP.
+# PD-1
+- Programmed Death 1 (codé par PDCD1)
+- PD1 est un CKI exprimé par les lymphocytes T. La liaison de PD1 avec son ligand PD-L1 entraine une régulation négative de l'activité des lymphocytes par la signalisation entrainant l'activation de SHP-2 et le blocage de l'activation TCR.
+- La surexpression de PD-L1 par les cellules tumorale est un mécanisme d'immunoévasion fréquent, et des immunothérapies cherchant à bloquer ce mécanisme (notamment anticorps anti-PD1, anti-PD-L1) sont aujourd'hui couramment utilisées et avec des efficacités encourageantes.
+# PD-L1
+- Programmed Death-Ligand 1
+- PD-L1 est le ligand de PD-1. La liaison de PD-L1 (exprimé par de nombreux types cellulaires) sur PD-1 (exprimé par les lymphocytes T) entraine l'inhibition de l'activité du lymphocyte.
+# PPARG
+- Peroxisome Proliferator Activated Receptor Gamma
+- PPARG est une protéine impliquée dans le métabolisme lipidique.
 # RUNX3
 - RUNX family transcription factor 3
 - FOXP1 est un facteur de transcription. Il est notamment impliqué dans la différenciation des lymphocytes T en TRM et dans l'épuisement 
+# S1PR1
+- Sphingosine-1-Phosphate Receptor 1
+- S1PR1 est un récepteur membranaire à la S1P retrouvée dans la circulation sanguine. Son expression sur les lymphocytes T entraine une recirculation par chimiotaxie. Il est fortement réprimé par les TRM, notamment par CD69.
+# T-bet
+- T-Box Expressed in T cells (codé par Tbx21)
+- T-bet est un facteur de transcription exprimé par différentes cellules immunitaires. Sur les lymphocytes T, il est notamment responsable de la polarisation des lymphocytes T CD4 vers un phénotype Th1, et de la différenciation des lymphocytes T CD8 vers un phénotype effecteur plutôt que mémoire.
+- T-bet a été décris comme étant nécessairement réprimé par les TRM pour l'acquisition de leur phénotype, mais reste exprimé à des niveau faible par ceux-ci
+# TCF1
+- Transcription Factor 7 (codé par TCF7)
+- Dans le cas des lymphocytes, TCF1 joue un rôle important au niveau de l'hématopoïèse et maintient des capacités de cellules souches dans les TCM et les Tpex.
+- TCF1 est généralement réprimé par les TRM
+# TIGIT
+- T cell immunoreceptor with Ig and ITIM domains
+- TIGIT est un CKI qui provoque l'inhibition de l'activité des lymphocytes T en liant CD155 (PVR) ou CD112 (PVRL2) exprimé par les cellules dendritiques et macrophages.
+# TIM3
+- T-cell immunoglobulin and mucin-domain containing-3 (codé par HAVCR2)
+- TIM3 est un CKI qui provoque l'inhibition de l'activité des lymphocytes T en liant des ligands variés comme la galectine 9, PtdSer, HMGB1 ou GEACAM1.
+# TOX
+- Thymocyte selection-associated high mobility group box protein
+- TOX est un facteur de transcription exprimé par les lymphocytes, où il joue un rôle important au niveau de l'hématopoïèse et dans la mise en place de l'épuisement
+# NFAT
+- Nuclear Factor of Activated T cells
+- NFAT est l'un des facteurs de transcription activés en aval de la voie de signalisation liée à l'activation du TCR des lymphocytes T. Il existe 5 protéines : NFATC1, NFATC2, NFATC3, NFATC4 et NFATC5. Une forte expression de NFATC1 et de ses cibles a été impliquée dans l'épuisement des lymphocytes T
+# VCAM1
+- Vascular Cell Adhesion Molecule 1
+- VCAM1 est une protéine membranaire impliquée dans l'adhésion et dans la diapédèse des cellules immunitaires.
+# VHL
+- Von Hippel-Lindau tumor suppressor
+- VHL est une protéine responsable de la réponse à l'hypoxie dans les cellules. Cette protéine est exprimée en conditions de normoxie et entrainant la dégradation du facteur de transcription HI1Fα. En cas d'hypoxie, VHL ne dégrade plus HIF1α, dont la transcription de ses cibles entraine la réponse à l'hypoxie.
 ---
+# IFNa
+- Interféron alpha
+- L'INFa est un interféron de type I jouant un rôle dans la réponse antivirale et anticancéreuse en forçant l'expression du CMH sur les cellules cibles
+# IFNb
+- Interféron beta
+- L'INFb est un interféron de type I jouant un rôle dans la réponse antivirale et anticancéreuse en forçant l'expression du CMH sur les cellules cibles
+# IFNg
+- Interféron gamma
+- L'INFg est un interféron de type II jouant un rôle dans la réponse antivirale et anticancéreuse de diverses façons.
 # IL-2
 - Interleukine 2
 - L'interleukine 2 joue un rôle majeur dans la survie des lymphocytes T. Elle est capté par le récepteur à l'IL-2 constitué de l'hétérotrimère (IL-2Rα (CD25), IL-2Rβ (CD122), IL-2Rγ (CD132)).
@@ -227,9 +344,15 @@
 # IL-21
 - Interleukine 21
 - L'interleukine 21 dont le rôle varie selon le contexte.
+# IL-22
+- Interleukine 22
+- L'interleukine 22 dont le rôle varie selon le contexte.
 # IL-23
 - Interleukine 23
 - L'interleukine 23 est une cytokine associée avec les réponses de type Th17.
+# TNFa
+- Tumor necrosis factor alpha
+- Le TNFa est une cytokine pro-inflammatoire largement retrouvées dans les réponses de type Th1.
 ---
 # CCL5
 - C-C motif chemokine ligand 5 (aussi connu sous le nom de RANTES)
@@ -291,9 +414,37 @@
 - C-X-C chemokine Receptor type 6
 - CXCR6 est un récepteur de chimiokine dont le seul ligand connu est CXCL16. Son expression par les lymphocytes est majoritairement confinée aux TRM.
 - Les observations préliminaires de notre équipe montrent qu'une forte expression de CXCR6 par les TRM dans les CRC-LM ou par les TRM-like différenciés *in vitro* est associée avec un impact clinique défavorable.
+# CX3CR1
+- C-X-3C chemokine Receptor type 1
+- CX3CR1 est un récepteur de chimiokine dont le seul ligand connu est CX3CL1. Son expression par les lymphocytes est majoritairement confinée aux TEMRA. Il n'est pas exprimé par les TRM.
 ---
 # CD
-- Cluster of Differentiation 
+- Cluster of Differentiation
+# CD7
+- Cluster of Differentiation 7
+- CD7 est une protéine membranaire notamment exprimé par les Teff.
+# CD25
+- Cluster of Differentiation 25 (aussi connu et codé sous le nom de IL2RA)
+- CD122 est l'une des trois sous-unité du récepteur à l'IL2 constitué aussi du CD122 (IL2RB) et du CD132 (IL2RG)
+# CD28
+- Cluster of Differentiation 28
+- CD28 est un récepteur de co-stimulation exprimé par les lymphocytes T et jouant un rôle important pour le priming en liant CD80-CD86. Il est peu exprimé par les TRM. Le CKI CTLA4 a une action inhibitrice en liant CD80-CD86 avec une affinité plus importante, résultant en une perte de la signalisation CD28.
+# CD36
+- Cluster of Differentiation 36
+- CD36 est un récepteur scavenger membranaire et jouant un rôle dans le captage des acides gras
+# CD39
+- Cluster of Differentiation 39
+- CD39 est une ectonucléotidase qui catalyse la transformation de l'eATP ou de l'eADP en eAMP. L'AMP est ensuite utilisé par CD73, ce qui résulte en la formation d'cAMP inhibiteur de la réponse immunitaire.
+- CD39 est exprimé par les lymphocytes T spécifiques d'antigènes tumoraux dans les tumeurs.
+# CD49a
+- Cluster of Differentiation 49a (aussi connu sous le nom de VLA-1)
+- CD49a correspond à l'intégrine alpha1 qui agit en hétérodimère avec l'intégrine beta1, se liant aux fibres de collagènes I ou IV. CD49a est exprimé par certains types de TRM.
+# CD49d
+- Cluster of Differentiation 49d
+- CD49d correspond à l'intégrine alpha4 qui agit en hétérodimère avec l'intégrine beta1. CD49d joue un rôle important pour l'homing des lymphocytes T dans l'intestin.
+# CD57
+- Cluster of Differentiation 57 (codé par B3GAT1)
+- CD57 est notamment exprimé par les lymphocytes T sénescents ou les TEMRA. Il n'est pas retrouvé sur les TRM.
 # CD62
 - Cluster of Differentiation 62L (aussi connu sous le nom de L-sélectine, et codé par SELL)
 - CD62L est une molécule d'adhésion qui se lie à de nombreux ligands, mais qui permet notamment l'adhésion aux cellules HEV retrouvées à l'entrée des SLO.
@@ -301,6 +452,20 @@
 # CD69
 - Cluster of Differentiation 69
 - CD69 est une protéine membranaire notamment impliquée dans l'inhibition par compétition de S1PR1. S1PR1 permet la recirculation des lymphocytes depuis les SLO ou les NLT jusqu'au sang, et son inhibition empêche les cellules de sortir de ces tissus. CD69 est exprimé par les lymphocytes récemment activés et par les TRM.
+# CD73
+- Cluster of Differentiation 73
+- CD73 est une ectonucléotidase qui catalyse la transformation de l'eAMP en cAMP inhibiteur de la réponse immunitaire. L'eAMP provient de la transformation de l'eATP ou eADP par CD39.
+# CD94
+- Cluster of Differentiation 94 (aussi connu sous le nom de NKG2)
+- Les protéines de la famille NKG2, dont les membres sont exprimés par les lymphocytes NK et les Teff.
+# CD101
+- Cluster of Differentiation 101 (aussi connu sous le nom de IGSF2)
 # CD103
 - Cluster of Differentiation 103 (codé par ITGAE)
 - CD103 code pour l'intégrine alphaE, dont la liaison avec l'intégrine beta7 forme un hétérodimère capable de se fixer à l'E-cadhérine. Cette interaction résulte en une augmentation de la rétention tissulaire et de la résidence. CD103 est exprimé par les TRM.
+# CD122
+- Cluster of Differentiation 122 (aussi connu et codé sous le nom de IL2RB)
+- CD122 est l'une des trois sous-unité du récepteur à l'IL2, et sert aussi de sous-unité au récepteur à l'IL15
+# CD127
+- Cluster of Differentiation 127 (aussi connu et codé sous le nom de IL7R)
+- CD127 est l'une des deux sous unité du récepteur à l'IL7, constitué aussi de la chaine commune aux récepteurs de cytokines CD132

@@ -2,7 +2,7 @@ Les [[TRM]] sont des cellules résidentes au sein des tissus. Cette caractérist
 
 ### Transplantation d'organe
 
-L'utilisation de la transplantation d'organe d'une souris vers une autre souris a permi de démontrer que certaines cellules imminutaires ne peuvent pas re-circuler et reste dans l'organe transplanté [[Gebhardt_NatImmunol_2009]].
+L'utilisation de la [[transplantation]] d'organe d'une souris vers une autre souris a permi de démontrer que certaines cellules imminutaires ne peuvent pas re-circuler et reste dans l'organe transplanté [[Gebhardt_NatImmunol_2009]].
 
 ### Parabiose
 
@@ -48,7 +48,7 @@ TRM17 can be induced in kidney with a IL17aCRE R26eYFP with Staphylococcus aureu
 
 Toxine pertussique.
 Laser capture microdissection
-Stamper-Woodruff tissue binding assay = coupe de tissue sur une lame, et passage de cellules à tester sur cette lame. A permis de déterminer l'affinité des lymphocytes pour les cellules HEV.
+Stamper-Woodruff tissue binding assay = coupe de tissue sur une lame, et passage de cellules à tester sur cette lame. A permis de déterminer l'affinité des lymphocytes pour les cellules [[HEV]].
 T-scan = [[TCR]] antigen specificity screening
 Hi-C = High throughput chromatine conformation = étude des interactions entre les loci de l'ADN
 Blocking daughter cell division with cytochalasin B
