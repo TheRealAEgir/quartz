@@ -1,3 +1,3 @@
-# ADN (Molécule)
+# ADN
 
 - Acide DésoxyriboNucléotidique

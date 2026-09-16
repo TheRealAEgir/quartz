@@ -1,3 +1,3 @@
-# T<sub>CIRCM</sub> (Cellule)
+# T<sub>CIRCM</sub>
 
 - Lymphocyte T CIRCulant Mémoire

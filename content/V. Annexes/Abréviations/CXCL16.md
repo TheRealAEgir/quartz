@@ -1,4 +1,4 @@
 # CXCL16
 
-- Chimiokine 16 de type CXCL
+- C-X-C motif chemokine ligand 16
 - CXCL9 est un récepteur de chimiokine dont le récepteur est CXCR6.

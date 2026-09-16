@@ -1,4 +1,4 @@
-# T<sub>RM</sub> (Cellule)
+# T<sub>RM</sub>
 
 - Lymphocyte T résident mémoire
 - Les TRM sont une population de lymphocyte mémoire capables de résidence dans la plupart des tissus de l'organisme et qui ne recirculent peu ou pas.

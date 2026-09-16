@@ -1,3 +1,3 @@
-# T<sub>CIRC</sub> (Cellule)
+# T<sub>CIRC</sub>
 
 - Lymphocyte T circulant

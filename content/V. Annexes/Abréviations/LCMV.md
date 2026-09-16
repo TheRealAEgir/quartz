@@ -1,4 +1,4 @@
-# LCMV (Virus)
+# LCMV
 
 - Lymphocytic ChorioMeningitis Virus
 - Le LCMV est un virus souvent utilisé dans des modèles murins expérimentaux.

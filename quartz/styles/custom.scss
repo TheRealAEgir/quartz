@@ -137,3 +137,10 @@ body a.internal-link:hover {
 .page-navigation-spacer {
   flex: 1;
 }
+
+// image size
+article img,
+article svg {
+  max-width: 100%;
+  height: auto;
+}

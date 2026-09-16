@@ -1,48 +1,19 @@
 ---
 title: Caractérisation des sous-populations de lymphocytes T résidents mémoires dans les métastases hépatiques de cancer colorectaux
 ---
-Bienvenue sur la version numérique de cette thèse. Vous pouvez commencer la lecture tout de suite en cliquant sur l'un des liens suivant :
+Bienvenue sur la version numérique de cette thèse. Vous pouvez commencer la lecture tout de suite en cliquant sur l'un des liens ci-dessous. Vous pouvez à tout moment naviguer dans les pages à l'aide de l'*explorer* à gauche de votre écran (version ordinateur), ou à l'aide des boutons de navigation à la fin de chaque page. Cliquer sur le titre de la thèse en haut à gauche permet de revenir sur cette page.
 ###### [[0. Préface|Introduction]]
 ###### [[Matériel et méthodes]]
 ###### [[Résultats]]
 ###### [[Discussion]]
 
 
-Cette thèse a été écrite en utilisant les logiciels Obsidian, Quartz et Zotero, ce qui lui confère des nouveaux avantages. Chaque partie est disponible sur une page différente, accessible en cliquant sur les liens wikilinks. Ces liens seront également utilisés à d'autres reprises : par exemple, chaque référence, méthode ou protéine possède son propre lien. Il est possible de cliquer sur ce lien, mais également d'y passer seulement son curseur de souris, ce qui fait apparaitre une preview comme sur l'image suivante.
+### Note sur l'utilisation du site
 
+Cette thèse a été écrite en utilisant les logiciels Obsidian, Quartz et Zotero, ce qui lui confère des nouveaux avantages. Par exemple, il est possible de naviguer en utilisant les liens [[Wikilink]], comme dans wikipédia. Encore mieux, glisser sa souris sur un lien [[Wikilink]] permet d'afficher une prévisualisation : cette fonctionnalité a été utilisée pour que chaque abréviation, chaque protéine, chaque figure et chaque référence puisse être accédées rapidement, comme sur la courte vidéo ci-dessous :
 
-<u>Testing links :</u>
-
-[[Output/Protéine/CXCR6|CXCR6]]
-[[LCMV]]
-[[TRM]]
-[[P14]]
-
-[[Masopust_JImmunol_2004]]
+CXCR6
 [[Mackay_NatImmunol_2013]]
-[[Masopust_NatRevImmunol_2026]]
-
-TRM
-TEM
-IFNg
-
-
 [[Figure 1]]
-[[Figure 2]]
-[[Figure 3]]
-[[Figure 4]]
-[[Figure 5]]
-[[Figure 6]]
-[[Figure 7]]
-[[Figure 18]]
-[[Figure ILXR]]
-[[Figure CD69 CD103]]
-[[Figure differenciation]]
-[[Figure FT]]
-[[Figure historique]]
-[[Figure limite CD69 CD103]]
-[[Figure morphologie]]
-[[Figure persistance]]
-[[Figure recirculation]]
-[[Figure TLS]]
-[[Tableau 4]]
+
+De plus, vous pouvez customiser l'apparence des pages. Cliquer sur l'icone de lune/soleil en haut à gauche permet d'activer ou de désactiver le mode sombre. Cliquer sur l'icone de livre permet de temporairement rendre invisible les outils, ce qui vous permet de ne vous concentrer que sur le texte. Ce mode peut ensuite être désactivé si vous placer votre souris à gauche ou à droite de cette page.

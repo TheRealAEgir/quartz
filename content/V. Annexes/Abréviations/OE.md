@@ -1,3 +1,3 @@
-# OE (Technique)
+# OE
 
 - Surexpression (*Over Expression* en anglais)

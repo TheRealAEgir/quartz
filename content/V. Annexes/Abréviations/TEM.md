@@ -1,4 +1,4 @@
-# T<sub>EM</sub> (Cellule)
+# T<sub>EM</sub>
 
 - Lymphocyte T effecteur mémoire
  - Les TEM sont une population de lymphocyte mémoire capables de se différencier rapidement en cellule effectrice après activation.

@@ -1,3 +1,3 @@
-# SI (Organe)
+# SI
 
 - Intestin grêle (*Small intestin* en anglais)
