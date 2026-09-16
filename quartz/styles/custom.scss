@@ -45,10 +45,10 @@ sup {
 
 // Change wikilinks color based on data type
 a.internal-link{
-  color: rgb(184, 143, 126) !important;
+  color: rgb(156, 126, 184) !important;
 }
 a.internal-link[data-slug^="v.-annexes/abréviations"] {
-  color: rgb(156, 126, 184) !important;
+  color: rgb(184, 143, 126) !important;
 }
 a.internal-link[data-slug^="v.-annexes/notes-articles"] {
   color: rgb(110, 123, 179) !important;
