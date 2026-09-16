@@ -140,14 +140,9 @@ body a.internal-link:hover {
 
 // image size
 article img,
-article svg {
+article svg:not([width="18"][height="18"]) {
   width: 100%;       // Force full width
   max-width: 100%;   // Prevent overflow
   height: auto;      // Maintain aspect ratio
   object-fit: contain; // Ensure the image scales properly
-}
-
-article svg:not([width="18"][height="18"]) {
-  width: 100%;
-  height: auto;
 }
