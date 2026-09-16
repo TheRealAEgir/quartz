@@ -12,7 +12,7 @@ Bienvenue sur la version numérique de cette thèse. Vous pouvez commencer la le
 
 Cette thèse a été écrite en utilisant les logiciels Obsidian, Quartz et Zotero, ce qui lui confère des nouveaux avantages. Par exemple, il est possible de naviguer en utilisant les liens [[Wikilink]], comme dans wikipédia. Encore mieux, glisser sa souris sur un lien [[Wikilink]] permet d'afficher une prévisualisation : cette fonctionnalité a été utilisée pour que chaque abréviation, chaque protéine, chaque figure et chaque référence puisse être accédées rapidement, comme sur la courte vidéo ci-dessous :
 
-TRM
+[[TRM]]
 [[Mackay_NatImmunol_2013]]
 [[Figure 1]]
 

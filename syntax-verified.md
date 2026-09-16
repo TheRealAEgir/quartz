@@ -1,7 +1,6 @@
 # T cell types
 
 TRM → T<sub>RM</sub>
-exTRM → exT<sub>RM</sub>
 Trm → T<sub>RM</sub>
 TCM → T<sub>CM</sub>
 Tcm → T<sub>CM</sub>
@@ -32,15 +31,15 @@ TH17 → T<sub>H17</sub>
 
 # Markers
 
-CD8+ → CD8<sup>+</sup>
 CD3+ → CD3<sup>+</sup>
 CD4+ → CD4<sup>+</sup>
+CD8+ → CD8<sup>+</sup>
 CD103+ → CD103<sup>+</sup>
 CXCR6+ → CXCR6<sup>+</sup>
 PD1+ → PD-1<sup>+</sup>
-CD8- → CD8<sup>-</sup>
 CD3- → CD3<sup>-</sup>
 CD4- → CD4<sup>-</sup>
+CD8- → CD8<sup>-</sup>
 CD103- → CD103<sup>-</sup>
 CXCR6- → CXCR6<sup>-</sup>
 PD1- → PD-1<sup>-</sup>
@@ -74,6 +73,5 @@ TBET → T-bet
 IFNg → IFN-γ
 TNFa → TNF-α
 TGFb → TGF-β
-TGFb1 → TGF-β1
 IL1b → IL-1β
 RORgt → RORγt
