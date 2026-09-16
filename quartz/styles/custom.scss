@@ -37,6 +37,13 @@
   }
 }
 
+// Make all text darkgray
+article ul,
+article ol,
+article li {
+  color: var(--darkgray);
+}
+
 // Syntax-verified HTML should always use the surrounding text color
 sub,
 sup {
