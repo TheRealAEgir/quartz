@@ -12,19 +12,9 @@ Bienvenue sur la version numérique de cette thèse. Vous pouvez commencer la le
 
 Cette thèse a été écrite en utilisant les logiciels Obsidian, Quartz et Zotero, ce qui lui confère des nouveaux avantages. Par exemple, il est possible de naviguer en utilisant les liens [[Wikilink]], comme dans wikipédia. Encore mieux, glisser sa souris sur un lien [[Wikilink]] permet d'afficher une prévisualisation : cette fonctionnalité a été utilisée pour que chaque abréviation, chaque protéine, chaque figure et chaque référence puisse être accédées rapidement, comme sur la courte vidéo ci-dessous :
 
-
-<div style="display: flex; align-items: center; gap: 1rem;"> <span>
-</span>  </div>
-<img src="V. Annexes/Scripts/Wikilinks.gif" alt="Wikilinks GIF" style="float: right; max-width: 400px; height: auto; margin-left: 1rem;" />
-
-
 [[TRM]] 
 [[Mackay_NatImmunol_2013]]
 [[Figure 1]]
-
-
-
-
 
 De plus, vous pouvez customiser l'apparence des pages. Cliquer sur l'icone de lune/soleil en haut à gauche permet d'activer ou de désactiver le mode sombre. Cliquer sur l'icone de livre permet de temporairement rendre invisible les outils, ce qui vous permet de ne vous concentrer que sur le texte. Ce mode peut ensuite être désactivé si vous placer votre souris à gauche ou à droite de cette page.
 

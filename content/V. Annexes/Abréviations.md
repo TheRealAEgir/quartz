@@ -445,7 +445,7 @@
 # CD57
 - Cluster of Differentiation 57 (codé par B3GAT1)
 - CD57 est notamment exprimé par les lymphocytes T sénescents ou les TEMRA. Il n'est pas retrouvé sur les TRM.
-# CD62
+# CD62L
 - Cluster of Differentiation 62L (aussi connu sous le nom de L-sélectine, et codé par SELL)
 - CD62L est une molécule d'adhésion qui se lie à de nombreux ligands, mais qui permet notamment l'adhésion aux cellules HEV retrouvées à l'entrée des SLO.
 - CD62L est couramment utilisé pour distinguer les TCM des TEM, ces derniers n'ayant pas la capacité de rentrer dans les SLO. Les TRM ne l'expriment pas non plus.

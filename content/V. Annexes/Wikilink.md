@@ -6,3 +6,5 @@ Dans le contexte de cette thèse, ils ont aussi été utilisés pour permettre u
 [[LCMV]]
 [[Mackay_NatImmunol_2013]]
 [[figure 1]]
+
+![[Wikilinks.gif]]

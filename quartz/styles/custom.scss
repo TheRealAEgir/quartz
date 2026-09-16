@@ -50,6 +50,25 @@ article p {
   text-indent: 2em;
 }
 
+// arial ?
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Arial, sans-serif;
+}
+
+code,
+pre {
+  font-family: Arial, sans-serif;
+}
+
 // Syntax-verified HTML should always use the surrounding text color
 sub,
 sup {
