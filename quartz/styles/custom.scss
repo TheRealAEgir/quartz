@@ -41,7 +41,7 @@
 article ul,
 article ol,
 article li {
-  color: var(--darkgray);
+  color: #b3b3b3;
 }
 
 //Indentation and justify
@@ -77,13 +77,13 @@ sup {
 
 // Change wikilinks color based on data type
 a.internal-link{
-  color: rgb(156, 126, 184) !important;
+  color: #9a7ab7 !important;
 }
 a.internal-link[data-slug^="v.-annexes/abréviations"] {
-  color: rgb(184, 143, 126) !important;
+  color: #978476 !important;
 }
 a.internal-link[data-slug^="v.-annexes/notes-articles"] {
-  color: rgb(110, 123, 179) !important;
+  color: #8690b9 !important;
 }
 a.internal-link[data-slug^="figure"] {
   color: rgb(112, 179, 110) !important;
