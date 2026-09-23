@@ -26,7 +26,7 @@ citekey: Behr_FrontImmunol_2019
 status: Read
 dateread: 2026-07-06
 articletype: Article
-used_in_redaction: No
+used_in_redaction: Yes
 ---
 ---
 ## Notes

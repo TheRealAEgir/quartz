@@ -7,7 +7,7 @@ citekey: Masopust_NatRevImmunol_2026
 status: Read
 dateread: 2026-07-23
 articletype: Review
-used_in_redaction: No
+used_in_redaction: Yes
 ---
 ---
 ## Notes

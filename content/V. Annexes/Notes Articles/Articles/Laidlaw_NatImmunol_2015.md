@@ -32,7 +32,7 @@ citekey: Laidlaw_NatImmunol_2015
 status: Read
 dateread: 2026-05-24
 articletype: Article
-used_in_redaction: No
+used_in_redaction: Yes
 ---
 ---
 ## Notes

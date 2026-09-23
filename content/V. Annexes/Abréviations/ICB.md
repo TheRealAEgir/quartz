@@ -1,3 +1,3 @@
 # ICB
 
-- Thérapie par inhibiteur de CKI (Immune-Checkpoint Blockade en anglais)
+- Thérapie par inhibiteur d'ICP (Immune-Checkpoint Blockade en anglais)

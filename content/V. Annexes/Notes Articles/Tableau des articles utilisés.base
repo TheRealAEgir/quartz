@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - category == "literaturenote"
+        - used_in_redaction == "Yes"
         - status == "Read"
     order:
       - file.name

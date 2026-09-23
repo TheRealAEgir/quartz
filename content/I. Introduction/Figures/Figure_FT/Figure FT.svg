@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   sodipodi:docname="T cell subtypes.svg"
+   sodipodi:docname="Inkscape_all_figures.svg"
    inkscape:export-filename="Introduction\Figure_18\Figure 18.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -31,7 +31,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="2"
      inkscape:cx="600.5"
-     inkscape:cy="1809.25"
+     inkscape:cy="2089.25"
      inkscape:window-width="2400"
      inkscape:window-height="1261"
      inkscape:window-x="315"
@@ -361,153 +361,153 @@
          transform="translate(1.0427087,-8.4530054)"><tspan
            x="-183.90707"
            y="13.434906"
-           id="tspan3"><tspan
+           id="tspan6"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-             id="tspan1">FT avantageux :</tspan><tspan
+             id="tspan1">FT inducteur :</tspan><tspan
              style="fill:#000000;stroke:none"
              id="tspan2">
 </tspan></tspan><tspan
            x="-183.90707"
            y="16.609908"
-           id="tspan5"><tspan
+           id="tspan8"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan4">
+             id="tspan7">
 </tspan></tspan><tspan
            x="-183.90707"
            y="19.784909"
-           id="tspan8"><tspan
+           id="tspan10"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan7">EGR2
+             id="tspan9">EGR2
 </tspan></tspan><tspan
            x="-183.90707"
            y="22.959911"
-           id="tspan10"><tspan
+           id="tspan12"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan9">RUNX3
+             id="tspan11">RUNX3
 </tspan></tspan><tspan
            x="-183.90707"
            y="26.134912"
-           id="tspan12"><tspan
+           id="tspan14"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan11">BACH2
+             id="tspan13">BACH2
 </tspan></tspan><tspan
            x="-183.90707"
            y="29.309913"
-           id="tspan14"><tspan
+           id="tspan16"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan13">NR4A2
+             id="tspan15">NR4A2
 </tspan></tspan><tspan
            x="-183.90707"
            y="32.484914"
-           id="tspan16"><tspan
+           id="tspan18"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan15">BLIMP1
+             id="tspan17">BLIMP1
 </tspan></tspan><tspan
            x="-183.90707"
            y="35.659915"
-           id="tspan18"><tspan
+           id="tspan22"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan17">HOBIT
+             id="tspan19">HOBIT
 </tspan></tspan><tspan
            x="-183.90707"
            y="38.834918"
-           id="tspan20"><tspan
+           id="tspan27"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan19">
+             id="tspan23">
 </tspan></tspan><tspan
            x="-183.90707"
            y="42.009921"
-           id="tspan23"><tspan
+           id="tspan31"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-             id="tspan21">FT désavantageux :</tspan><tspan
+             id="tspan28">FT répresseur :</tspan><tspan
              style="fill:#000000;stroke:none"
-             id="tspan22">
+             id="tspan30">
 </tspan></tspan><tspan
            x="-183.90707"
            y="45.184924"
-           id="tspan25"><tspan
-             style="fill:#000000;stroke:none"
-             id="tspan24">
-</tspan></tspan><tspan
-           x="-183.90707"
-           y="48.359927"
-           id="tspan27"><tspan
-             style="fill:#000000;stroke:none"
-             id="tspan26">KLF2
-</tspan></tspan><tspan
-           x="-183.90707"
-           y="51.53493"
-           id="tspan29"><tspan
-             style="fill:#000000;stroke:none"
-             id="tspan28">Tbet
-</tspan></tspan><tspan
-           x="-183.90707"
-           y="54.709933"
-           id="tspan31"><tspan
-             style="fill:#000000;stroke:none"
-             id="tspan30">EOMES
-</tspan></tspan><tspan
-           x="-183.90707"
-           y="57.884936"
            id="tspan33"><tspan
              style="fill:#000000;stroke:none"
              id="tspan32">
 </tspan></tspan><tspan
            x="-183.90707"
-           y="61.05994"
-           id="tspan36"><tspan
-             style="font-weight:bold;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-             id="tspan34">Rôle mitigé ou partiel :</tspan><tspan
+           y="48.359927"
+           id="tspan35"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan35">
+             id="tspan34">KLF2
+</tspan></tspan><tspan
+           x="-183.90707"
+           y="51.53493"
+           id="tspan37"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan36">Tbet
+</tspan></tspan><tspan
+           x="-183.90707"
+           y="54.709933"
+           id="tspan39"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan38">EOMES
+</tspan></tspan><tspan
+           x="-183.90707"
+           y="57.884936"
+           id="tspan41"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan40">
+</tspan></tspan><tspan
+           x="-183.90707"
+           y="61.05994"
+           id="tspan44"><tspan
+             style="font-weight:bold;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
+             id="tspan42">Rôle mitigé ou partiel :</tspan><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan43">
 </tspan></tspan><tspan
            x="-183.90707"
            y="64.234943"
-           id="tspan38"><tspan
+           id="tspan46"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan37">
+             id="tspan45">
 </tspan></tspan><tspan
            x="-183.90707"
            y="67.409942"
-           id="tspan40"><tspan
+           id="tspan48"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan39">NOTCH1
+             id="tspan47">NOTCH1
 </tspan></tspan><tspan
            x="-183.90707"
            y="70.584945"
-           id="tspan42"><tspan
+           id="tspan50"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan41">AHR
+             id="tspan49">AHR
 </tspan></tspan><tspan
            x="-183.90707"
            y="73.759948"
-           id="tspan44"><tspan
+           id="tspan52"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan43">HIC1
+             id="tspan51">HIC1
 </tspan></tspan><tspan
            x="-183.90707"
            y="76.934951"
-           id="tspan46"><tspan
+           id="tspan54"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan45">TOX
+             id="tspan53">TOX
 </tspan></tspan><tspan
            x="-183.90707"
            y="80.109954"
-           id="tspan48"><tspan
+           id="tspan56"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan47">DDX5
+             id="tspan55">DDX5
 </tspan></tspan><tspan
            x="-183.90707"
            y="83.284957"
-           id="tspan50"><tspan
+           id="tspan58"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan49">PNRC1
+             id="tspan57">PNRC1
 </tspan></tspan><tspan
            x="-183.90707"
            y="86.45996"
-           id="tspan52"><tspan
+           id="tspan60"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan51">ZFP36L2
+             id="tspan59">ZFP36L2
 </tspan></tspan></text><text
          xml:space="preserve"
          style="font-size:3.52778px;line-height:0.9;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:50.0831;display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -517,45 +517,45 @@
          transform="translate(16.906246,-2.4849143)"><tspan
            x="-183.90707"
            y="13.434906"
-           id="tspan54"><tspan
+           id="tspan62"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan53">Famille AP1 :
+             id="tspan61">Famille AP1 :
 </tspan></tspan><tspan
            x="-183.90707"
            y="16.609908"
-           id="tspan56"><tspan
+           id="tspan64"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan55">FOS
+             id="tspan63">FOS
 </tspan></tspan><tspan
            x="-183.90707"
            y="19.784909"
-           id="tspan58"><tspan
+           id="tspan66"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan57">FOSB
+             id="tspan65">FOSB
 </tspan></tspan><tspan
            x="-183.90707"
            y="22.959911"
-           id="tspan60"><tspan
+           id="tspan68"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan59">FOSL1
+             id="tspan67">FOSL1
 </tspan></tspan><tspan
            x="-183.90707"
            y="26.134912"
-           id="tspan62"><tspan
+           id="tspan70"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan61">JUNB
+             id="tspan69">JUNB
 </tspan></tspan><tspan
            x="-183.90707"
            y="29.309913"
-           id="tspan64"><tspan
+           id="tspan72"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan63">FOSL2
+             id="tspan71">FOSL2
 </tspan></tspan><tspan
            x="-183.90707"
            y="32.484914"
-           id="tspan66"><tspan
+           id="tspan74"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan65">
+             id="tspan73">
 </tspan></tspan></text><text
          xml:space="preserve"
          style="font-size:3.52778px;line-height:0.9;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"

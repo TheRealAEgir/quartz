@@ -15,7 +15,10 @@
 - Les TCM sont une population de lymphocytes mémoires possédant des capacités de cellules souches, ce qui leur permet de générer d'autres Tmem et de s'autorenouveler après activation.
 # T<sub>naïf</sub>
 - Lymphocyte T naïf
-- Les T<sub>naïf</sub> sont une population de lymphocytes n'ayant pas encore été activé.
+- Les T<sub>naïfs</sub> sont une population de lymphocytes n'ayant pas encore été activés.
+# T<sub>naïfs</sub>
+- Lymphocytes T naïfs
+- Les T<sub>naïfs</sub> sont une population de lymphocytes n'ayant pas encore été activés.
 # T<sub>eff</sub>
 - Lymphocyte T effecteur
 - Les T<sub>eff</sub> sont une population de lymphocytes dont la fonction est l'élimination du danger. Ils sont générés après le priming d'un Tnaif, et sont éliminés après la résolution de l'inflammation.
@@ -31,6 +34,8 @@
 - Lymphocyte T progéniteur épuisé (*Progenitor EXhausted T cell* en anglais)
 # T<sub>tex</sub>
 - Lymphocyte T épuisé de façon terminale (*Terminally EXhausted T cell* en anglais)
+# T<sub>mem</sub>
+- Lymphocyte T mémoire
 # DC
 - Cellule Dendritique (*Dendritic Cell* en anglais)
 # MPEC
@@ -55,7 +60,7 @@
 # BCR
 - Récepteur des lymphocytes B (B Cell Receptor en anglais)
 # ICB
-- Thérapie par inhibiteur de CKI (Immune-Checkpoint Blockade en anglais)
+- Thérapie par inhibiteur d'ICP (Immune-Checkpoint Blockade en anglais)
 # TCR-T cell
 - Les TCR-T cell sont des lymphocytes T modifiés pour exprimer un TCR spécifique d'un antigène d'intérêt dans un but thérapeutique
 # CAR-T cell
@@ -123,7 +128,12 @@
 # LM
 - Listeria monocytogenes
 - Le LM est une bactérie à tropisme intestinal.
-
+# ATAC-seq
+- Assay for Transposase-Acessible Chromatin with highthroughput sequencing
+- L'ATAC-seq est une technique permettant d'étudier l'épigénome. Elle consiste en l'utilisation de la transposase Tn5, une enzyme capable de d'ajouter des séquences d'ADN uniquement dans les zones accessibles du génome. En ajoutant des séquences adaptatrices et en utilisant le séquençage, l'ATAC-seq permet de distinguer les séquences accessibles des séquences non accessibles de l'ADN.
+# ChIP-seq
+- Chromatin Immunoprecipitation with highthroughput sequencing
+- La ChIP-seq est une technique permettant de savoir sur quelle séquence d'ADN une protéine peut se fixer. Elle consiste en l'isolation des complexes ADN-protéine par utilisation d'anticorps, puis par le séquençage des séquences d'ADN ainsi obtenues. Elle peut aussi être utilisée pour étudier la position de certaines marques épigénétique, par utilisation d'anticorps dirigés contre ces marques.
 ---
 
 # LN
@@ -141,9 +151,9 @@
 # SLO
 - Organe lymphoïde secondaire (Secondary Lymphoïd Organ en anglais)
 - Principal lieu d'activation des cellules de l'immunité adaptative
-# CKI
+# ICP
 - Checkpoint immunitaire
-- Les CKI sont une classe de protéine qui permettent la régulation négative de l'activité des lymphocytes par la liaison avec leur ligand (par exemple, PD1, TIM3, LAG3, TIGIT, CTLA4).
+- Les ICP sont une classe de protéine qui permettent la régulation négative de l'activité des lymphocytes par la liaison avec leur ligand (par exemple, PD1, TIM3, LAG3, TIGIT, CTLA4).
 # PBMC
  - Cellule mononuclée de sang périphérique (Peripheral Blood Mononuclear Cell en anglais)
 ---
@@ -197,6 +207,9 @@
 # BHLHE40
 - Basic Helix-Loop-Helix E40
 - BHLHE40 est un facteur de transcription. Il est notamment exprimé par les TRM.
+# BIM
+- BCL-2 Interacting Mediator of cell death
+- BIM est une protéine mitochondriale impliquée dans l'apoptose intrinsèque des cellules.
 # BLIMP-1
 - B Lymphocyte-Induced Maturation Protein-1 (codé par PRDM1)
 - BLIMP-1 est un facteur de transcription qui joue un rôle important dans la maturation de cellules immunitaires. Il est fortement exprimé par les Tex et les TRM et permet l'acquisition de leur phénotype
@@ -208,7 +221,10 @@
 - CRTAM est exprimé par les lymphocytes T activés et les Teff.
 # CTLA-4
 - Cytotoxic T-Lymphocyte-Associated protein 4 (codé par CD152)
-- CTLA-4 est un CKI qui fonctionne en empêchant la signalisation CD28 par compétition avec ses ligands naturels, CD80-CD86.
+- CTLA-4 est un ICP qui fonctionne en empêchant la signalisation CD28 par compétition avec ses ligands naturels, CD80-CD86.
+# DNMT3A
+- DNA MethylTransferase 3A
+- DNTM3A est une enzyme épigénétique jouant un rôle dans la méthylation *de novo* de l'ADN.
 # DUSP6
 - Dual specificity phosphatase 6
 - DUSP6 est une phosphatase qui régule négativement les voies de signalisation MAPK/ERK.
@@ -222,6 +238,9 @@
 # FABP5
 - Fatty Acid Binding Protein 5
 - FABP4 est un récepteur membranaire impliqué dans le métabolisme lipidique.
+# FAS
+- Fas cell surface death receptor
+- FAS est un protéine capable d'induire l'apoptose extrinsèque sur les cellules en se liant à son ligand FASL, mais qui peut aussi jouer un rôle dans le maintient d'une inflammation locale sous sa forme sécrétée.
 # FOXO1
 - Forkhead Box O1
 - FOXO1 est un facteur de transcription. Dans les lymphocytes T, FOXO1 est impliqué dans la différenciation des lymphocytes vers le stade Tmem (par inhibition compétitive de la fixation de EZH2 sur l'ADN) et dans l'épuisement.
@@ -247,7 +266,7 @@
 - KLRG1 est une protéine membranaire fortement exprimée par les lymphocytes T sénescents et les TEMRA.
 # LAG3
 - Lymphocyte-activation gene 3
-- LAG3 est un CKI qui provoque l'inhibition de l'activité des lymphocytes T en liant le CMH-II. Il est fortement exprimé par les Treg.
+- LAG3 est un ICP qui provoque l'inhibition de l'activité des lymphocytes T en liant le CMH-II. Il est fortement exprimé par les Treg.
 # Ly6C
 - Lymphocyte antigen 6
 - Ly6C est utilisé comme marqueur des lymphocytes T naïfs
@@ -257,12 +276,15 @@
 # NOTCH1
 - Neurogenic locus notch homolog protein 1
 - NOTCH1 est un facteur de transcription qui est exprimé par certains TRM.
+# NR3C1
+- Nuclear Receptor Subfamily 3 Group C Member 1
+- NR3C1 est un facteur de transcription jouant notamment un rôle dans la différenciation des MPEC
 # P2RX7
 - P2X purinoceptor 7
 - P2RX7 est un purinoceptor capable de lier l'ATP.
 # PD-1
 - Programmed Death 1 (codé par PDCD1)
-- PD1 est un CKI exprimé par les lymphocytes T. La liaison de PD1 avec son ligand PD-L1 entraine une régulation négative de l'activité des lymphocytes par la signalisation entrainant l'activation de SHP-2 et le blocage de l'activation TCR.
+- PD1 est un ICP exprimé par les lymphocytes T. La liaison de PD1 avec son ligand PD-L1 entraine une régulation négative de l'activité des lymphocytes par la signalisation entrainant l'activation de SHP-2 et le blocage de l'activation TCR.
 - La surexpression de PD-L1 par les cellules tumorale est un mécanisme d'immunoévasion fréquent, et des immunothérapies cherchant à bloquer ce mécanisme (notamment anticorps anti-PD1, anti-PD-L1) sont aujourd'hui couramment utilisées et avec des efficacités encourageantes.
 # PD-L1
 - Programmed Death-Ligand 1
@@ -286,10 +308,10 @@
 - TCF1 est généralement réprimé par les TRM
 # TIGIT
 - T cell immunoreceptor with Ig and ITIM domains
-- TIGIT est un CKI qui provoque l'inhibition de l'activité des lymphocytes T en liant CD155 (PVR) ou CD112 (PVRL2) exprimé par les cellules dendritiques et macrophages.
+- TIGIT est un ICP qui provoque l'inhibition de l'activité des lymphocytes T en liant CD155 (PVR) ou CD112 (PVRL2) exprimé par les cellules dendritiques et macrophages.
 # TIM3
 - T-cell immunoglobulin and mucin-domain containing-3 (codé par HAVCR2)
-- TIM3 est un CKI qui provoque l'inhibition de l'activité des lymphocytes T en liant des ligands variés comme la galectine 9, PtdSer, HMGB1 ou GEACAM1.
+- TIM3 est un ICP qui provoque l'inhibition de l'activité des lymphocytes T en liant des ligands variés comme la galectine 9, PtdSer, HMGB1 ou GEACAM1.
 # TOX
 - Thymocyte selection-associated high mobility group box protein
 - TOX est un facteur de transcription exprimé par les lymphocytes, où il joue un rôle important au niveau de l'hématopoïèse et dans la mise en place de l'épuisement
@@ -302,6 +324,9 @@
 # VHL
 - Von Hippel-Lindau tumor suppressor
 - VHL est une protéine responsable de la réponse à l'hypoxie dans les cellules. Cette protéine est exprimée en conditions de normoxie et entrainant la dégradation du facteur de transcription HI1Fα. En cas d'hypoxie, VHL ne dégrade plus HIF1α, dont la transcription de ses cibles entraine la réponse à l'hypoxie.
+# YY1
+- Ying Yang 1
+- YY1 est un facteur de transcription notamment impliqué dans la différenciation des SLEC.
 ---
 # IFNa
 - Interféron alpha
@@ -350,6 +375,9 @@
 # IL-23
 - Interleukine 23
 - L'interleukine 23 est une cytokine associée avec les réponses de type Th17.
+# TGFb
+- Transforming growth factor beta
+- Le TGFb est une cytokine dont le rôle majoritaire est anti-inflammatoire (et ainsi permet la résolution de l'inflammation), mais qui joue dans de nombreux autres phénomènes physiologique comme la réparation tissulaire.
 # TNFa
 - Tumor necrosis factor alpha
 - Le TNFa est une cytokine pro-inflammatoire largement retrouvées dans les réponses de type Th1.
@@ -428,7 +456,7 @@
 - CD122 est l'une des trois sous-unité du récepteur à l'IL2 constitué aussi du CD122 (IL2RB) et du CD132 (IL2RG)
 # CD28
 - Cluster of Differentiation 28
-- CD28 est un récepteur de co-stimulation exprimé par les lymphocytes T et jouant un rôle important pour le priming en liant CD80-CD86. Il est peu exprimé par les TRM. Le CKI CTLA4 a une action inhibitrice en liant CD80-CD86 avec une affinité plus importante, résultant en une perte de la signalisation CD28.
+- CD28 est un récepteur de co-stimulation exprimé par les lymphocytes T et jouant un rôle important pour le priming en liant CD80-CD86. Il est peu exprimé par les TRM. L'ICP CTLA4 a une action inhibitrice en liant CD80-CD86 avec une affinité plus importante, résultant en une perte de la signalisation CD28.
 # CD36
 - Cluster of Differentiation 36
 - CD36 est un récepteur scavenger membranaire et jouant un rôle dans le captage des acides gras
@@ -436,6 +464,15 @@
 - Cluster of Differentiation 39
 - CD39 est une ectonucléotidase qui catalyse la transformation de l'eATP ou de l'eADP en eAMP. L'AMP est ensuite utilisé par CD73, ce qui résulte en la formation d'cAMP inhibiteur de la réponse immunitaire.
 - CD39 est exprimé par les lymphocytes T spécifiques d'antigènes tumoraux dans les tumeurs.
+# CD45
+- Cluster of Differentiation 45
+- CD45 est une protéine membranaire couramment utilisée pour distinguer les leukocytes des autres types de cellules.
+# CD45RA
+- Cluster of Differentiation 45 isoform RA
+- CD45RA est une isoforme de CD45 couramment utilisée pour distinguer les Tnaifs des autres types de lymphocytes T
+# CD45RO
+- Cluster of Differentiation 45 isoform RO
+- CD45RO est une isoforme de CD45 couramment utilisée pour distinguer les Tmem des autres types de lymphocytes T
 # CD49a
 - Cluster of Differentiation 49a (aussi connu sous le nom de VLA-1)
 - CD49a correspond à l'intégrine alpha1 qui agit en hétérodimère avec l'intégrine beta1, se liant aux fibres de collagènes I ou IV. CD49a est exprimé par certains types de TRM.

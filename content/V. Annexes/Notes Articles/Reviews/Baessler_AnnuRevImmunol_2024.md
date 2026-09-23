@@ -17,7 +17,7 @@ citekey: Baessler_AnnuRevImmunol_2024
 status: Read
 dateread: 2026-07-27
 articletype: Review
-used_in_redaction: No
+used_in_redaction: Yes
 ---
 ---
 ## Notes
@@ -25,11 +25,11 @@ used_in_redaction: No
 > [!notes]
 > %% begin Notes %%Les premiers articles à décrire l'épuisement sont Gallimore A, Glithero A, Godkin A, Tissot AC, Plückthun A, et al. 1998. Induction and exhaustion of lymphocytic choriomeningitis virus–specific cytotoxic T lymphocytes visualized using soluble tetrameric major histocompatibility complex class I–peptide complexes. J. Exp. Med. 187:1383–93 23. Zajac AJ, Blattman JN, Murali-Krishna K, Sourdive DJ, Suresh M, et al. 1998. Viral immune evasion due to persistence of activated T cells without effector function. J. Exp. Med. 188:2205–13.
 > Les Tex maintiennent un certain contrôle de la pathologie.
-> Les Tex coexpriment des CKI (y compris PD1, LAG3, TIM3, TIGIT).
+> Les Tex coexpriment des ICP (y compris PD1, LAG3, TIM3, TIGIT).
 > Transcriptome altered (TCR signaling, migration, metabolism) early (7 dpi), and viral ressemble tumor. Epigenetics is also similar viral/tumor, and PD1, IFNg, TCF1 is epigenetically regulated. Metabolism disrupted : glucose uptake and mitochondrial mass.
 > Tpex is PD1+TCF1+TIM3- vs Ttex PD1+TCF1-TIM3+
 > TCF1 : Found in activated T cells. Repress Teff genes (BLIMP1, TBET) and enhance memory/exhaustion gnes (EOMES/BATF/NFATC1). Expression depend on FOXO1
-> TOX : Low and transient in activated, high in exhausted. Sufficient to induce exhausted phenotype including high PD1 expression and decrease in cytokine production, and deletion of TOX induce a KLRG1+ highly functionnal Teff phenotype with low CKI.
+> TOX : Low and transient in activated, high in exhausted. Sufficient to induce exhausted phenotype including high PD1 expression and decrease in cytokine production, and deletion of TOX induce a KLRG1+ highly functionnal Teff phenotype with low ICP.
 > What induce exhaustion : Removing IL10 lead to less exhausted T cells. Removing IL35 lead to more tumor control without direct effects on Tex. High IL2 promote exhaustion in tumors. IL6 induce LAG3 expression. IL27 induce TIM3, PD-L1, LAG3 and TIGIT and IL10 secretion by other cell type. T cells under hypoxia acquire more easily a Tex phenotype through altered metabolism.
 > There is exhaustion in CAR T cells
 > %% end Notes %%

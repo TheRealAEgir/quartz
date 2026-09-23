@@ -11,7 +11,7 @@ citekey: Osborn_PLoSPathog_2019
 status: Read
 dateread: 2026-06-29
 articletype: Article
-used_in_redaction: No
+used_in_redaction: Yes
 ---
 ---
 ## Notes

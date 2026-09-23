@@ -13,10 +13,10 @@ used_in_redaction: No
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** :
+> %% begin Notes %%**Summary** : [[1.3 Dysfonction]]
 > 
->**Experiment** : 
->**Results** : 
+>**Experiment** : CD4-/- mouse infected with LCMV
+>**Results** : Fail to control infection. No CD8+ T cells antigen-specific IFNg+ capable of killing infected cell was found under theses conditions. However, there was tetramer+ T cells, suggesting that this was unresponsivness rather that depletion (but varied based on antigen specificity). Also found with antibody depleted CD4 mouse.
 >
 > %% end Notes %%
 

@@ -55,7 +55,7 @@ citekey: Bourdely_Immunity_2020
 status: Read
 dateread: 2026-06-01
 articletype: Article
-used_in_redaction: No
+used_in_redaction: Yes
 ---
 ---
 ## Notes

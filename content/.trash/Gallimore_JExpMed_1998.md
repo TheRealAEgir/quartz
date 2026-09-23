@@ -29,6 +29,8 @@ used_in_redaction: No
 
 > [!faq]- Article Informations
 > > [!Link]
+> >
+> >  [PDF](file://C:\Users\10053234\Documents\Thesis_bibliography\Zotero\storage\226U76PS\Gallimore%20et%20al.%20-%201998%20-%20Induction%20and%20exhaustion%20of%20lymphocytic%20choriomeningitis%20virus-specific%20cytotoxic%20T%20lymphocytes%20visu.pdf)
 > >.
 >
 > > [!Cite]
@@ -92,10 +94,6 @@ used_in_redaction: No
 > >
 > >
 
-> [!faq]- Zotero Highlights
-> %% begin annotations %%
-> > 
-> %% end annotations %%
 
 
-%% Import Date: 2026-07-28T10:39:25.177+02:00 %%
+%% Import Date: 2026-09-23T10:40:25.145+02:00 %%

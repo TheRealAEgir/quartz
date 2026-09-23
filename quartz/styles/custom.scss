@@ -6,14 +6,18 @@
    ============================================================ */
 
 .popover-inner {
+
   width: 600px;
   max-width: 90vw;
+  padding: 0.75rem;
 
   .custom-popover-title-row {
+
     display: flex;
     align-items: baseline;
     gap: 0.75rem;
     flex-wrap: wrap;
+
   }
 
   .custom-popover-title {
@@ -37,6 +41,7 @@
   .custom-popover-observations strong {
     font-weight: 600;
   }
+
 }
 
 // Make all text darkgray
