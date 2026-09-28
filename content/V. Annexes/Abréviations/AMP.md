@@ -1,3 +1,0 @@
-# AMP
-
-- Adénosine MonoPhosphate

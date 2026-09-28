@@ -1,6 +1,6 @@
 # T<sub>RM</sub>
 - Lymphocyte T résident mémoire
-- Les TRM sont une population de lymphocyte mémoire capables de résidence dans la plupart des tissus de l'organisme et qui ne recirculent peu ou pas.
+- Les TRM sont une population de lymphocytes mémoires capables de résidence dans la plupart des tissus de l'organisme et qui ne recirculent peu ou pas.
 - L'infiltration des tumeurs par des TRM est associée avec un pronostic favorable, ce qui rend ces cellules particulièrement intéressantes dans la rechercher contre le cancer.
 # T<sub>EM</sub>
  - Lymphocyte T effecteur mémoire
@@ -96,6 +96,9 @@
 # S1P
 - Sphingosine 1 Phosphate
 - La S1P est retrouvée dans la circulation sanguine et permet la recirculation des cellules exprimant ses récepteurs par chimiotaxie.
+# IFN
+- Interféron
+- Les interférons sont des molécules sécrétées ayant un rôle anti-viral. Il existe des IFN de type I (IFNa, IFNb) majoritairement sécrétés par les cellules dendritiques plasmacytoïdes (pDC), tandis que les IFN de type II sont sécrétés par les lymphocytes T CD4+ et CD8+.
 
 ---
 # LCMV

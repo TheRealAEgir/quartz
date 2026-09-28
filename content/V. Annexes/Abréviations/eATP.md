@@ -1,3 +1,0 @@
-# eATP
-
-- Adénosine TriPhosphate extracellulaire

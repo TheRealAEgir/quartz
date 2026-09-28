@@ -1,3 +1,0 @@
-# CD
-
-- Cluster of Differentiation

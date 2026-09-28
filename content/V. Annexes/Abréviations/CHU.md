@@ -1,3 +1,0 @@
-# CHU
-
-- Centre Hospitalier Universitaire

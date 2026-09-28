@@ -1,3 +1,0 @@
-# eADP
-
-- Adénosine DiPhosphate extracellulaire

@@ -1,3 +1,0 @@
-# eAMP
-
-- Adénosine MonoPhosphate extracellulaire

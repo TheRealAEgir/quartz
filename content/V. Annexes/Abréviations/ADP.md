@@ -1,3 +1,0 @@
-# ADP
-
-- Adénosine DiPhosphate
