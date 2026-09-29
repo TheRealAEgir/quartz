@@ -28,6 +28,13 @@ Th17 → T<sub>H17</sub>
 TH1 → T<sub>H1</sub>
 TH2 → T<sub>H2</sub>
 TH17 → T<sub>H17</sub>
+TEX → T<sub>ex</sub>
+Tex → T<sub>ex</sub>
+Ttex → T<sub>ex-term</sub>
+TTEX → T<sub>ex-term</sub>
+Tpex → T<sub>pex</sub>
+TPEX → T<sub>pex</sub>
+
 
 # Markers
 
