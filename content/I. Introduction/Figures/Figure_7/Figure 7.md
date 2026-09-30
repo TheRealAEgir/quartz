@@ -1,3 +1,3 @@
-### Figure 4 - Mise en place de l'épuisement dans les lymphocytes T
+### Figure 4 - Caractéristiques des populations de lymphocytes T épuisés
 ![Figure 7.svg](Figure%207.svg)
-*Schéma représentatif du mécanisme d'épuisement dans les lymphocytes T*
+*Schéma représentatif des caractéristiques des [[Tpex]] et des Ttex*

@@ -1,0 +1,2 @@
+# Figure 14 - Caractérisation phénotypique des lymphocytes T résidents mémoires
+![](I.%20Introduction/Figures/Figure_14/Figure%2014.svg)*Schéma représentatif du phénotype et des fonctions physiologiques des [[TRM]]

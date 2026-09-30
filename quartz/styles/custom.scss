@@ -57,6 +57,11 @@ article p {
   text-indent: 2em;
 }
 
+article p:has(> img) {
+  text-indent: 0;
+  text-align: center;
+}
+
 // arial ?
 body {
   font-family: Arial, sans-serif;
