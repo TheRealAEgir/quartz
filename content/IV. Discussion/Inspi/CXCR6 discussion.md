@@ -1,3 +1,11 @@
+
+Keywords used : [[CXCR6]] inhibition cancer
+
+
+
+
+
+
 La déplétion de [[CXCR6]] par [[KO]] affecte le nombre de [[TRM]] dans les tissus, et les cellules [[KO]] sont retrouvées en plus grand nombre dans le sang et les organes lymphoïdes secondaires [[Mathew_JExpMed_2026]]. Les cellules [[CXCR6]] co-localise avec [[CXCL16]] [[Mathew_JExpMed_2026]]. Le traitement avec des anti-CXCL16 affecte le nombre de cellules dans les tissus nasaux après une infection influenza [[Mathew_JExpMed_2026]].
 CXCR6 [[KO]] CAR-T cells are less efficient [[Srivastava_CancerCell_2021]].
 CXCR6+ CD8+ T cells are more numerous in tumor when mouse are treated with anti-CD40 [[Wang_JImmunotherCancer_2021a]].

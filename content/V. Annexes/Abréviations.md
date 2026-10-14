@@ -137,6 +137,9 @@
 # ChIP-seq
 - Chromatin Immunoprecipitation with highthroughput sequencing
 - La ChIP-seq est une technique permettant de savoir sur quelle séquence d'ADN une protéine peut se fixer. Elle consiste en l'isolation des complexes ADN-protéine par utilisation d'anticorps, puis par le séquençage des séquences d'ADN ainsi obtenues. Elle peut aussi être utilisée pour étudier la position de certaines marques épigénétique, par utilisation d'anticorps dirigés contre ces marques.
+# Tétramère
+- Les tétramères sont des molécules artificielles ayant pour but de vérifier la réactivité antigénique d'un lymphocyte.
+- Les tétramères sont composées de fluorochromes, de molécules de CMH et de peptides. Lorsqu'ils sont mis en contact avec des lymphocytes spécifiques du peptide utilisé, alors une liaison se forme et la cellule est détectable en cytométrie en flux (grâce au fluorochrome).
 # HIV
 - Human immunodeficiency viruses
 # HCV

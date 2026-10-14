@@ -5,7 +5,7 @@ Bienvenue sur la version numérique de cette thèse. Vous pouvez commencer la le
 ###### [[0. Préface|Introduction]]
 ###### [[Matériel et méthodes]]
 ###### [[Résultats]]
-###### [[Discussion]]
+###### [[1. Hétérogénéité]]
 
 
 ### Note sur l'utilisation du site

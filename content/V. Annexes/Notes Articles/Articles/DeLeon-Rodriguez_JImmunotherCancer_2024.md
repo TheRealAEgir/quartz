@@ -26,7 +26,7 @@ used_in_redaction: Yes
 
 > [!notes]
 > %% begin Notes %%**Summary** : [[2.5 TRM Cancer]] [[2.5 TRM Cancer]] [[2.4 Caractérisation TRM]]
-> [[Discussion]]
+> [[1. Hétérogénéité]]
 > 
 >**Experiment** : Study of T cells and cDC1 in cohort of melanoma treateed with ICB
 >**Results** : Less CD103+CD8+ T cells in samples with metastases or in healthy tissue. Enrichement of TCF1 expression in CD103+ T cells in patient without metastases, and of cDC1 infiltration. In IF, CD103+ TCF1+/- are TRM-like because of CD69, RUNX3, HOBIT and CD45RO expression.
