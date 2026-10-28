@@ -32,7 +32,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article described an auto-agressive CXCR6+PD1+ non-exhausted non-resident memory T cell population that cause liver damage in NASH mouse model. CXCR6 and PD1 expression depended on IL15 and FOXO1 downregulation. The hepatocyte killing was triggered by acetate exposure and ATP/NAD activation of P2RX7 but not TCR. Damage was caused by TNF and FAS. [[2. Hypothèses]]
+> %% begin Notes %%**Summary** : This article described an auto-agressive CXCR6+PD1+ non-exhausted non-resident memory T cell population that cause liver damage in NASH mouse model. CXCR6 and PD1 expression depended on IL15 and FOXO1 downregulation. The hepatocyte killing was triggered by acetate exposure and ATP/NAD activation of P2RX7 but not TCR. Damage was caused by TNF and FAS. [[2. Hypothèses TIL]]
 > 
 >**Experiment** : Mouse under CD-HFD to induce NASH.
 >**Results** : No NASH when there is no T cells. In NASH, T cells were CXCR6+(PD1+); exhausted, cytokine production and apoptosis, no proliferation. Not resident nor exhausted T cells. No BLIMP1, EOMES or TBET, but depended on the downregulated of FOXO1. FOXO1 inhibition/OE affect CXCR6 expression.

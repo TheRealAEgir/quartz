@@ -1,3 +1,3 @@
 # Figure 16 - Morphologie des lymphocytes T résidents mémoires dans l'épiderme de la peau
-![](Zaid_figure_1_AB.png)
-*Figure adaptée de Zaid* et al *2014 : observation par microscopie à fluorescence de la morphologie des lymphocytes T résidents mémoires dans l'épiderme de la peau*
+![](I.%20Introduction/Figures/Figure_16/Figure%2016.png)
+*Figure adaptée de Zaid *et al* *2014 (A) et de Park* et al *2018 (B)* : observation par microscopie à fluorescence de la morphologie des lymphocytes T résidents mémoires dans l'épiderme de la peau en condition d'homéostasie (A) ou après injection d'un antigène pour activer les cellules ou d'un peptide irrelevant en contrôle (B)

@@ -13,7 +13,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : Minor article that described a role for the miR-361-5p in regulating CXCR6 expression [[2. Hypothèses]]
+> %% begin Notes %%**Summary** : Minor article that described a role for the miR-361-5p in regulating CXCR6 expression [[2. Hypothèses TIL]]
 > 
 >**Experiment** : Measure of miR-361-5p in HCC and healthy adjacent tissue
 >**Results** : Down-regulation of this miR

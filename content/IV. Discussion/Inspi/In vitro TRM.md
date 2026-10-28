@@ -1,0 +1,1 @@
+[[Pallett_JExpMed_2017]] avec IL15 puis [[TGFb]]. 50ng est la meilleure concentration. L'activation [[TCR]], par anti-CD3 ou peptide peut remplacer l'IL15. L'IL33 marche aussi, mais moins efficace. Les cellules obtenues sont enrichies en [[CD69]], [[CD103]] et [[CXCR6]]. Ne marche pas dans l'autre sens

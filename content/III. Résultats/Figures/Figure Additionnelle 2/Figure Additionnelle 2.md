@@ -1,0 +1,3 @@
+# Figure Additionnelle 2 - Les populations de T<sub>RM</sub>-like ont une plasticité et peuvent se trans-différencier
+![](Figure%20Additionnelle%202.png)
+*Afin de vérifier si les populations de T<sub>RM</sub>-like étaient capables de trans-différenciation, des T<sub>RM</sub>-like ont été générés puis les populations ont été triées, puis soumises à différents modes d'activation. (A) Représentation schématique de l'expérience réalisée. (B) Proportion de chaque population de T<sub>RM</sub>-like obtenues à la fin de l'expérience, en fonction de la population triée à l'origine et du mode d'activation. Les résultats sont représentés sous la forme moyenne ± 95% de l'intervalle de confiance.*

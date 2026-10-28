@@ -18,7 +18,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : This article describe a dysfunctional CXCR6 T cell mechanism in chronic HBV liver infection. It seems to be mediated by interaction with LSEC cells which induce a PKA-cAMP signalling, inducing CREM expression and a reversible exhaustion-like state [[2. Hypothèses]]
+> %% begin Notes %%**Summary** : This article describe a dysfunctional CXCR6 T cell mechanism in chronic HBV liver infection. It seems to be mediated by interaction with LSEC cells which induce a PKA-cAMP signalling, inducing CREM expression and a reversible exhaustion-like state [[2. Hypothèses TIL]]
 > 
 >**Experiment** : Mouse model of HBV infection with OVA/GFP/Luc with chronic/acute infection based on different promoter regions.
 >**Results** : Infiltration of acute resolved liver with CXCR6+ CD69+GZMB+ CD8+ T cells capable of IFNg and TNFa secretion. In chronic infection, there is no GZMB expression, high expression of ICK and TOX, with no cytokine secretion. There is Hobit and Blimp1 expression only in acute.

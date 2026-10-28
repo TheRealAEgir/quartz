@@ -1,0 +1,4 @@
+# Figure Discussion 2 - Comportement des populations CXCR6<sup>+</sup>PD-1<sup>+</sup> et CXCR6<sup>-</sup>PD-1<sup>-</sup>
+![](Figure%20Discussion2.png)
+
+*(Gauche) Des T<sub>RM</sub>-like ont été générés, et l'expression des protéines indiquées a été mesurée en cytométrie en flux. La couleur correspond à la valeur médiane scalée (z-score), tandis que le nombre à l'intérieur de chaque case correspond à la valeur médiante (n = 8-16). (Droite) Des T<sub>RM</sub>-like CD8<sup>+</sup>CD69<sup>+</sup>CD103<sup>+</sup> ont été générés puis triés en fonction de l'expression de [[CXCR6]] et de [[PD-1]], et ont été analysés en bulk RNAseq. La valeur médiane après VST (Variance Stabilising Transformation) est représentée en échelle de couleur.*

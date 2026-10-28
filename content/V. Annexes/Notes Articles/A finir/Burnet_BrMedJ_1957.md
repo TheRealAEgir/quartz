@@ -74,6 +74,74 @@ used_in_redaction: Yes
 > [!faq]- Zotero Highlights
 > %% begin annotations %%
 > > 
+> ### Imported on 2026-10-16 11:48 am
+>
+> > #### Relevant / important
+>
+> > > [!quote|#ffd400] Highlight
+>
+> > TCGA analysis demonstrated significantly upregulated JPX expression and downregulated miR‐197 expression in patients with GC
+>>
+>
+>
+> >
+> > [Page 3](zotero://open-pdf/library/items/TXRUBDWV?page=3) [2026-10-16#11:39 am]
+>
+> > > [!quote|#ffd400] Highlight
+>
+> > The luciferase reporter gene assay further suggested that miR‐197 overexpression significantly decreased the relative luciferase activity of WT JPX, but did not obviously alter the relative luciferase activity of MUT JPX
+>>
+>
+>
+> >
+> > [Page 4](zotero://open-pdf/library/items/TXRUBDWV?page=4) [2026-10-16#11:40 am]
+>
+> > > [!quote|#ffd400] Highlight
+>
+> > JPX knockdown inhibited GC cell activity, migration and invasion by promoting miR‐197 expression.
+>>
+>
+>
+> >
+> > [Page 4](zotero://open-pdf/library/items/TXRUBDWV?page=4) [2026-10-16#11:42 am]
+>
+> > > [!quote|#ffd400] Highlight
+>
+> > According to the luciferase reporter gene assay, miR‐197 overexpression significantly inhibited the relative luciferase activity of WT CXCR6
+>>
+>
+>
+> >
+> > [Page 4](zotero://open-pdf/library/items/TXRUBDWV?page=4) [2026-10-16#11:44 am]
+>
+> > > [!quote|#ffd400] Highlight
+>
+> > The miR‐197 mimic group had higher miR‐197 expression and lower CXCR6 expression
+>>
+>
+>
+> >
+> > [Page 4](zotero://open-pdf/library/items/TXRUBDWV?page=4) [2026-10-16#11:44 am]
+>
+> > > [!quote|#ffd400] Highlight
+>
+> > miR‐197 overexpression decreased CXCR6 expression
+>>
+>
+>
+> >
+> > [Page 4](zotero://open-pdf/library/items/TXRUBDWV?page=4) [2026-10-16#11:44 am]
+>
+> > > [!quote|#ffd400] Highlight
+>
+> > The expression levels of CXCR6 and Beclin1 were significantly upregulated in NCL‐N87 cells transfected with pcDNA3.1/CXCR6 or pcDNA3.1/Beclin1 (Fig. 4A and B) Following miR‐197 mimic transfection, NCI‐N87 cells displayed markedly lower CXCR6 and Beclin1 expression levels.
+>>
+>
+>
+> >
+> > [Page 4](zotero://open-pdf/library/items/TXRUBDWV?page=4) [2026-10-16#11:44 am]
+>
+> > > 
 > %% end annotations %%
 
 

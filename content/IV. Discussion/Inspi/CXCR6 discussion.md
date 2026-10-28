@@ -1,28 +1,22 @@
 
 Keywords used : [[CXCR6]] inhibition cancer
 
+This article is the first to identify [[CXCL16]] as a new CXC chemokine, and also identified it's receptor and named it [[CXCR6]]. [[CXCL16]] is expressed as mRNA in spleen, [[LN]] and peyer's patches, and in [[NLT]] (lung, [[SI]] kidney, low expression in liver, no expression in brain). The protein expression is restricted to [[DC]] (enriched in CD11c+) and is increase after activation of [[DC]] (with LSP, anti-CD40, poly(I:C)). [[CXCL16]] has a transmembrane domain, and a intracytoplasmic domain with a potential tyrosine phosphorylase and SH2 protein interaction. It has two form in WB and seems to be heavily glycosylated. It attract activated CD8 T cells and to a lesser degree activated CD4 T cells, but not resting T cells, B cells, macrophages and neutrophils. The attraction trigger a calcium fulx and is sensitive to pertussis toxin. The receptor was identified and named [[CXCR6]], and was previously described as a co-receptor for [[HIV]] named Bonzo. [[Matloubian_NatImmunol_2000]]
 
+Après avoir mis au point des CAR-T cells ciblant ROR1 pour le traitement des NSCLC and TNBC, [[Srivastava_CancerCell_2021 1|Srivastava_CancerCell_2021 1]] observent une faible infiltration de ces cellules dans les tumeurs et ont attribué cette observation à une faible expression des chimiokines, notamment [[CXCL16]]. L'expression de [[CXCL16]] est augmentée sur les macrophages intra-tumoraux lorsque les souris son traitées par chimiothérapie (Oxaliplatine + Cyclophosphamide), les CAR-T cells sont recrutés dans les tumeurs de manière [[CXCR6]] dépendante (et les CAR-T cells [[KO]] pour [[CXCR6]] sont moins bien recrutés) [[V. Annexes/Notes Articles/Articles/Srivastava_CancerCell_2021|Srivastava_CancerCell_2021]].
 
-
-
+La délétion de [[CXCR6]] entraine une augmentation de la distance avec les cellules de la microglie [[CXCL16]] dans un modèle d'Alzheimer chez la souris [[Su_NatImmunol_2023]]. Lorsque [[CXCR6]] est absent, les cellules montrent plus de mortalité [[Su_NatImmunol_2023]].
 
 La déplétion de [[CXCR6]] par [[KO]] affecte le nombre de [[TRM]] dans les tissus, et les cellules [[KO]] sont retrouvées en plus grand nombre dans le sang et les organes lymphoïdes secondaires [[Mathew_JExpMed_2026]]. Les cellules [[CXCR6]] co-localise avec [[CXCL16]] [[Mathew_JExpMed_2026]]. Le traitement avec des anti-CXCL16 affecte le nombre de cellules dans les tissus nasaux après une infection influenza [[Mathew_JExpMed_2026]].
-CXCR6 [[KO]] CAR-T cells are less efficient [[Srivastava_CancerCell_2021]].
+CXCR6 [[KO]] CAR-T cells are less efficient [[Srivastava_CancerCell_2021 1]].
 CXCR6+ CD8+ T cells are more numerous in tumor when mouse are treated with anti-CD40 [[Wang_JImmunotherCancer_2021a]].
 CXCL16 expression is constant in tumor [[Wang_JImmunotherCancer_2021a]].
 Les LT CD8+ CXCR6+ sont plus efficace dans le contrôle tumoral et la sécrétion de cytokine dans un modèle de tumeur chez la souris. Les souris [[KO]] pour [[CXCR6]] de manière conditionnelle ont une survie plus faible que les souris WT [[Wang_JImmunotherCancer_2021a]].
 Dans un modèle de vaccination intranasale chez la souris, les lymphocytes T spécifiques des antigènes tumoraux ont un phénotype [[TRM]] et expriment [[CXCR6]]. Lorsqu'un co transfert [[CXCR6]] KO/WT est réalisé, la fraction [[KO]] est sous représenté parmi les lymphocytes T spécifiques d'antigènes, et ont un phénotype plutôt effecteur. Finalement, [[CXCR6]] pourrait être impliqué dans le recrutement des lymphocytes dans la tumeur; en effet, les souris [[KO]] pour [[CXCR6]] ont une perte partielle de l'efficacité du vaccin et présentent moins de lymphocytes dans la tumeur, sans impacter leur cytotoxicité. De plus, le vaccin induit une augmentation transitoire de l'expression de [[CXCL16]] [[Karaki_JImmunotherCancer_2021]].
 Le [[KO]] simultané de [[HOBIT]] et BLIMP1 limite la formation de [[TRM]] CD69+CD103+CXCR6+ dans les poumons après une infection IA [[Behr_FrontImmunol_2019]].
-## List of used references
-```dataview
-LIST
-FLATTEN file.outlinks AS outlink
-WHERE file.link = this.file.link AND contains(outlink.file.outlinks, this.file.link)
-GROUP BY outlink
-```
-## List of references still to be used
-```dataview
-LIST
-FROM ""
-WHERE contains(file.outlinks, this.file.link) AND !contains(this.file.outlinks, file.link)
-```
+
+Des [[TRM]] CD69+CD103+CXCR6+PD1+ IL2+ sont enrichis dans le foie de patients atteints d'infection chronique par HBV, où leur proportion corrèle positivement avec les titres viraux [[Pallett_JExpMed_2017]].
+
+CXCR6 survival
+CXCR6 expression associated with better survival in TCGA [[DiPilato_Cell_2021]]
+CXCR6 [[KO]] T cells have worsten tumor control [[DiPilato_Cell_2021]].

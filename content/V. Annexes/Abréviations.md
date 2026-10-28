@@ -1,10 +1,10 @@
 # T<sub>RM</sub>
 - Lymphocyte T résident mémoire
 - Les TRM sont une population de lymphocytes mémoires capables de résidence dans la plupart des tissus de l'organisme et qui ne recirculent peu ou pas.
-- L'infiltration des tumeurs par des TRM est associée avec un pronostic favorable, ce qui rend ces cellules particulièrement intéressantes dans la rechercher contre le cancer.
+- L'infiltration des tumeurs par des TRM est associée avec un pronostic favorable, ce qui rend ces cellules particulièrement intéressantes dans la recherche contre le cancer.
 # T<sub>EM</sub>
  - Lymphocyte T effecteur mémoire
- - Les TEM sont une population de lymphocyte mémoire capables de se différencier rapidement en cellule effectrice après activation.
+ - Les TEM sont une population de lymphocytes mémoires capables de se différencier rapidement en cellule effectrice après activation.
  - La plupart des TEM sont retrouvés sous forme circulante dans le sang et la lymphe, et qui ne peut pas rentrer dans les SLO. Les TEM prolifèrent peu après activation, et leur nombre est plutôt régulé par la différenciation de TCM vers les TEM.
 # T<sub>EMRA</sub>
  - Lymphocyte T effecteur mémoire réexprimant CD45RA
@@ -28,11 +28,11 @@
 - Lymphocyte T CIRCulant Mémoire
 # T<sub>reg</sub>
 - Lymphocyte T REGulateur
-# T<sub>ex</sub>
+# T<sub>EX</sub>
 - Lymphocyte T épuisé (*EXhausted T cell* en anglais)
-# T<sub>pex</sub>
+# T<sub>PEX</sub>
 - Lymphocyte T progéniteur épuisé (*Progenitor EXhausted T cell* en anglais)
-# T<sub>ex-term</sub>
+# T<sub>EX-TERM</sub>
 - Lymphocyte T épuisé de façon terminale (*Terminally EXhausted T cell* en anglais)
 # T<sub>mem</sub>
 - Lymphocyte T mémoire
@@ -144,6 +144,9 @@
 - Human immunodeficiency viruses
 # HCV
 - Hepatitis C Virus
+
+# Kaede
+- 
 
 ---
 

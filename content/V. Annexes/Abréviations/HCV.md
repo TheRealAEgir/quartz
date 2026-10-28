@@ -1,4 +1,3 @@
 # HCV
 
 - Hepatitis C Virus
----

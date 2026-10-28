@@ -31,7 +31,7 @@ used_in_redaction: Yes
 ## Notes
 
 > [!notes]
-> %% begin Notes %%**Summary** : Describe a mouse model of HFD induced NASH/HCC in mouse, in which there is an increase of infiltration by PD1+CD8+ resident T cells (that express CXCR6) which display high cytotoxic and exhaustion signature. Despiste expressing PD1, anti-PD1 treatment worsen the disease, while anti-CD8 or anti-TNF had beneficial effects and higher infiltration. [[2. Hypothèses]]
+> %% begin Notes %%**Summary** : Describe a mouse model of HFD induced NASH/HCC in mouse, in which there is an increase of infiltration by PD1+CD8+ resident T cells (that express CXCR6) which display high cytotoxic and exhaustion signature. Despiste expressing PD1, anti-PD1 treatment worsen the disease, while anti-CD8 or anti-TNF had beneficial effects and higher infiltration. [[2. Hypothèses TIL]]
 > 
 >**Experiment** : HFD mouse
 >**Results** : liver damage and accumulation of activated T cells. Correlation between PD-L1 expression and NASH severity. T cells had high PD1 expression, activation, TNF signaling, exhaustion and cytotoxicity markers.
