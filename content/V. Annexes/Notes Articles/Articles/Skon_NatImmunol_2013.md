@@ -20,7 +20,7 @@ tags:
   - P/CCR7
   - Q/KLF2
   - Q/S1PR1
-citekey: Skon_NatImmunol_2013
+citekey: skonTranscriptionalDownregulationS1pr12013
 status: Read
 dateread: 2026-03-24
 articletype: Article

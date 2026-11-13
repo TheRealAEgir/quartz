@@ -33,7 +33,7 @@ tags:
   - P/FABP4
   - P/FABP5
   - P/NR4A1
-citekey: Okla_JExpMed_2021
+citekey: oklaTissueresidentMemoryCells2021
 status: Read
 dateread: 2026-03-01
 articletype: Review

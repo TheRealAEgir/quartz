@@ -26,7 +26,7 @@ tags:
   - P/HLA-DR
   - P/CD38
   - P/KI67
-citekey: Luoma_Cell_2022a
+citekey: Luoma_Cell_2022
 status: Read
 dateread: 2026-06-24
 articletype: Article

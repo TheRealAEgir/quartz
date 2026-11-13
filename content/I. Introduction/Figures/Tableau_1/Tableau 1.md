@@ -1,4 +1,4 @@
-### Tableau 1 - Récapitulatif du phénotype des populations de Teff
+###### Tableau 1 - Récapitulatif du phénotype des populations de Teff
 <u>Note :</u>  Le phénotype des [[LLEC]] n'est valable que pendant la phase mémoire jusqu'à laquelle ils peuvent persister.
 
 | Population | [[CD127]] | [[KLRG1]] | CD27 | [[CD62L]]    | Observation                                                                                                                                                                                                          |

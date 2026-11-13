@@ -28,7 +28,7 @@ tags:
   - P/PSGL-1
   - P/CX3CR1
   - P/RUNX3
-citekey: Masopust_AnnuRevImmunol_2019
+citekey: masopustTissueResidentCellsOther2019
 status: Read
 dateread: 2026-03-01
 articletype: Review

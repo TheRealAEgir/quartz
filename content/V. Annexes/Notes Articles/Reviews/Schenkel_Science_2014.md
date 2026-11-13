@@ -11,7 +11,7 @@ tags:
   - P/BCL2
   - P/S1PR5
   - S/PI3K-AKT
-citekey: Schenkel_Science_2014
+citekey: schenkelResidentMemoryCD82014
 status: Read
 dateread: 2026-03-01
 articletype: Review

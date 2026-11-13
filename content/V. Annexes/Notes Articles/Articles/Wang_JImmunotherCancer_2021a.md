@@ -26,7 +26,7 @@ tags:
   - P/IL1A
   - P/IL23R
   - P/IL6ST
-citekey: Wang_JImmunotherCancer_2021a
+citekey: Wang_JImmunotherCancer_2021
 status: Read
 dateread: 2026-06-24
 articletype: Article

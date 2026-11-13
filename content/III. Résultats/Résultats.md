@@ -9,9 +9,11 @@ I. Résultats présentés dans l'article :
 [[4. Différences d'épuisement]]
 [[5. Différences de fonctionnalité]]
 [[6. Différences de spécificité]]
-[[7. Modulation de la différenciation]]
+[[7. Etude de la différenciation]]
 
 II. Figures additionnelles :
-[[8. Existence de précurseurs]]
-[[9. Trans-différenciation]]
-[[10. Impact des TRM-like CD4+]]
+[[9. Existence de précurseurs]]
+[[10. Trans-différenciation]]
+[[11. Impact des TRM-like CD4+]]
+
+III. Figures supplémentaires

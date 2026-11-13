@@ -45,7 +45,7 @@ tags:
   - P/CD11C
   - P/FABP3
   - P/CD127
-citekey: Yenyuwadee_SciAdv_2022
+citekey: yenyuwadeeEvolvingRoleTissueresident2022
 status: Read
 dateread: 2026-03-19
 articletype: Review

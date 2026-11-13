@@ -1,0 +1,3 @@
+###### Figure 2 : T<sub>RM</sub> can be *in vitro* recapitulated using [[IL-15]] and [[TGFb]] treatment on T<sub>CIRC</sub>
+![](III.%20Résultats/Figures/Figure%202/Figure%202.png)
+*T<sub>RM</sub> differentiation was conducted as described in methods. (A) Bulk RNAseq was performed on D0 and T<sub>RM</sub>-like sample. To test if the obtained T<sub>RM</sub>-like cells resembled in vitro T<sub>RM</sub>, GSEA analyses were computed using a T<sub>RM</sub> signature from [[Savas_NatMed_2018]] (B) Flow cytometry analyses comparing the expression of T<sub>RM</sub> associated markers on D0 and T<sub>RM</sub>-like cells*

@@ -21,7 +21,7 @@ tags:
   - P/AHR
   - Q/IL15
   - Q/TGFb
-citekey: Mackay_NatImmunol_2013
+citekey: mackayDevelopmentalPathwayCD103+CD82013
 status: Read
 dateread: 2026-03-25
 articletype: Article

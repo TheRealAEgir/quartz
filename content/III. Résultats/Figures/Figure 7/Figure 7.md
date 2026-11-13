@@ -1,0 +1,3 @@
+####### Figure 7 : TRM-like subtypes have distinct [[TCIRC]] precursors
+![](III.%20Résultats/Figures/Figure%207/Figure%207.png)
+*(A) Schematic representation of the experiment used for the following results. (B-C) Dot plot (B) and barplot (C) representation of the TRM-like subtypes proportion obtained under the “TRM-like” and “exhausted TRM-like” conditions. (D) UMAP representation of sc RNAseq data obtained with the same experiment design, colored by experiment condition (top) or CXCR6/PD1 [[TRM]] subtype annotation (bottom). Results are represented as median ± SEM, with displayed p value of a Wilcoxon test for the given pair.*

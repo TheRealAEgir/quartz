@@ -40,7 +40,7 @@ tags:
   - P/FABP4
   - P/FABP5
   - P/BCL2
-citekey: Chen_CellMolImmunol_2020
+citekey: chenTissueresidentMemoryCells2020
 status: Read
 dateread: 2026-03-27
 articletype: Review

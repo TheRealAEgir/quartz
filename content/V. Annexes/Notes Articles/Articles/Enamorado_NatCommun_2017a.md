@@ -3,7 +3,7 @@ cssclass: literature-note
 category: literaturenote
 title: Enhanced anti-tumour immunity requires the interplay between resident and circulating memory CD8+ T cells
 tags:
-citekey: Enamorado_NatCommun_2017a
+citekey: Enamorado_NatCommun_2017
 status: Read
 dateread: 2026-08-30
 articletype: Article

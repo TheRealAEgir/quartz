@@ -1,0 +1,3 @@
+###### Figure S 2 : CXCR6-PD1- TRM-like exhibit higher functionnality, cytotoxicity and activation
+![](III.%20Résultats/Figures/Figure%20Supplémentaire%202/Figure%20Supplémentaire%202.png)
+(A-C) T<sub>RM</sub>-like were differentiated from healthy donors blood T<sub>CIRC</sub> and submitted to activation to measure cytokine secretion (see methods) (A), cytotoxicity marker CD107a and Granzyme B expression (see methods) (B-C) and co-stimulatory receptor expression (D) using flow cytometry. Results are represented as median ± SEM, with displayed p value of a Wilcoxon test for the given CXCR6+PD1- vs CXCR6-PD1+ pair. See also figure 3

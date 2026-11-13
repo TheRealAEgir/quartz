@@ -17,7 +17,7 @@ tags:
   - P/BCL2
   - P/AHR
   - P/CCL5
-citekey: Mueller_NatRev_2016
+citekey: muellerTissueresidentMemoryCells2016a
 status: read
 dateread: 2026-03-01
 articletype: Review

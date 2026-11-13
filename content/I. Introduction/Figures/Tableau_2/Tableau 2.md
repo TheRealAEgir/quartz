@@ -1,4 +1,4 @@
-### Tableau 2 - Récapitulatif de l'effet protecteur des lymphocytes T résidents mémoires contre les infections
+###### Tableau 2 - Récapitulatif de l'effet protecteur des lymphocytes T résidents mémoires contre les infections
 
 | Article                            | Infection  | Organisme | Tissue                   | Observations                                                                                                                                      |
 | ---------------------------------- | ---------- | --------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |

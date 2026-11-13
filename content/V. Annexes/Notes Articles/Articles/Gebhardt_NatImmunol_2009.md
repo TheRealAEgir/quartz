@@ -7,7 +7,7 @@ tags:
   - P/CD62L
   - P/CD69
   - P/CD49a
-citekey: Gebhardt_NatImmunol_2009
+citekey: gebhardtMemoryCellsNonlymphoid2009
 status: Read
 dateread: 2026-03-24
 articletype: Article

@@ -5,6 +5,6 @@ Dans le contexte de cette thèse, ils ont aussi été utilisés pour permettre u
 [[CXCR6]]
 [[LCMV]]
 [[Mackay_NatImmunol_2013]]
-[[figure 1]]
+[[I. Introduction/Figures/Figure_1/Figure 1]]
 
 ![[Wikilinks.gif]]

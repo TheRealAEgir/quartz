@@ -13,7 +13,7 @@ tags:
   - P/CXCR6
   - P/RUNX3
   - P/NR4A1
-citekey: Park_TrendsImmunol_2019
+citekey: parkTissueResidentMemoryCells2019
 status: Read
 dateread: 2026-03-19
 articletype: Review

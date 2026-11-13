@@ -1,4 +1,4 @@
-### Tableau 1 - Récapitulatif de l'effet pronostic de l'infiltration des tumeurs par les TRM
+###### Tableau 1 - Récapitulatif de l'effet pronostic de l'infiltration des tumeurs par les TRM
 
 <u>Note :</u> La review écrite par [[Okla_JExpMed_2021]] contient un tableau similaire, mais qui n'a pas été utilisé pour la rédaction de celui-ci, ce qui le rend complémentaire.
 

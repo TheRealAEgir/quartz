@@ -30,7 +30,7 @@ tags:
   - P/CD43
   - P/CD27
   - P/CXCR3
-citekey: Liikanen_JClinInvest_2021
+citekey: Liikanen_JClinInvest_
 status: Read
 dateread: 2026-04-13
 articletype: Article
